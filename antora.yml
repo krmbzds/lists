@@ -1,5 +1,5 @@
 name: lists 
-title: Antora Quickstart  
+title: Lists
 version: ~
 start_page: ROOT:index.adoc 
 nav: 
