@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
 * https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/aldostools/webMAN-MOD[aldostools/webMAN-MOD] - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
@@ -28,12 +29,10 @@ Kerem Bozdas
 * https://github.com/citusdata/citus[citusdata/citus] - Distributed PostgreSQL as an extension
 * https://github.com/taviso/123elf[taviso/123elf] - A native port of Lotus 1-2-3 to Linux.
 * https://github.com/milisims/tree-sitter-org[milisims/tree-sitter-org] - Org grammar for tree-sitter
-* https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/manna-harbour/miryoku_qmk[manna-harbour/miryoku_qmk] - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 * https://github.com/mvp/uhubctl[mvp/uhubctl] - uhubctl - USB hub per-port power control
 * https://github.com/zrythm/zrythm[zrythm/zrythm] - a highly automated and intuitive digital audio workstation - official mirror
 * https://github.com/Chaotic-Entity/Dactyl-Manuform-6x6[Chaotic-Entity/Dactyl-Manuform-6x6] - Layout and files changed for the Dactyl Manuform 6x6 keyboard
-* https://github.com/AsahiLinux/linux[AsahiLinux/linux] - Linux kernel source tree
 * https://github.com/jarun/nnn[jarun/nnn] - n³ The unorthodox terminal file manager
 * https://github.com/eradman/entr[eradman/entr] - Run arbitrary commands when files change
 * https://github.com/obsproject/obs-studio[obsproject/obs-studio] - OBS Studio - Free and open source software for live streaming and screen recording
@@ -118,7 +117,7 @@ Kerem Bozdas
 
 * https://github.com/rktjmp/shenzhen-solitaire.nvim[rktjmp/shenzhen-solitaire.nvim] - Shenzhen I/O Solitaire, now in Neovim
 * https://github.com/bakpakin/Fennel[bakpakin/Fennel] - Lua Lisp Language
-* https://github.com/ggandor/leap.nvim[ggandor/leap.nvim] - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
+* https://github.com/ggandor/leap.nvim[ggandor/leap.nvim] - 🦘 Neovim's answer to the mouse
 
 == GDScript 
 
@@ -258,8 +257,12 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/tversteeg/registers.nvim[tversteeg/registers.nvim] - 📑 Neovim plugin to preview the contents of the registers
+* https://github.com/CKolkey/ts-node-action[CKolkey/ts-node-action] - Neovim Plugin for running functions on nodes.
+* https://github.com/EtiamNullam/deferred-clipboard.nvim[EtiamNullam/deferred-clipboard.nvim] - Keep clipboard in sync with Neovim without the peformance hit.
 * https://github.com/utilyre/barbecue.nvim[utilyre/barbecue.nvim] - A VS Code like winbar for Neovim
 * https://github.com/VonHeikemen/lsp-zero.nvim[VonHeikemen/lsp-zero.nvim] - A starting point to setup some lsp related features in neovim.
+* https://github.com/nvim-treesitter/nvim-treesitter-textobjects[nvim-treesitter/nvim-treesitter-textobjects] - 
 * https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - Standalone UI for nvim-lsp progress
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 * https://github.com/pwntester/octo.nvim[pwntester/octo.nvim] - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -450,6 +453,10 @@ Kerem Bozdas
 * https://github.com/volkansenturk/turkiye-iller-ilceler[volkansenturk/turkiye-iller-ilceler] - Türkiye - İller - İlçeler
 * https://github.com/kalaomer/kahire[kalaomer/kahire] - REST Framework for Laravel
 
+== Prolog 
+
+* https://github.com/SuperDisk/tar.pl[SuperDisk/tar.pl] - tar creator+extractor in ~100 lines of prolog
+
 == Pug 
 
 * https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
@@ -487,7 +494,7 @@ Kerem Bozdas
 * https://github.com/ludwig-ai/ludwig[ludwig-ai/ludwig] - Data-centric declarative deep learning framework
 * https://github.com/rsms/inter[rsms/inter] - The Inter font family
 * https://github.com/charlax/professional-programming[charlax/professional-programming] - A collection of learning resources for curious software engineers
-* https://github.com/ciscorn/ldoce5viewer[ciscorn/ldoce5viewer] - ⚠️ This software is no longer actively maintained --- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
+* https://github.com/ciscorn/ldoce5viewer[ciscorn/ldoce5viewer] - ⚠️ This software is no longer actively maintained -- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
 * https://github.com/yogurt-cultures/laktoz[yogurt-cultures/laktoz] - Web interface for kefir.
 * https://github.com/algorithmiaio/danku[algorithmiaio/danku] - Exchange ML models in a trustless manner!
 * https://github.com/SystemsApproach/book[SystemsApproach/book] - Computer Networks: A Systems Approach -- Textbook
@@ -520,6 +527,8 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/DragonRidersUnite/book[DragonRidersUnite/book] - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
+* https://github.com/ankane/polars-ruby[ankane/polars-ruby] - Blazingly fast DataFrames for Ruby
 * https://github.com/nejdetkadir/devise-api[nejdetkadir/devise-api] - The devise-api gem is a convenient way to add authentication to your Ruby on Rails application using the devise gem. It provides support for access tokens and refresh tokens, which allow you to authen
 * https://github.com/asciidoctor/asciidoctor-reducer[asciidoctor/asciidoctor-reducer] - :alembic: A tool to generate a single AsciiDoc document by expanding all the include directives reachable from the parent document.
 * https://github.com/jekyll/jekyll-compose[jekyll/jekyll-compose] - :memo: Streamline your writing in Jekyll with these commands.
@@ -649,6 +658,7 @@ Kerem Bozdas
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
 * https://github.com/phaazon/this-week-in-neovim.org[phaazon/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
 * https://github.com/niklaswimmer/aw-watcher-nvim[niklaswimmer/aw-watcher-nvim] - 
+* https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/tiffany352/rink-rs[tiffany352/rink-rs] - Unit conversion tool and library written in rust
 * https://github.com/qarmin/czkawka[qarmin/czkawka] - Multi functional app to find duplicates, empty folders, similar images etc.
 * https://github.com/orhun/gpg-tui[orhun/gpg-tui] - Manage your GnuPG keys with ease! 🔐
@@ -676,7 +686,6 @@ Kerem Bozdas
 
 == Scheme 
 
-* https://github.com/nvim-treesitter/nvim-treesitter-textobjects[nvim-treesitter/nvim-treesitter-textobjects] - 
 * https://github.com/nvim-treesitter/nvim-treesitter[nvim-treesitter/nvim-treesitter] - Nvim Treesitter configurations and abstraction layer
 * https://github.com/RRethy/nvim-treesitter-textsubjects[RRethy/nvim-treesitter-textsubjects] - Location and syntax aware text objects which *do what you mean*
 
