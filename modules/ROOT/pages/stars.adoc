@@ -515,6 +515,8 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
+* https://github.com/calebhearth/mentionable[calebhearth/mentionable] - 
 * https://github.com/DragonRidersUnite/book[DragonRidersUnite/book] - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
 * https://github.com/ankane/polars-ruby[ankane/polars-ruby] - Blazingly fast DataFrames for Ruby
 * https://github.com/nejdetkadir/devise-api[nejdetkadir/devise-api] - The devise-api gem is a convenient way to add authentication to your Ruby on Rails application using the devise gem. It provides support for access tokens and refresh tokens, which allow you to authen
