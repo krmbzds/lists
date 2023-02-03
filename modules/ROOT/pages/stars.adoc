@@ -284,7 +284,7 @@ Kerem Bozdas
 * https://github.com/olimorris/neotest-rspec[olimorris/neotest-rspec] - Neotest adapter for RSpec
 * https://github.com/jay-babu/mason-null-ls.nvim[jay-babu/mason-null-ls.nvim] - 
 * https://github.com/ggandor/leap-spooky.nvim[ggandor/leap-spooky.nvim] - 👻 Actions at a distance
-* https://github.com/sumneko/lua-language-server[sumneko/lua-language-server] - A language server that offers Lua language support - programmed in Lua
+* https://github.com/LuaLS/lua-language-server[LuaLS/lua-language-server] - A language server that offers Lua language support - programmed in Lua
 * https://github.com/folke/neodev.nvim[folke/neodev.nvim] - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 * https://github.com/mrbjarksen/neo-tree-diagnostics.nvim[mrbjarksen/neo-tree-diagnostics.nvim] - A diagnostics source for neo-tree.nvim
 * https://github.com/L3MON4D3/LuaSnip[L3MON4D3/LuaSnip] - Snippet Engine for Neovim written in Lua.
@@ -368,6 +368,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
 * https://github.com/github/gitignore[github/gitignore] - A collection of useful .gitignore templates
 * https://github.com/SterlingHooten/borg-backup-exclusions-macos[SterlingHooten/borg-backup-exclusions-macos] - Exclusion rules for Borg Backup catered to macOS
 * https://github.com/nanotee/nvim-lua-guide[nanotee/nvim-lua-guide] - A guide to using Lua in Neovim
@@ -515,6 +516,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
 * https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
 * https://github.com/calebhearth/mentionable[calebhearth/mentionable] - 
 * https://github.com/DragonRidersUnite/book[DragonRidersUnite/book] - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
@@ -642,6 +644,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/hubblo-org/scaphandre[hubblo-org/scaphandre] - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 * https://github.com/pop-os/gtk-extras[pop-os/gtk-extras] - Rust crate containing an assortment of extra, unofficial GTK patterns, widgets, and traits.
 * https://github.com/pop-os/systemd-boot-conf[pop-os/systemd-boot-conf] - Rust crate for managing the systemd-boot loader configuration.
 * https://github.com/pop-os/sysfs-class[pop-os/sysfs-class] - Rust library for viewing /sys/class in an object-oriented format
@@ -655,10 +658,10 @@ Kerem Bozdas
 * https://github.com/pop-os/popsicle[pop-os/popsicle] - Multiple USB File Flasher
 * https://github.com/pop-os/xdg-shell-wrapper[pop-os/xdg-shell-wrapper] - WIP xdg-shell wrapper
 * https://github.com/pop-os/xdg-desktop-portal-cosmic[pop-os/xdg-desktop-portal-cosmic] - 
-* https://github.com/pop-os/upower-dbus[pop-os/upower-dbus] - Get UPower info via dbus using the zbus crate
+* https://github.com/pop-os/upower-dbus[pop-os/upower-dbus] - Migrated to https://github.com/pop-os/dbus-settings-bindings
 * https://github.com/pop-os/dbus-settings-bindings[pop-os/dbus-settings-bindings] - Rust bindings for D-Bus settings interfaces
 * https://github.com/pop-os/cosmic-theme[pop-os/cosmic-theme] - WIP
-* https://github.com/pop-os/mpris2-zbus[pop-os/mpris2-zbus] - A zbus-based MPRIS2 wrapper for Rust
+* https://github.com/pop-os/mpris2-zbus[pop-os/mpris2-zbus] - Migrated to https://github.com/pop-os/dbus-settings-bindings
 * https://github.com/pop-os/launch-pad[pop-os/launch-pad] - Automatic process management library for Rust
 * https://github.com/pop-os/pop[pop-os/pop] - A project for managing all Pop!_OS sources
 * https://github.com/pop-os/distinst[pop-os/distinst] - Installer Backend
