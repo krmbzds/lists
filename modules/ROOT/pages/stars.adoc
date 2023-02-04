@@ -190,6 +190,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/automerge/automerge-rs[automerge/automerge-rs] - Rust implementation of automerge
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
