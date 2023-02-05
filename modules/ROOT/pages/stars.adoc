@@ -58,7 +58,7 @@ Kerem Bozdas
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
 * https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
-* https://github.com/rui314/mold[rui314/mold] - mold: A Modern Linker 🦠
+* https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
 * https://github.com/jfedor2/trackbowl-mk2[jfedor2/trackbowl-mk2] - The ball is the trackball
 * https://github.com/falkTX/Carla[falkTX/Carla] - Audio plugin host
 * https://github.com/coqui-ai/STT[coqui-ai/STT] - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
@@ -124,6 +124,7 @@ Kerem Bozdas
 
 == Go 
 
+* https://github.com/mikefarah/yq[mikefarah/yq] - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 * https://github.com/berty/berty[berty/berty] - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * https://github.com/safing/portmaster[safing/portmaster] - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find credentials all over the place
@@ -239,6 +240,7 @@ Kerem Bozdas
 
 == Jupyter Notebook 
 
+* https://github.com/alphacep/vosk-api[alphacep/vosk-api] - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * https://github.com/mdeff/fma[mdeff/fma] - FMA: A Dataset For Music Analysis
 * https://github.com/rasbt/python-machine-learning-book[rasbt/python-machine-learning-book] - The "Python Machine Learning (1st edition)"  book code repository and info resource
 * https://github.com/MuhammedHasan/restaurant-analyze[MuhammedHasan/restaurant-analyze] - 
@@ -455,6 +457,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/ideasman42/nerd-dictation[ideasman42/nerd-dictation] - Simple, hackable offline speech to text - using the VOSK-API.
 * https://github.com/dortania/OpenCore-Legacy-Patcher[dortania/OpenCore-Legacy-Patcher] - Experience macOS just like before
 * https://github.com/learnbyexample/TUI-apps[learnbyexample/TUI-apps] - Terminal User Interface (TUI) apps
 * https://github.com/TenderOwl/Frog[TenderOwl/Frog] - Extract text from any image, video, QR Code and etc.
@@ -645,6 +648,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/0x192/universal-android-debloater[0x192/universal-android-debloater] - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * https://github.com/hubblo-org/scaphandre[hubblo-org/scaphandre] - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 * https://github.com/pop-os/gtk-extras[pop-os/gtk-extras] - Rust crate containing an assortment of extra, unofficial GTK patterns, widgets, and traits.
 * https://github.com/pop-os/systemd-boot-conf[pop-os/systemd-boot-conf] - Rust crate for managing the systemd-boot loader configuration.
