@@ -173,6 +173,10 @@ Kerem Bozdas
 
 * https://github.com/yeun/open-color[yeun/open-color] - Color scheme for UI design.
 
+== Haskell 
+
+* https://github.com/b3nj5m1n/xdg-ninja[b3nj5m1n/xdg-ninja] - A shell script which checks your $HOME for unwanted files and directories.
+
 == HolyC 
 
 * https://github.com/tinkeros/TinkerOS[tinkeros/TinkerOS] - Home of TinkerOS a fork of TempleOS
@@ -181,6 +185,7 @@ Kerem Bozdas
 
 == Java 
 
+* https://github.com/queer/utt[queer/utt] - utt is the universal text transformer
 * https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition] - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * https://github.com/asciidoctor/asciidoctor-intellij-plugin[asciidoctor/asciidoctor-intellij-plugin] - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
 * https://github.com/isl-org/OpenBot[isl-org/OpenBot] - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
@@ -541,7 +546,7 @@ Kerem Bozdas
 * https://github.com/ruby-syntax-tree/prettier_print[ruby-syntax-tree/prettier_print] - A drop-in replacement for the prettyprint gem with more functionality
 * https://github.com/ruby-syntax-tree/syntax_tree-translator[ruby-syntax-tree/syntax_tree-translator] - Translate the Syntax Tree AST into other Ruby ASTs
 * https://github.com/ruby-syntax-tree/syntax_tree-rbs[ruby-syntax-tree/syntax_tree-rbs] - Syntax Tree support for RBS
-* https://github.com/ruby-syntax-tree/syntax_tree[ruby-syntax-tree/syntax_tree] - A fast Ruby parser and formatter
+* https://github.com/ruby-syntax-tree/syntax_tree[ruby-syntax-tree/syntax_tree] - Interact with the Ruby syntax tree
 * https://github.com/Shopify/ruby-style-guide[Shopify/ruby-style-guide] - Shopify’s Ruby Style Guide
 * https://github.com/rubocop/rubocop-performance[rubocop/rubocop-performance] - An extension of RuboCop focused on code performance checks.
 * https://github.com/Shopify/erb-lint[Shopify/erb-lint] - Lint your ERB or HTML files
@@ -648,6 +653,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/queer/boxxy[queer/boxxy] - boxxy puts bad Linux applications in a box with only their files.
 * https://github.com/pop-os/cosmic-text-editor[pop-os/cosmic-text-editor] - COSMIC Text Editor
 * https://github.com/0x192/universal-android-debloater[0x192/universal-android-debloater] - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * https://github.com/hubblo-org/scaphandre[hubblo-org/scaphandre] - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
