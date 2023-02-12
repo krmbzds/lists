@@ -208,6 +208,7 @@ Kerem Bozdas
 * https://github.com/ether/etherpad-lite[ether/etherpad-lite] - Etherpad: A modern really-real-time collaborative document editor.
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance system
 * https://github.com/overleaf/overleaf[overleaf/overleaf] - A web-based collaborative LaTeX editor
+* https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
 * https://github.com/advplyr/audiobookshelf[advplyr/audiobookshelf] - Self-hosted audiobook and podcast server
 * https://github.com/tree-sitter/tree-sitter-ruby[tree-sitter/tree-sitter-ruby] - Ruby grammar for tree-sitter
 * https://github.com/excid3/tailwindcss-stimulus-components[excid3/tailwindcss-stimulus-components] - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
@@ -455,10 +456,6 @@ Kerem Bozdas
 == Prolog 
 
 * https://github.com/SuperDisk/tar.pl[SuperDisk/tar.pl] - tar creator+extractor in ~100 lines of prolog
-
-== Pug 
-
-* https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
 
 == Python 
 
