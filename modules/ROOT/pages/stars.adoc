@@ -377,6 +377,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
 * https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
 * https://github.com/github/gitignore[github/gitignore] - A collection of useful .gitignore templates
 * https://github.com/SterlingHooten/borg-backup-exclusions-macos[SterlingHooten/borg-backup-exclusions-macos] - Exclusion rules for Borg Backup catered to macOS
