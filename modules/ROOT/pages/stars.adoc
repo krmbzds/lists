@@ -196,6 +196,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - Rust implementation of automerge
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
