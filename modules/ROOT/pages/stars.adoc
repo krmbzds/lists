@@ -164,7 +164,6 @@ Kerem Bozdas
 * https://github.com/robinsloan/perfect-edition[robinsloan/perfect-edition] - A lightweight, responsive web e-book template
 * https://github.com/asciidoctor/asciidoctor-reveal.js[asciidoctor/asciidoctor-reveal.js] - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 * https://github.com/littleblah/senior-engineer-checklist[littleblah/senior-engineer-checklist] - Senior Engineer CheckList
-* https://github.com/endoflife-date/endoflife.date[endoflife-date/endoflife.date] - Informative site with EoL dates of everything
 * https://github.com/sarabander/sicp[sarabander/sicp] - HTML5/EPUB3 version of SICP
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
 * https://github.com/leemunroe/responsive-html-email-template[leemunroe/responsive-html-email-template] - A free simple responsive HTML email template
@@ -259,6 +258,7 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/otavioschwanck/ruby-toolkit.nvim[otavioschwanck/ruby-toolkit.nvim] - Ruby tools for neovim
 * https://github.com/tversteeg/registers.nvim[tversteeg/registers.nvim] - 📑 Neovim plugin to preview the contents of the registers
 * https://github.com/CKolkey/ts-node-action[CKolkey/ts-node-action] - Neovim Plugin for running functions on nodes.
 * https://github.com/EtiamNullam/deferred-clipboard.nvim[EtiamNullam/deferred-clipboard.nvim] - Keep clipboard in sync with Neovim without the peformance hit.
@@ -523,6 +523,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
 * https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
 * https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
 * https://github.com/calebhearth/mentionable[calebhearth/mentionable] - 
@@ -618,6 +619,7 @@ Kerem Bozdas
 * https://github.com/ViewComponent/view_component[ViewComponent/view_component] - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 * https://github.com/sbagdat/turkish_support[sbagdat/turkish_support] - Turkish character support for core ruby methods.
 * https://github.com/Shopify/measured[Shopify/measured] - Encapsulate measurements and their units in Ruby.
+* https://github.com/endoflife-date/endoflife.date[endoflife-date/endoflife.date] - Informative site with EoL dates of everything
 * https://github.com/ruby-concurrency/concurrent-ruby[ruby-concurrency/concurrent-ruby] - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 * https://github.com/countries/countries[countries/countries] - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (
 * https://github.com/varvet/pundit[varvet/pundit] - Minimal authorization through OO design and pure Ruby classes
