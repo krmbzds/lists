@@ -204,7 +204,6 @@ Kerem Bozdas
 * https://github.com/Rezmason/matrix[Rezmason/matrix] - matrix (web-based green code rain, made with love)
 * https://github.com/movim/movim[movim/movim] - Movim - Decentralized social platform
 * https://github.com/documize/community[documize/community] - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-* https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 * https://github.com/ether/etherpad-lite[ether/etherpad-lite] - Etherpad: A modern really-real-time collaborative document editor.
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance system
 * https://github.com/overleaf/overleaf[overleaf/overleaf] - A web-based collaborative LaTeX editor
@@ -780,6 +779,7 @@ Kerem Bozdas
 * https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Google-searchable Slack alternative for Communities
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
+* https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 * https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and splitting for groups :money_with_wings:
 * https://github.com/standardnotes/app[standardnotes/app] - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
