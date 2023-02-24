@@ -195,6 +195,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - Rust implementation of automerge
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
