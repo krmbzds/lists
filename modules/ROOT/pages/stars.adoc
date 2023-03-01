@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
 * https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
@@ -195,6 +196,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - Rust implementation of automerge
