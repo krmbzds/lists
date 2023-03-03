@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/vmonaco/kloak[vmonaco/kloak] - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 * https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -463,6 +464,8 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
+* https://github.com/m-bain/whisperX[m-bain/whisperX] - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 * https://github.com/ideasman42/nerd-dictation[ideasman42/nerd-dictation] - Simple, hackable offline speech to text - using the VOSK-API.
 * https://github.com/dortania/OpenCore-Legacy-Patcher[dortania/OpenCore-Legacy-Patcher] - Experience macOS just like before
 * https://github.com/learnbyexample/TUI-apps[learnbyexample/TUI-apps] - Terminal User Interface (TUI) apps
@@ -526,6 +529,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/mrsked/mrsk[mrsked/mrsk] - Deploy web apps anywhere.
 * https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
 * https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
 * https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
@@ -656,6 +660,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/stalwartlabs/smtp-server[stalwartlabs/smtp-server] - Stalwart SMTP Server
 * https://github.com/cognitive-engineering-lab/aquascope[cognitive-engineering-lab/aquascope] - Interactive visualizations of Rust at compile-time and run-time
 * https://github.com/queer/boxxy[queer/boxxy] - boxxy puts bad Linux applications in a box with only their files.
 * https://github.com/pop-os/cosmic-text-editor[pop-os/cosmic-text-editor] - COSMIC Text Editor
