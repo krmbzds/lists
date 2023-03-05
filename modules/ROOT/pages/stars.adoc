@@ -485,7 +485,7 @@ Kerem Bozdas
 * https://github.com/internetarchive/openlibrary[internetarchive/openlibrary] - One webpage for every book ever published!
 * https://github.com/mvt-project/mvt[mvt-project/mvt] - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 * https://github.com/simple-login/app[simple-login/app] - The SimpleLogin back-end
-* https://github.com/evilsocket/opensnitch[evilsocket/opensnitch] - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+* https://github.com/evilsocket/opensnitch[evilsocket/opensnitch] - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 * https://github.com/donnemartin/system-design-primer[donnemartin/system-design-primer] - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * https://github.com/podstream/openfaas-templates[podstream/openfaas-templates] - Podstream OpenFaaS template store
 * https://github.com/pyannote/pyannote-audio[pyannote/pyannote-audio] - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
