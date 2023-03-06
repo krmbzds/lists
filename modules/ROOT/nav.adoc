@@ -1,2 +1,3 @@
 * xref:index.adoc[Index]
 * xref:stars.adoc[Stars]
+* xref:music.adoc[Music]

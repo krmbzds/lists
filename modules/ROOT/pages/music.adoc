@@ -1,0 +1,44 @@
+= Music
+Kerem Bozdas
+:idprefix:
+:idseparator: -
+:page-pagination:
+:description: Sharing the music I have discovered
+
+Random music discoveries.
+
+== Khruangbin (2023-03-06)
+
+=== NPR Music Tiny Desk Concert
+video::vWLJeqLPfSU[youtube,width=640,height=480]
+
+.Hilarious comments on the drummer's impeccable timing
+[%collapsible]
+====
+* The drummer tells the sun exactly when to rise every morning.
+* The legend says that just after giving birth to the drummer his mother asked him what time it was.
+* The reason why everything is so perfectly synced is because the drummer is a high level telepath controlling the guitarist and bass player who are just vessels for his will.
+* Time is second-guessing itself when listening to this drummer's impeccable timing.
+* I heard this drummer got lost in the wilderness with no phone or watch and when they found him 3 years later he knew what second it was.
+* I came back three years later and the drummer is still on time!
+* Drummer's so on point he cured my arrhythmia.
+* There are three certainties in life. Death, taxes, and the drummer not missing a beat.
+* This drummer has never been in the wrong place at the wrong time.
+* That drummer does not keep time. He is time.
+* https://youtu.be/vWLJeqLPfSU?t=337[5:29] drummer clicks twice to signal upcoming bridge so everyone stays on time.
+* The drummer kept time so well that we as a society realized we no longer need daylight savings.
+* Fun fact: The drummer is the creator, publisher, chief writer, columnist, editor, regional manager, and head of distribution of Time Magazine.
+* Drummer adjusts half a beat after every 5 millionth beat to compensate for earth's equinox tilt.
+* The drummer is the type of guy who pays his bills on time.
+====
+
+=== Khruangbin @ Villain | Pitchfork Live
+
+video::q4xKvHANqjk[youtube,width=640,height=480]
+
+=== Donald "DJ" Johnson Interviews
+
+* https://www.drumeo.com/beat/donald-dj-johnson-interview-drumeo-gab-podcast-199/[Donald "DJ" Johnson: Metronome Madness!]
+* https://www.podcastone.com/episode/Episode-2-Khruangbins-DJ-Johnson-Evans-UV-Series-Drumheads-and-More[The Modern Drummer Podcast Episode 2: Khruangbin's DJ Johnson, Evans UV Series Drumheads, and More]
+* https://web.archive.org/web/20200725065553/https://www.moderndrummer.com/article/khruangbins-dj-johnson/[Modern Drummer features Khruangbin’s DJ Johnson]
+
