@@ -5,4 +5,6 @@ Kerem Bozdas
 :page-pagination:
 :description: {page-component-title} Index
 
-And some list content.
+.Here's the list of lists:
+* xref:stars.adoc[Stars]
+* xref:music.adoc[Music]
