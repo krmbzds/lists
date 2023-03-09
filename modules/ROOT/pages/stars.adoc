@@ -197,6 +197,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
 * https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
@@ -529,6 +530,9 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/bkuhlmann/runcom[bkuhlmann/runcom] - An XDG enhanced run command manager for command line interfaces.
+* https://github.com/bkuhlmann/xdg[bkuhlmann/xdg] - Provides an implementation of the XDG Base Directory Specification.
+* https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
 * https://github.com/mrsked/mrsk[mrsked/mrsk] - Deploy web apps anywhere.
 * https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
 * https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
@@ -780,6 +784,7 @@ Kerem Bozdas
 
 == TypeScript 
 
+* https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * https://github.com/learn-anything/learn-anything[learn-anything/learn-anything] - Organize world's knowledge, explore connections and curate learning paths
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
