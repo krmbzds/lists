@@ -200,8 +200,8 @@ Kerem Bozdas
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
 * https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
-* https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
-* https://github.com/automerge/automerge[automerge/automerge] - Rust implementation of automerge
+* https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven First Mile Data Onboarding Platform:Free flatfile.com alternative
+* https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
