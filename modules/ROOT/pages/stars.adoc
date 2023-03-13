@@ -148,7 +148,6 @@ Kerem Bozdas
 * https://github.com/MichaelMure/git-bug[MichaelMure/git-bug] - Distributed, offline-first bug tracker embedded in git, with bridges
 * https://github.com/photoprism/photoprism[photoprism/photoprism] - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * https://github.com/boringproxy/boringproxy[boringproxy/boringproxy] - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
-* https://github.com/akhenakh/kvtiles[akhenakh/kvtiles] - Self hosted maps, MBTiles key value storage and server
 * https://github.com/rudderlabs/rudder-server[rudderlabs/rudder-server] - Privacy and Security focused Segment-alternative, in Golang and React
 * https://github.com/jesseduffield/lazydocker[jesseduffield/lazydocker] - The lazier way to manage everything docker
 * https://github.com/junegunn/fzf[junegunn/fzf] - :cherry_blossom: A command-line fuzzy finder
@@ -158,6 +157,7 @@ Kerem Bozdas
 
 == HTML 
 
+* https://github.com/nicoburns/blessed-rs[nicoburns/blessed-rs] - A community guide to the Rust ecosystem
 * https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 * https://github.com/excid3/railshackathon.com[excid3/railshackathon.com] - The RailsHackathon.com website
 * https://github.com/judge0/judge0[judge0/judge0] - 🔥 The most advanced open-source online code execution system in the world.
@@ -181,7 +181,7 @@ Kerem Bozdas
 == HolyC 
 
 * https://github.com/tinkeros/TinkerOS[tinkeros/TinkerOS] - Home of TinkerOS a fork of TempleOS
-* https://github.com/Zeal-Operating-System/ZealOS[Zeal-Operating-System/ZealOS] - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
+* https://github.com/Zeal-Operating-System/ZealOS[Zeal-Operating-System/ZealOS] - The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.
 * https://github.com/cia-foundation/TempleOS[cia-foundation/TempleOS] - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
 
 == Java 
@@ -200,7 +200,7 @@ Kerem Bozdas
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
 * https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
-* https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven First Mile Data Onboarding Platform:Free flatfile.com alternative
+* https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
@@ -224,6 +224,7 @@ Kerem Bozdas
 * https://github.com/teddit-net/teddit[teddit-net/teddit] - alternative Reddit front-end focused on privacy https://teddit.net
 * https://github.com/NginxProxyManager/nginx-proxy-manager[NginxProxyManager/nginx-proxy-manager] - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * https://github.com/grocy/grocy[grocy/grocy] - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+* https://github.com/akhenakh/kvtiles[akhenakh/kvtiles] - Self hosted maps, MBTiles key value storage and server
 * https://github.com/Nickardson/shenzhen-solitaire[Nickardson/shenzhen-solitaire] - 
 * https://github.com/ds300/jetzt[ds300/jetzt] - Speed reader extension for chrome
 * https://github.com/Kong/insomnia[Kong/insomnia] - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -664,6 +665,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/pop-os/client-toolkit[pop-os/client-toolkit] - Smithay's toolkit for writing wayland clients
 * https://github.com/stalwartlabs/smtp-server[stalwartlabs/smtp-server] - Stalwart SMTP Server
 * https://github.com/cognitive-engineering-lab/aquascope[cognitive-engineering-lab/aquascope] - Interactive visualizations of Rust at compile-time and run-time
 * https://github.com/queer/boxxy[queer/boxxy] - boxxy puts bad Linux applications in a box with only their files.
