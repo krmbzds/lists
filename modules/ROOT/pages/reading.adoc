@@ -1,0 +1,12 @@
+= Reading
+Kerem Bozdas
+:idprefix:
+:idseparator: -
+:page-pagination:
+:description: Sharing interesting reads.
+
+== Blog Posts
+
+* https://michaelochurch.wordpress.com/2023/01/08/ai-will-kill-literature-and-ai-will-resurrect-it/[Michael O. Church - AI Will Kill Literature, and AI Will Resurrect It]
+
+

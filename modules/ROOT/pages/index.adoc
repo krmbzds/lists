@@ -8,3 +8,5 @@ Kerem Bozdas
 .Here's the list of lists:
 * xref:stars.adoc[Stars]
 * xref:music.adoc[Music]
+* xref:reading.adoc[Reading]
+
