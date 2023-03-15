@@ -20,6 +20,8 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/oggy/looksee[oggy/looksee] - Supercharged method introspection in IRB
+* https://github.com/ventoy/Ventoy[ventoy/Ventoy] - A new bootable USB solution.
 * https://github.com/vmonaco/kloak[vmonaco/kloak] - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 * https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
@@ -531,7 +533,7 @@ Kerem Bozdas
 
 == Ruby 
 
-* https://github.com/jasonfb/hot-glue[jasonfb/hot-glue] - Rapid scaffold builder for Turbo-Rails and Hotwire
+* https://github.com/hot-glue-for-rails/hot-glue[hot-glue-for-rails/hot-glue] - Rapid scaffold builder for Turbo-Rails and Hotwire
 * https://github.com/bkuhlmann/runcom[bkuhlmann/runcom] - An XDG enhanced run command manager for command line interfaces.
 * https://github.com/bkuhlmann/xdg[bkuhlmann/xdg] - Provides an implementation of the XDG Base Directory Specification.
 * https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
@@ -611,7 +613,7 @@ Kerem Bozdas
 * https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts[ankane/the-ultimate-guide-to-ruby-timeouts] - Timeouts for popular Ruby gems
 * https://github.com/feedjira/feedjira[feedjira/feedjira] - A feed parsing library
 * https://github.com/tmuxinator/tmuxinator[tmuxinator/tmuxinator] - Manage complex tmux sessions easily
-* https://github.com/ruby/ruby[ruby/ruby] - The Ruby Programming Language [mirror]
+* https://github.com/ruby/ruby[ruby/ruby] - The Ruby Programming Language
 * https://github.com/sarslanoglu/turkish_cities[sarslanoglu/turkish_cities] - List and find Turkish cities via name, district name, post code, plate number etc.
 * https://github.com/Shopify/deprecation_toolkit[Shopify/deprecation_toolkit] - ⚒Eliminate deprecations from your codebase ⚒
 * https://github.com/mtoygar/sidekiq-crypt[mtoygar/sidekiq-crypt] - an attempt to encrypt sensitive job attributes on redis(an alternative to Sidekiq::Enterprise::Crypto)
