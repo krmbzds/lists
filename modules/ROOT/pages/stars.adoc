@@ -120,7 +120,7 @@ Kerem Bozdas
 
 * https://github.com/rktjmp/shenzhen-solitaire.nvim[rktjmp/shenzhen-solitaire.nvim] - Shenzhen I/O Solitaire, now in Neovim
 * https://github.com/bakpakin/Fennel[bakpakin/Fennel] - Lua Lisp Language
-* https://github.com/ggandor/leap.nvim[ggandor/leap.nvim] - 🦘 Neovim's answer to the mouse
+* https://github.com/ggandor/leap.nvim[ggandor/leap.nvim] - Neovim's answer to the mouse 🦘
 
 == GDScript 
 
@@ -468,6 +468,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source GitHub Copilot server
 * https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
 * https://github.com/m-bain/whisperX[m-bain/whisperX] - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 * https://github.com/ideasman42/nerd-dictation[ideasman42/nerd-dictation] - Simple, hackable offline speech to text - using the VOSK-API.
