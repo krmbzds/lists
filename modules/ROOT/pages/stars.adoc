@@ -472,6 +472,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
 * https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
 * https://github.com/m-bain/whisperX[m-bain/whisperX] - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
@@ -484,7 +485,7 @@ Kerem Bozdas
 * https://github.com/borgmatic-collective/borgmatic[borgmatic-collective/borgmatic] - Simple, configuration-driven backup software for servers and workstations
 * https://github.com/Kozea/Radicale[Kozea/Radicale] - A simple CalDAV (calendar) and CardDAV (contact) server.
 * https://github.com/paperless-ngx/paperless-ngx[paperless-ngx/paperless-ngx] - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-* https://github.com/dgtlmoon/changedetection.io[dgtlmoon/changedetection.io] - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+* https://github.com/dgtlmoon/changedetection.io[dgtlmoon/changedetection.io] - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 * https://github.com/sissbruecker/linkding[sissbruecker/linkding] - Self-hosted bookmark service
 * https://github.com/binhtran432k/dotfiles[binhtran432k/dotfiles] - 
 * https://github.com/quenhus/uBlock-Origin-dev-filter[quenhus/uBlock-Origin-dev-filter] - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -673,6 +674,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
 * https://github.com/epilys/gerb[epilys/gerb] - Graphical font editor (GTK + Rust)
 * https://github.com/alexheretic/ab-av1[alexheretic/ab-av1] - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
 * https://github.com/pop-os/client-toolkit[pop-os/client-toolkit] - Smithay's toolkit for writing wayland clients
