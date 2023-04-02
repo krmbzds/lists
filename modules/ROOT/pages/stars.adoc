@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - Port of Facebook's LLaMA model in C/C++
 * https://github.com/abb128/april-asr[abb128/april-asr] - Speech-to-text library in C
 * https://github.com/oggy/looksee[oggy/looksee] - Supercharged method introspection in IRB
 * https://github.com/ventoy/Ventoy[ventoy/Ventoy] - A new bootable USB solution.
@@ -472,6 +473,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/google/vroom[google/vroom] - Launch vim tests
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
 * https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
@@ -800,7 +802,7 @@ Kerem Bozdas
 
 == TypeScript 
 
-* https://github.com/vixalien/sticky[vixalien/sticky] - A simple sticky notes app
+* https://github.com/vixalien/sticky[vixalien/sticky] - A simple sticky notes app for GNOME
 * https://github.com/fourTheorem/podwhisperer[fourTheorem/podwhisperer] - Pod transcription with OpenAI Whisper and AWS
 * https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
