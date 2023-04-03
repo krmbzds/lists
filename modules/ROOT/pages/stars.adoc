@@ -802,6 +802,7 @@ Kerem Bozdas
 
 == TypeScript 
 
+* https://github.com/hocus-dev/hocus[hocus-dev/hocus] - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 * https://github.com/vixalien/sticky[vixalien/sticky] - A simple sticky notes app for GNOME
 * https://github.com/fourTheorem/podwhisperer[fourTheorem/podwhisperer] - Pod transcription with OpenAI Whisper and AWS
 * https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
