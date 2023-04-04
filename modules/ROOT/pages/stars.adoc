@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
 * https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - Port of Facebook's LLaMA model in C/C++
 * https://github.com/abb128/april-asr[abb128/april-asr] - Speech-to-text library in C
 * https://github.com/oggy/looksee[oggy/looksee] - Supercharged method introspection in IRB
@@ -162,6 +163,7 @@ Kerem Bozdas
 
 == HTML 
 
+* https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 * https://github.com/system-fonts/modern-font-stacks[system-fonts/modern-font-stacks] - System font stack CSS organized by typeface classification for every modern operating system
 * https://github.com/nicoburns/blessed-rs[nicoburns/blessed-rs] - A community guide to the Rust ecosystem
 * https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
@@ -389,6 +391,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - An open-source AI guide.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
 * https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -473,6 +476,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/lm-sys/FastChat[lm-sys/FastChat] - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 * https://github.com/google/vroom[google/vroom] - Launch vim tests
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -676,6 +680,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 * https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
 * https://github.com/epilys/gerb[epilys/gerb] - Graphical font editor (GTK + Rust)
 * https://github.com/alexheretic/ab-av1[alexheretic/ab-av1] - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
