@@ -205,6 +205,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/neo4j-documentation/asciidoctor-jupyter[neo4j-documentation/asciidoctor-jupyter] - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
 * https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
@@ -391,7 +392,7 @@ Kerem Bozdas
 
 == Others 
 
-* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - An open-source AI guide.
+* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - An open-source guide for text generation.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
 * https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -476,9 +477,10 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/guillaumekln/faster-whisper[guillaumekln/faster-whisper] - Faster Whisper transcription with CTranslate2
 * https://github.com/lm-sys/FastChat[lm-sys/FastChat] - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 * https://github.com/google/vroom[google/vroom] - Launch vim tests
-* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
 * https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
 * https://github.com/m-bain/whisperX[m-bain/whisperX] - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
