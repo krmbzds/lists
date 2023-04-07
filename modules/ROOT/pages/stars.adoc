@@ -96,7 +96,6 @@ Kerem Bozdas
 
 == Dart 
 
-* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 
 == Dockerfile 
@@ -392,7 +391,7 @@ Kerem Bozdas
 
 == Others 
 
-* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - An open-source guide for text generation.
+* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
 * https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -477,6 +476,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/TabbyML/tabby[TabbyML/tabby] - Self-hosted AI coding assistant
 * https://github.com/guillaumekln/faster-whisper[guillaumekln/faster-whisper] - Faster Whisper transcription with CTranslate2
 * https://github.com/lm-sys/FastChat[lm-sys/FastChat] - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 * https://github.com/google/vroom[google/vroom] - Launch vim tests
@@ -682,6 +682,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 * https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 * https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
 * https://github.com/epilys/gerb[epilys/gerb] - Graphical font editor (GTK + Rust)
@@ -736,6 +737,7 @@ Kerem Bozdas
 * https://github.com/TBS1996/speki[TBS1996/speki] - flashcard app in your terminal
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
 * https://github.com/phaazon/this-week-in-neovim.org[phaazon/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
+* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * https://github.com/niklaswimmer/aw-watcher-nvim[niklaswimmer/aw-watcher-nvim] - 
 * https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/tiffany352/rink-rs[tiffany352/rink-rs] - Unit conversion tool and library written in rust
