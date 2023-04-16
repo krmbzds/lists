@@ -274,6 +274,7 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/krmbzds/dracula.nvim[krmbzds/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
 * https://github.com/bennypowers/nvim-regexplainer[bennypowers/nvim-regexplainer] - Describe the regexp under the cursor
 * https://github.com/ekickx/clipboard-image.nvim[ekickx/clipboard-image.nvim] - Neovim Lua plugin to paste image from clipboard.
@@ -357,7 +358,6 @@ Kerem Bozdas
 * https://github.com/simrat39/symbols-outline.nvim[simrat39/symbols-outline.nvim] - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 * https://github.com/neovim/nvim-lspconfig[neovim/nvim-lspconfig] - Quickstart configs for Nvim LSP
 * https://github.com/f-person/git-blame.nvim[f-person/git-blame.nvim] - Git Blame plugin for Neovim written in Lua
-* https://github.com/Mofiqul/dracula.nvim[Mofiqul/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/mfussenegger/nvim-dap[mfussenegger/nvim-dap] - Debug Adapter Protocol client implementation for Neovim
 * https://github.com/folke/which-key.nvim[folke/which-key.nvim] - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 * https://github.com/lewis6991/impatient.nvim[lewis6991/impatient.nvim] - Improve startup time for Neovim
@@ -555,6 +555,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
 * https://github.com/opal/opal[opal/opal] - Ruby ♥︎ JavaScript
 * https://github.com/pay-rails/pay[pay-rails/pay] - Payments for Ruby on Rails apps
