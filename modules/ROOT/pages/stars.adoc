@@ -274,6 +274,8 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
+* https://github.com/bennypowers/nvim-regexplainer[bennypowers/nvim-regexplainer] - Describe the regexp under the cursor
 * https://github.com/ekickx/clipboard-image.nvim[ekickx/clipboard-image.nvim] - Neovim Lua plugin to paste image from clipboard.
 * https://github.com/someone-stole-my-name/yaml-companion.nvim[someone-stole-my-name/yaml-companion.nvim] - Get, set and autodetect YAML schemas in your buffers.
 * https://github.com/neovim/nvimdev.nvim[neovim/nvimdev.nvim] - Neovim plugin for working on Neovim
@@ -592,7 +594,7 @@ Kerem Bozdas
 * https://github.com/ruby/shell[ruby/shell] - Shell implements an idiomatic Ruby interface for common UNIX shell commands
 * https://github.com/ruby/typeprof[ruby/typeprof] - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 * https://github.com/ruby/irb[ruby/irb] - interactive Ruby
-* https://github.com/testdouble/standard[testdouble/standard] - 🌟 Ruby Style Guide, with linter & automatic code fixer
+* https://github.com/standardrb/standard[standardrb/standard] - 🌟 Ruby Style Guide, with linter & automatic code fixer
 * https://github.com/gollum/gollum[gollum/gollum] - A simple, Git-powered wiki with a sweet API and local frontend.
 * https://github.com/zammad/zammad[zammad/zammad] - Zammad is a web based open source helpdesk/customer support system
 * https://github.com/opf/openproject[opf/openproject] - OpenProject is the leading open source project management software.
@@ -691,6 +693,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
 * https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 * https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 * https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
