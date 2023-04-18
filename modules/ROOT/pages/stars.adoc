@@ -398,6 +398,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
@@ -483,6 +484,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/lightaime/camel[lightaime/camel] - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 * https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps
