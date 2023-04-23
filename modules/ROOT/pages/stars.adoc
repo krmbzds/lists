@@ -204,6 +204,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/Leleat/Tiling-Assistant[Leleat/Tiling-Assistant] - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 * https://github.com/neo4j-documentation/asciidoctor-jupyter[neo4j-documentation/asciidoctor-jupyter] - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
@@ -557,6 +558,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
 * https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
 * https://github.com/opal/opal[opal/opal] - Ruby ♥︎ JavaScript
@@ -597,7 +599,7 @@ Kerem Bozdas
 * https://github.com/ruby/shell[ruby/shell] - Shell implements an idiomatic Ruby interface for common UNIX shell commands
 * https://github.com/ruby/typeprof[ruby/typeprof] - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 * https://github.com/ruby/irb[ruby/irb] - interactive Ruby
-* https://github.com/standardrb/standard[standardrb/standard] - 🌟 Ruby Style Guide, with linter & automatic code fixer
+* https://github.com/standardrb/standard[standardrb/standard] - Ruby's bikeshed-proof linter and formatter 🚲
 * https://github.com/gollum/gollum[gollum/gollum] - A simple, Git-powered wiki with a sweet API and local frontend.
 * https://github.com/zammad/zammad[zammad/zammad] - Zammad is a web based open source helpdesk/customer support system
 * https://github.com/opf/openproject[opf/openproject] - OpenProject is the leading open source project management software.
@@ -849,7 +851,7 @@ Kerem Bozdas
 * https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
 * https://github.com/hotwired/stimulus[hotwired/stimulus] - A modest JavaScript framework for the HTML you already have
 * https://github.com/alixaxel/chrome-aws-lambda[alixaxel/chrome-aws-lambda] - Chromium Binary for AWS Lambda and Google Cloud Functions
-* https://github.com/puppeteer/puppeteer[puppeteer/puppeteer] - Headless Chrome Node.js API
+* https://github.com/puppeteer/puppeteer[puppeteer/puppeteer] - Node.js API for Chrome
 * https://github.com/n8n-io/n8n[n8n-io/n8n] - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 * https://github.com/WuTheFWasThat/vimflowy[WuTheFWasThat/vimflowy] - An open source productivity tool drawing inspiration from workflowy and vim
 * https://github.com/torokmark/design_patterns_in_typescript[torokmark/design_patterns_in_typescript] - :triangular_ruler: Design pattern implementations in TypeScript
