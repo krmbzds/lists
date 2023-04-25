@@ -261,6 +261,7 @@ Kerem Bozdas
 
 == Jupyter Notebook 
 
+* https://github.com/dair-ai/Prompt-Engineering-Guide[dair-ai/Prompt-Engineering-Guide] - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 * https://github.com/facebookresearch/segment-anything[facebookresearch/segment-anything] - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * https://github.com/alphacep/vosk-api[alphacep/vosk-api] - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * https://github.com/pyannote/pyannote-audio[pyannote/pyannote-audio] - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -399,6 +400,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
