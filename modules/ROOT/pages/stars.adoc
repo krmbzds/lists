@@ -133,7 +133,7 @@ Kerem Bozdas
 * https://github.com/mikefarah/yq[mikefarah/yq] - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 * https://github.com/berty/berty[berty/berty] - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * https://github.com/safing/portmaster[safing/portmaster] - 🏔 Love Freedom - ❌ Block Mass Surveillance
-* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find credentials all over the place
+* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find and verify credentials
 * https://github.com/filebrowser/filebrowser[filebrowser/filebrowser] - 📂 Web File Browser
 * https://github.com/release-argus/Argus[release-argus/Argus] - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 * https://github.com/go-vikunja/api[go-vikunja/api] - Mirror of vikunja from https://code.vikunja.io/api
@@ -208,7 +208,7 @@ Kerem Bozdas
 * https://github.com/neo4j-documentation/asciidoctor-jupyter[neo4j-documentation/asciidoctor-jupyter] - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
-* https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
+* https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A UI development environment for Ruby on Rails apps ✨
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -560,6 +560,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP extension for Rails
 * https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
 * https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
@@ -700,6 +701,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/rustformers/llama-rs[rustformers/llama-rs] - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 * https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
 * https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 * https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
@@ -830,6 +832,7 @@ Kerem Bozdas
 
 == TypeScript 
 
+* https://github.com/iconoir-icons/iconoir[iconoir-icons/iconoir] - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 * https://github.com/hocus-dev/hocus[hocus-dev/hocus] - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 * https://github.com/vixalien/sticky[vixalien/sticky] - A simple sticky notes app for GNOME
 * https://github.com/fourTheorem/podwhisperer[fourTheorem/podwhisperer] - Pod transcription with OpenAI Whisper and AWS
