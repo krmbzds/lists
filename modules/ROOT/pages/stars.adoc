@@ -20,6 +20,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/libimobiledevice/libimobiledevice[libimobiledevice/libimobiledevice] - A cross-platform protocol library to communicate with iOS devices
 * https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
 * https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - Port of Facebook's LLaMA model in C/C++
 * https://github.com/abb128/april-asr[abb128/april-asr] - Speech-to-text library in C
@@ -759,7 +760,7 @@ Kerem Bozdas
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
 * https://github.com/phaazon/this-week-in-neovim.org[phaazon/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-* https://github.com/niklaswimmer/aw-watcher-nvim[niklaswimmer/aw-watcher-nvim] - 
+* https://github.com/niklaswimmer/aw-watcher.nvim[niklaswimmer/aw-watcher.nvim] - 
 * https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/tiffany352/rink-rs[tiffany352/rink-rs] - Unit conversion tool and library written in rust
 * https://github.com/qarmin/czkawka[qarmin/czkawka] - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -842,7 +843,7 @@ Kerem Bozdas
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
-* https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Google-searchable Slack alternative for Communities
+* https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Lightweight Google-searchable Slack alternative for Communities
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
