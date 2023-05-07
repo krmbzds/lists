@@ -197,7 +197,6 @@ Kerem Bozdas
 * https://github.com/queer/utt[queer/utt] - utt is the universal text transformer
 * https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition] - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * https://github.com/asciidoctor/asciidoctor-intellij-plugin[asciidoctor/asciidoctor-intellij-plugin] - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
-* https://github.com/isl-org/OpenBot[isl-org/OpenBot] - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 * https://github.com/slm/WebViewNativeBridge[slm/WebViewNativeBridge] - WebView bridge for android
 * https://github.com/nayuki/Reference-Huffman-coding[nayuki/Reference-Huffman-coding] - Clear implementation of Huffman coding for educational purposes in Java, Python, C++.
 * https://github.com/microg/UnifiedNlp[microg/UnifiedNlp] - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
@@ -205,6 +204,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/ggrossetie/asciidoctor-geist[ggrossetie/asciidoctor-geist] - Asciidoctor.js converter based on Geist UI
 * https://github.com/Leleat/Tiling-Assistant[Leleat/Tiling-Assistant] - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 * https://github.com/neo4j-documentation/asciidoctor-jupyter[neo4j-documentation/asciidoctor-jupyter] - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
@@ -361,6 +361,7 @@ Kerem Bozdas
 * https://github.com/simrat39/symbols-outline.nvim[simrat39/symbols-outline.nvim] - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 * https://github.com/neovim/nvim-lspconfig[neovim/nvim-lspconfig] - Quickstart configs for Nvim LSP
 * https://github.com/f-person/git-blame.nvim[f-person/git-blame.nvim] - Git Blame plugin for Neovim written in Lua
+* https://github.com/rafamadriz/friendly-snippets[rafamadriz/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/mfussenegger/nvim-dap[mfussenegger/nvim-dap] - Debug Adapter Protocol client implementation for Neovim
 * https://github.com/folke/which-key.nvim[folke/which-key.nvim] - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 * https://github.com/lewis6991/impatient.nvim[lewis6991/impatient.nvim] - Improve startup time for Neovim
@@ -415,7 +416,6 @@ Kerem Bozdas
 * https://github.com/st0012/slides[st0012/slides] - 
 * https://github.com/ruby/dev-meeting-log[ruby/dev-meeting-log] - 
 * https://github.com/phaazon/this-week-in-neovim-contents[phaazon/this-week-in-neovim-contents] - Contents of weekly news delivered by this-week-in-neovim.org.
-* https://github.com/rafamadriz/friendly-snippets[rafamadriz/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/workos/awesome-developer-experience[workos/awesome-developer-experience] - 🤘 A curated list of DX (Developer Experience) resources
 * https://github.com/cooklang/spec[cooklang/spec] - Home for Cooklang specification and general discussions about the ecosystem
 * https://github.com/Bastardkb/Skeletyl[Bastardkb/Skeletyl] - 
@@ -488,13 +488,14 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/kizniche/Mycodo[kizniche/Mycodo] - An environmental monitoring and regulation system
 * https://github.com/lightaime/camel[lightaime/camel] - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 * https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps
 * https://github.com/TabbyML/tabby[TabbyML/tabby] - Self-hosted AI coding assistant
 * https://github.com/guillaumekln/faster-whisper[guillaumekln/faster-whisper] - Faster Whisper transcription with CTranslate2
-* https://github.com/lm-sys/FastChat[lm-sys/FastChat] - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+* https://github.com/lm-sys/FastChat[lm-sys/FastChat] - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 * https://github.com/google/vroom[google/vroom] - Launch vim tests
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -569,7 +570,7 @@ Kerem Bozdas
 * https://github.com/pay-rails/pay[pay-rails/pay] - Payments for Ruby on Rails apps
 * https://github.com/hot-glue-for-rails/hot-glue[hot-glue-for-rails/hot-glue] - Rapid scaffold builder for Turbo-Rails and Hotwire
 * https://github.com/bkuhlmann/runcom[bkuhlmann/runcom] - An XDG enhanced run command manager for command line interfaces.
-* https://github.com/bkuhlmann/xdg[bkuhlmann/xdg] - Provides an implementation of the XDG Base Directory Specification.
+* https://github.com/bkuhlmann/xdg[bkuhlmann/xdg] - An XDG Base Directory Specification implementation.
 * https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
 * https://github.com/mrsked/mrsk[mrsked/mrsk] - Deploy web apps anywhere.
 * https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
@@ -702,7 +703,7 @@ Kerem Bozdas
 
 == Rust 
 
-* https://github.com/rustformers/llama-rs[rustformers/llama-rs] - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+* https://github.com/rustformers/llm[rustformers/llm] - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 * https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
 * https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 * https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
@@ -826,6 +827,7 @@ Kerem Bozdas
 
 * https://github.com/evanw/thumbhash[evanw/thumbhash] - A very compact representation of an image placeholder
 * https://github.com/hotwired/turbo-ios[hotwired/turbo-ios] - iOS framework for making Turbo native apps
+* https://github.com/isl-org/OpenBot[isl-org/OpenBot] - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 == TeX 
 
