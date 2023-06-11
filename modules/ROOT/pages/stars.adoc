@@ -84,6 +84,7 @@ Kerem Bozdas
 
 == CSS 
 
+* https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor/asciidoctor-browser-extension] - :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
 * https://github.com/adobe-fonts/source-code-pro[adobe-fonts/source-code-pro] - Monospaced font family for user interface and coding environments
 * https://github.com/fatihacet/uzaktancalismak-com[fatihacet/uzaktancalismak-com] - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
 
@@ -103,6 +104,7 @@ Kerem Bozdas
 
 == Dart 
 
+* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 
 == Dockerfile 
@@ -284,6 +286,7 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/folke/edgy.nvim[folke/edgy.nvim] - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 * https://github.com/krmbzds/dracula.nvim[krmbzds/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
 * https://github.com/bennypowers/nvim-regexplainer[bennypowers/nvim-regexplainer] - Describe the regexp under the cursor
@@ -333,7 +336,7 @@ Kerem Bozdas
 * https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - Maintained fork of the fastest Neovim colorizer
 * https://github.com/famiu/bufdelete.nvim[famiu/bufdelete.nvim] - Delete Neovim buffers without losing window layout
 * https://github.com/williamboman/mason.nvim[williamboman/mason.nvim] - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-* https://github.com/williamboman/mason-lspconfig.nvim[williamboman/mason-lspconfig.nvim] - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
+* https://github.com/williamboman/mason-lspconfig.nvim[williamboman/mason-lspconfig.nvim] - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 * https://github.com/SmiteshP/nvim-navic[SmiteshP/nvim-navic] - Simple winbar/statusline plugin that shows your current code context
 * https://github.com/ruifm/gitlinker.nvim[ruifm/gitlinker.nvim] - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 * https://github.com/ggandor/leap-ast.nvim[ggandor/leap-ast.nvim] - Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)
@@ -347,7 +350,7 @@ Kerem Bozdas
 * https://github.com/Olical/conjure[Olical/conjure] - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 * https://github.com/MunifTanjim/nui.nvim[MunifTanjim/nui.nvim] - UI Component Library for Neovim.
 * https://github.com/nvim-neo-tree/neo-tree.nvim[nvim-neo-tree/neo-tree.nvim] - Neovim plugin to manage the file system and other tree like structures.
-* https://github.com/mizlan/iswap.nvim[mizlan/iswap.nvim] - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+* https://github.com/mizlan/iswap.nvim[mizlan/iswap.nvim] - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 * https://github.com/danymat/neogen[danymat/neogen] - A better annotation generator. Supports multiple languages and annotation conventions.
 * https://github.com/nvim-neorg/neorg[nvim-neorg/neorg] - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 * https://github.com/max397574/better-escape.nvim[max397574/better-escape.nvim] - Escape from insert mode without delay when typing
@@ -409,6 +412,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation. Updated occasionally.
@@ -465,7 +469,7 @@ Kerem Bozdas
 * https://github.com/liligga/ruby-refactoring[liligga/ruby-refactoring] - Examples for the "OOD and Refactoring Patterns in Ruby" course.
 * https://github.com/carpedm20/awesome-hacking[carpedm20/awesome-hacking] - A curated list of awesome Hacking tutorials, tools and resources
 * https://github.com/elixirschool/elixirschool[elixirschool/elixirschool] - The content behind Elixir School
-* https://github.com/eserozvataf/kontra-is-anlasmasi[eserozvataf/kontra-is-anlasmasi] - 
+* https://github.com/eser/kontra-is-anlasmasi[eser/kontra-is-anlasmasi] - 
 * https://github.com/gztchan/awesome-design[gztchan/awesome-design] - 🌟 Curated design resources from all over the world.
 * https://github.com/raganwald/presentations[raganwald/presentations] - Conference Talks and Proposals
 * https://github.com/ctjhoa/rust-learning[ctjhoa/rust-learning] - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -568,6 +572,9 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
+* https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
+* https://github.com/isene/rsh[isene/rsh] - Ruby SHell
 * https://github.com/charkost/prosopite[charkost/prosopite] - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
 * https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP extension for Rails
 * https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
@@ -768,7 +775,6 @@ Kerem Bozdas
 * https://github.com/TBS1996/speki[TBS1996/speki] - flashcard app in your terminal
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
 * https://github.com/phaazon/this-week-in-neovim.org[phaazon/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
-* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * https://github.com/niklaswimmer/aw-watcher.nvim[niklaswimmer/aw-watcher.nvim] - 
 * https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/tiffany352/rink-rs[tiffany352/rink-rs] - Unit conversion tool and library written in rust
@@ -783,7 +789,6 @@ Kerem Bozdas
 * https://github.com/artichoke/artichoke[artichoke/artichoke] - 💎 Artichoke is a Ruby made with Rust
 * https://github.com/gleam-lang/gleam[gleam-lang/gleam] - ⭐️ A friendly language for building type-safe, scalable systems!
 * https://github.com/ActivityWatch/aw-server-rust[ActivityWatch/aw-server-rust] - High-performance implementation of the ActivityWatch server, written in Rust
-* https://github.com/hove-io/mimirsbrunn[hove-io/mimirsbrunn] - Geocoding and reverse-geocoding (with OSM data)
 * https://github.com/EbTech/rust-algorithms[EbTech/rust-algorithms] - Common data structures and algorithms in Rust
 * https://github.com/portier/portier-broker[portier/portier-broker] - Portier Broker reference implementation, written in Rust
 * https://github.com/BurntSushi/ripgrep[BurntSushi/ripgrep] - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -878,6 +883,10 @@ Kerem Bozdas
 == Vala 
 
 * https://github.com/lainsce/notejot[lainsce/notejot] - Stupidly-simple notes app.
+
+== Verilog 
+
+* https://github.com/tillitis/tillitis-key1[tillitis/tillitis-key1] - Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑
 
 == Vim Script 
 
