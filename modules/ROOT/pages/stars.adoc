@@ -84,6 +84,7 @@ Kerem Bozdas
 
 == CSS 
 
+* https://github.com/Fivefold/linkding-injector[Fivefold/linkding-injector] - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 * https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor/asciidoctor-browser-extension] - :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
 * https://github.com/adobe-fonts/source-code-pro[adobe-fonts/source-code-pro] - Monospaced font family for user interface and coding environments
 * https://github.com/fatihacet/uzaktancalismak-com[fatihacet/uzaktancalismak-com] - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
@@ -177,7 +178,6 @@ Kerem Bozdas
 * https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 * https://github.com/excid3/railshackathon.com[excid3/railshackathon.com] - The RailsHackathon.com website
 * https://github.com/judge0/judge0[judge0/judge0] - 🔥 The most advanced open-source online code execution system in the world.
-* https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * https://github.com/excid3/tailwindcss-stimulus-components[excid3/tailwindcss-stimulus-components] - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 * https://github.com/GTFOBins/GTFOBins.github.io[GTFOBins/GTFOBins.github.io] - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 * https://github.com/mislav/poignant-guide[mislav/poignant-guide] - Why's Poignant Guide to Ruby
@@ -873,9 +873,10 @@ Kerem Bozdas
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 * https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and splitting for groups :money_with_wings:
-* https://github.com/standardnotes/app[standardnotes/app] - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
+* https://github.com/standardnotes/app[standardnotes/app] - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
+* https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 * https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
