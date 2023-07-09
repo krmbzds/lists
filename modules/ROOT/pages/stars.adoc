@@ -106,7 +106,6 @@ Kerem Bozdas
 == Dart 
 
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 
 == Dockerfile 
 
@@ -344,7 +343,7 @@ Kerem Bozdas
 * https://github.com/nvim-neotest/neotest[nvim-neotest/neotest] - An extensible framework for interacting with tests within NeoVim.
 * https://github.com/cseickel/diagnostic-window.nvim[cseickel/diagnostic-window.nvim] - Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.
 * https://github.com/RRethy/vim-illuminate[RRethy/vim-illuminate] - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
-* https://github.com/nvim-lua/nvim-package-specification[nvim-lua/nvim-package-specification] - Unofficial draft for a standard of a package metadata -- Not ready for use.
+* https://github.com/neovim/packspec[neovim/packspec] - ALPHA package dependencies spec
 * https://github.com/cseickel/dotfiles[cseickel/dotfiles] - 
 * https://github.com/nvim-telescope/telescope-frecency.nvim[nvim-telescope/telescope-frecency.nvim] - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
 * https://github.com/Olical/conjure[Olical/conjure] - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
@@ -357,7 +356,7 @@ Kerem Bozdas
 * https://github.com/jiaoshijie/undotree[jiaoshijie/undotree] - neovim undotree written in lua
 * https://github.com/rcarriga/nvim-dap-ui[rcarriga/nvim-dap-ui] - A UI for nvim-dap
 * https://github.com/windwp/nvim-ts-autotag[windwp/nvim-ts-autotag] - Use treesitter to auto close and auto rename html tag
-* https://github.com/TimUntersberger/neogit[TimUntersberger/neogit] - magit for neovim
+* https://github.com/NeogitOrg/neogit[NeogitOrg/neogit] - magit for neovim
 * https://github.com/monaqa/dial.nvim[monaqa/dial.nvim] - enhanced increment/decrement plugin for Neovim.
 * https://github.com/Pocco81/true-zen.nvim[Pocco81/true-zen.nvim] - 🦝 Clean and elegant distraction-free writing for NeoVim
 * https://github.com/karb94/neoscroll.nvim[karb94/neoscroll.nvim] - Smooth scrolling neovim plugin written in lua
@@ -877,6 +876,7 @@ Kerem Bozdas
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 * https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
@@ -910,5 +910,5 @@ Kerem Bozdas
 
 == Zig 
 
-* https://github.com/tigerbeetledb/tigerbeetle[tigerbeetledb/tigerbeetle] - The distributed financial accounting database designed for mission critical safety and performance.
+* https://github.com/tigerbeetle/tigerbeetle[tigerbeetle/tigerbeetle] - The distributed financial accounting database designed for mission critical safety and performance.
 
