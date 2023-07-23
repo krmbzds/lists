@@ -37,7 +37,6 @@ Kerem Bozdas
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
 * https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/aldostools/webMAN-MOD[aldostools/webMAN-MOD] - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
-* https://github.com/ruby/ruby.wasm[ruby/ruby.wasm] - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 * https://github.com/librerpi/lk-overlay[librerpi/lk-overlay] - 
 * https://github.com/citusdata/citus[citusdata/citus] - Distributed PostgreSQL as an extension
 * https://github.com/taviso/123elf[taviso/123elf] - A native port of Lotus 1-2-3 to Linux.
@@ -149,7 +148,7 @@ Kerem Bozdas
 * https://github.com/netbirdio/netbird[netbirdio/netbird] - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 * https://github.com/knadh/listmonk[knadh/listmonk] - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * https://github.com/mtlynch/picoshare[mtlynch/picoshare] - A minimalist, easy-to-host service for sharing images and other files
-* https://github.com/errata-ai/vale[errata-ai/vale] - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+* https://github.com/errata-ai/vale[errata-ai/vale] - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 * https://github.com/dlvhdr/gh-dash[dlvhdr/gh-dash] - A beautiful CLI dashboard for GitHub 🚀
 * https://github.com/gennaro-tedesco/gh-s[gennaro-tedesco/gh-s] - 🔎 search github repositories interactively
 * https://github.com/gennaro-tedesco/gh-i[gennaro-tedesco/gh-i] - 🔎 search your github issues interactively
@@ -177,7 +176,6 @@ Kerem Bozdas
 * https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 * https://github.com/excid3/railshackathon.com[excid3/railshackathon.com] - The RailsHackathon.com website
 * https://github.com/judge0/judge0[judge0/judge0] - 🔥 The most advanced open-source online code execution system in the world.
-* https://github.com/excid3/tailwindcss-stimulus-components[excid3/tailwindcss-stimulus-components] - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 * https://github.com/GTFOBins/GTFOBins.github.io[GTFOBins/GTFOBins.github.io] - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 * https://github.com/mislav/poignant-guide[mislav/poignant-guide] - Why's Poignant Guide to Ruby
 * https://github.com/robinsloan/perfect-edition[robinsloan/perfect-edition] - A lightweight, responsive web e-book template
@@ -214,6 +212,8 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/ggrossetie/asciidoctor-ipython[ggrossetie/asciidoctor-ipython] - 
+* https://github.com/opendevise/asciidoc-parsing-lab[opendevise/asciidoc-parsing-lab] - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
 * https://github.com/gchq/CyberChef[gchq/CyberChef] - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * https://github.com/ggrossetie/asciidoctor-geist[ggrossetie/asciidoctor-geist] - Asciidoctor.js converter based on Geist UI
 * https://github.com/Leleat/Tiling-Assistant[Leleat/Tiling-Assistant] - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
@@ -237,6 +237,7 @@ Kerem Bozdas
 * https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
 * https://github.com/advplyr/audiobookshelf[advplyr/audiobookshelf] - Self-hosted audiobook and podcast server
 * https://github.com/tree-sitter/tree-sitter-ruby[tree-sitter/tree-sitter-ruby] - Ruby grammar for tree-sitter
+* https://github.com/excid3/tailwindcss-stimulus-components[excid3/tailwindcss-stimulus-components] - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 * https://github.com/brookhong/Surfingkeys[brookhong/Surfingkeys] - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * https://github.com/pixeltris/GK6X[pixeltris/GK6X] - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
 * https://github.com/einaregilsson/Redirector[einaregilsson/Redirector] - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
@@ -510,7 +511,7 @@ Kerem Bozdas
 * https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps
 * https://github.com/guillaumekln/faster-whisper[guillaumekln/faster-whisper] - Faster Whisper transcription with CTranslate2
-* https://github.com/lm-sys/FastChat[lm-sys/FastChat] - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
+* https://github.com/lm-sys/FastChat[lm-sys/FastChat] - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 * https://github.com/google/vroom[google/vroom] - Launch vim tests
 * https://github.com/fauxpilot/fauxpilot[fauxpilot/fauxpilot] - FauxPilot - an open-source alternative to GitHub Copilot server
 * https://github.com/MuhammedHasan/figure_panel[MuhammedHasan/figure_panel] - 
@@ -542,7 +543,7 @@ Kerem Bozdas
 * https://github.com/JaidedAI/EasyOCR[JaidedAI/EasyOCR] - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 * https://github.com/ranger/ranger[ranger/ranger] - A VIM-inspired filemanager for the console
 * https://github.com/sherlock-project/sherlock[sherlock-project/sherlock] - 🔎 Hunt down social media accounts by username across social networks
-* https://github.com/ludwig-ai/ludwig[ludwig-ai/ludwig] - Data-centric declarative deep learning framework
+* https://github.com/ludwig-ai/ludwig[ludwig-ai/ludwig] - Declarative framework for building LLMs, neural networks, and GBMs
 * https://github.com/rsms/inter[rsms/inter] - The Inter font family
 * https://github.com/charlax/professional-programming[charlax/professional-programming] - A collection of learning resources for curious software engineers
 * https://github.com/ciscorn/ldoce5viewer[ciscorn/ldoce5viewer] - ⚠️ This software is no longer actively maintained -- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
@@ -576,6 +577,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/Shopify/better-html[Shopify/better-html] - Better HTML for Rails
 * https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
 * https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
 * https://github.com/isene/rsh[isene/rsh] - Ruby SHell
@@ -592,7 +594,7 @@ Kerem Bozdas
 * https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
 * https://github.com/mrsked/mrsk[mrsked/mrsk] - Deploy web apps anywhere.
 * https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
-* https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
+* https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
 * https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
 * https://github.com/calebhearth/mentionable[calebhearth/mentionable] - 
 * https://github.com/DragonRidersUnite/book[DragonRidersUnite/book] - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
@@ -617,6 +619,7 @@ Kerem Bozdas
 * https://github.com/Shopify/ruby-style-guide[Shopify/ruby-style-guide] - Shopify’s Ruby Style Guide
 * https://github.com/rubocop/rubocop-performance[rubocop/rubocop-performance] - An extension of RuboCop focused on code performance checks.
 * https://github.com/Shopify/erb-lint[Shopify/erb-lint] - Lint your ERB or HTML files
+* https://github.com/ruby/ruby.wasm[ruby/ruby.wasm] - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 * https://github.com/ruby/net-http[ruby/net-http] - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * https://github.com/ruby/syntax_suggest[ruby/syntax_suggest] - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 * https://github.com/ruby/shell[ruby/shell] - Shell implements an idiomatic Ruby interface for common UNIX shell commands
@@ -653,7 +656,7 @@ Kerem Bozdas
 * https://github.com/Shopify/measured-rails[Shopify/measured-rails] - Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
 * https://github.com/jsonapi-serializer/jsonapi-serializer[jsonapi-serializer/jsonapi-serializer] - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
 * https://github.com/shioyama/mobility[shioyama/mobility] - Pluggable Ruby translation framework
-* https://github.com/AndyObtiva/glimmer-dsl-libui[AndyObtiva/glimmer-dsl-libui] - Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-install any prerequisites.
+* https://github.com/AndyObtiva/glimmer-dsl-libui[AndyObtiva/glimmer-dsl-libui] - Glimmer DSL for LibUI - Prerequisite-Free Ruby Desktop Development Cross-Platform Native GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-ins
 * https://github.com/barsoom/attr_extras[barsoom/attr_extras] - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * https://github.com/chrisseaton/rhizome[chrisseaton/rhizome] - A JIT for Ruby, implemented in pure Ruby
 * https://github.com/enderahmetyurt/turkish_banks[enderahmetyurt/turkish_banks] - All Turkish Banks and Their Branches
@@ -721,6 +724,8 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/pop-os/cosmic-settings-daemon[pop-os/cosmic-settings-daemon] - 
+* https://github.com/pop-os/cosmic-notifications[pop-os/cosmic-notifications] - 
 * https://github.com/crablang/crab[crablang/crab] - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 * https://github.com/rustformers/llm[rustformers/llm] - An ecosystem of Rust libraries for working with large language models
 * https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
@@ -751,7 +756,6 @@ Kerem Bozdas
 * https://github.com/pop-os/xdg-desktop-portal-cosmic[pop-os/xdg-desktop-portal-cosmic] - 
 * https://github.com/pop-os/upower-dbus[pop-os/upower-dbus] - Migrated to https://github.com/pop-os/dbus-settings-bindings
 * https://github.com/pop-os/dbus-settings-bindings[pop-os/dbus-settings-bindings] - Rust bindings for D-Bus settings interfaces
-* https://github.com/pop-os/cosmic-theme[pop-os/cosmic-theme] - WIP
 * https://github.com/pop-os/mpris2-zbus[pop-os/mpris2-zbus] - Migrated to https://github.com/pop-os/dbus-settings-bindings
 * https://github.com/pop-os/launch-pad[pop-os/launch-pad] - Automatic process management library for Rust
 * https://github.com/pop-os/pop[pop-os/pop] - A project for managing all Pop!_OS sources
