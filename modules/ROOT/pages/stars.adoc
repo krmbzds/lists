@@ -232,7 +232,7 @@ Kerem Bozdas
 * https://github.com/movim/movim[movim/movim] - Movim - Decentralized social platform
 * https://github.com/documize/community[documize/community] - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 * https://github.com/ether/etherpad-lite[ether/etherpad-lite] - Etherpad: A modern really-real-time collaborative document editor.
-* https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance system
+* https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance app
 * https://github.com/overleaf/overleaf[overleaf/overleaf] - A web-based collaborative LaTeX editor
 * https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
 * https://github.com/advplyr/audiobookshelf[advplyr/audiobookshelf] - Self-hosted audiobook and podcast server
@@ -359,7 +359,7 @@ Kerem Bozdas
 * https://github.com/windwp/nvim-ts-autotag[windwp/nvim-ts-autotag] - Use treesitter to auto close and auto rename html tag
 * https://github.com/NeogitOrg/neogit[NeogitOrg/neogit] - magit for neovim
 * https://github.com/monaqa/dial.nvim[monaqa/dial.nvim] - enhanced increment/decrement plugin for Neovim.
-* https://github.com/Pocco81/true-zen.nvim[Pocco81/true-zen.nvim] - 🦝 Clean and elegant distraction-free writing for NeoVim
+* https://github.com/pocco81/true-zen.nvim[pocco81/true-zen.nvim] - 🦝 Clean and elegant distraction-free writing for NeoVim
 * https://github.com/karb94/neoscroll.nvim[karb94/neoscroll.nvim] - Smooth scrolling neovim plugin written in lua
 * https://github.com/sQVe/sort.nvim[sQVe/sort.nvim] - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
 * https://github.com/lewis6991/gitsigns.nvim[lewis6991/gitsigns.nvim] - Git integration for buffers
@@ -416,7 +416,7 @@ Kerem Bozdas
 
 == Others 
 
-* https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
+* https://github.com/TodePond/C[TodePond/C] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for getting started with FOSS text generation.
@@ -557,7 +557,7 @@ Kerem Bozdas
 * https://github.com/ActivityWatch/activitywatch[ActivityWatch/activitywatch] - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 * https://github.com/gridsync/gridsync[gridsync/gridsync] - Synchronize local directories with Tahoe-LAFS storage grids
 * https://github.com/getredash/redash[getredash/redash] - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 * https://github.com/emre/PharmacyOnDuty[emre/PharmacyOnDuty] - Pharmacy *on duty* api for Istanbul.
 * https://github.com/jupyter/docker-stacks[jupyter/docker-stacks] - Ready-to-run Docker images containing Jupyter applications
 * https://github.com/buckket/twtxt[buckket/twtxt] - Decentralised, minimalist microblogging service for hackers.
