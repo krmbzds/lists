@@ -105,6 +105,7 @@ Kerem Bozdas
 == Dart 
 
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 
 == Dockerfile 
 
@@ -543,7 +544,7 @@ Kerem Bozdas
 * https://github.com/JaidedAI/EasyOCR[JaidedAI/EasyOCR] - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 * https://github.com/ranger/ranger[ranger/ranger] - A VIM-inspired filemanager for the console
 * https://github.com/sherlock-project/sherlock[sherlock-project/sherlock] - 🔎 Hunt down social media accounts by username across social networks
-* https://github.com/ludwig-ai/ludwig[ludwig-ai/ludwig] - Declarative framework for building LLMs, neural networks, and GBMs
+* https://github.com/ludwig-ai/ludwig[ludwig-ai/ludwig] - Low-code framework for building custom LLMs, neural networks, and other AI models
 * https://github.com/rsms/inter[rsms/inter] - The Inter font family
 * https://github.com/charlax/professional-programming[charlax/professional-programming] - A collection of learning resources for curious software engineers
 * https://github.com/ciscorn/ldoce5viewer[ciscorn/ldoce5viewer] - ⚠️ This software is no longer actively maintained -- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
@@ -577,6 +578,10 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/janlelis/wirb[janlelis/wirb] - Ruby Object Inspection for IRB
+* https://github.com/janlelis/clipboard[janlelis/clipboard] - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
+* https://github.com/janlelis/interactive_editor[janlelis/interactive_editor] - interactive editor in irb
+* https://github.com/janlelis/debugging[janlelis/debugging] - Improve your Print Debugging
 * https://github.com/Shopify/better-html[Shopify/better-html] - Better HTML for Rails
 * https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
 * https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
@@ -880,7 +885,6 @@ Kerem Bozdas
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 * https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
