@@ -12,7 +12,7 @@ Kerem Bozdas
 
 == Assembly 
 
-* https://github.com/hackclub/some-assembly-required[hackclub/some-assembly-required] - An approachable introduction to Assembly
+* https://github.com/hackclub/some-assembly-required[hackclub/some-assembly-required] - 📖 An approachable introduction to Assembly.
 
 == Batchfile 
 
@@ -578,6 +578,8 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/validates-email-format-of/validates_email_format_of[validates-email-format-of/validates_email_format_of] - Validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
+* https://github.com/devise-security/devise-security[devise-security/devise-security] - A security extension for devise, meeting industry-standard security demands for web applications.
 * https://github.com/janlelis/wirb[janlelis/wirb] - Ruby Object Inspection for IRB
 * https://github.com/janlelis/clipboard[janlelis/clipboard] - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
 * https://github.com/janlelis/interactive_editor[janlelis/interactive_editor] - interactive editor in irb
@@ -872,7 +874,7 @@ Kerem Bozdas
 * https://github.com/fourTheorem/podwhisperer[fourTheorem/podwhisperer] - Pod transcription with OpenAI Whisper and AWS
 * https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-* https://github.com/learn-anything/learn-anything[learn-anything/learn-anything] - Organize world's knowledge, explore connections and curate learning paths
+* https://github.com/learn-anything/learn-anything.xyz[learn-anything/learn-anything.xyz] - Organize world's knowledge, explore connections and curate learning paths
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
