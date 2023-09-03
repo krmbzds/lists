@@ -250,7 +250,7 @@ Kerem Bozdas
 * https://github.com/ds300/jetzt[ds300/jetzt] - Speed reader extension for chrome
 * https://github.com/Kong/insomnia[Kong/insomnia] - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 * https://github.com/gorhill/uBlock[gorhill/uBlock] - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-* https://github.com/hackerkid/Mind-Expanding-Books[hackerkid/Mind-Expanding-Books] - :books: Books everyone should read!
+* https://github.com/hackerkid/Mind-Expanding-Books[hackerkid/Mind-Expanding-Books] - :books: Find your next book to read!
 * https://github.com/hantuzun/jetman[hantuzun/jetman] - A better tool for testing APIs
 * https://github.com/digitalocean/nginxconfig.io[digitalocean/nginxconfig.io] - ⚙️ NGINX config generator on steroids 💉
 * https://github.com/sigalor/whatsapp-web-reveng[sigalor/whatsapp-web-reveng] - Reverse engineering WhatsApp Web.
@@ -417,7 +417,7 @@ Kerem Bozdas
 
 == Others 
 
-* https://github.com/TodePond/C[TodePond/C] - perfect programming language
+* https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite[TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for getting started with FOSS text generation.
@@ -731,6 +731,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/iAmSomeone2/bios_renamer_for_asus[iAmSomeone2/bios_renamer_for_asus] - Cross-platform Rust implementation of Asus' BIOS renamer utility.
 * https://github.com/pop-os/cosmic-settings-daemon[pop-os/cosmic-settings-daemon] - 
 * https://github.com/pop-os/cosmic-notifications[pop-os/cosmic-notifications] - 
 * https://github.com/crablang/crab[crablang/crab] - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
@@ -865,7 +866,7 @@ Kerem Bozdas
 
 == TypeScript 
 
-* https://github.com/codicocodes/dotfyle[codicocodes/dotfyle] - Discover and share Neovim configs and plugins
+* https://github.com/codicocodes/dotfyle[codicocodes/dotfyle] - Find the best Neovim plugins
 * https://github.com/CatsJuice/ipad-cursor[CatsJuice/ipad-cursor] - ● Mouse effect of iPad in browser that can be used in any framework
 * https://github.com/xitanggg/open-resume[xitanggg/open-resume] - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * https://github.com/impulse-oss/impulse[impulse-oss/impulse] - Impossible Dev Tools for React and Tailwind
