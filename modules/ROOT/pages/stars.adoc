@@ -244,6 +244,7 @@ Kerem Bozdas
 * https://github.com/einaregilsson/Redirector[einaregilsson/Redirector] - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 * https://github.com/hotwired/stimulus-rails[hotwired/stimulus-rails] - Use Stimulus in your Ruby on Rails app
 * https://github.com/hotwired/turbo-rails[hotwired/turbo-rails] - Use Turbo in your Ruby on Rails app
+* https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
 * https://github.com/teddit-net/teddit[teddit-net/teddit] - alternative Reddit front-end focused on privacy https://teddit.net
 * https://github.com/NginxProxyManager/nginx-proxy-manager[NginxProxyManager/nginx-proxy-manager] - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * https://github.com/Nickardson/shenzhen-solitaire[Nickardson/shenzhen-solitaire] - 
@@ -288,6 +289,9 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/stevearc/conform.nvim[stevearc/conform.nvim] - Lightweight yet powerful formatter plugin for Neovim
+* https://github.com/desdic/macrothis.nvim[desdic/macrothis.nvim] - Macrothis is a plugin for neovim to save and load macros
+* https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - A Neovim plugin helping you establish good command workflow and habit
 * https://github.com/folke/edgy.nvim[folke/edgy.nvim] - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 * https://github.com/krmbzds/dracula.nvim[krmbzds/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
@@ -419,7 +423,6 @@ Kerem Bozdas
 
 * https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite[TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
-* https://github.com/krmbzds/friendly-snippets[krmbzds/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for getting started with FOSS text generation.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
@@ -731,6 +734,8 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/sharkdp/vivid[sharkdp/vivid] - A themeable LS_COLORS generator with a rich filetype datebase
+* https://github.com/dundargoc/nvim-docs-bot[dundargoc/nvim-docs-bot] - 
 * https://github.com/iAmSomeone2/bios_renamer_for_asus[iAmSomeone2/bios_renamer_for_asus] - Cross-platform Rust implementation of Asus' BIOS renamer utility.
 * https://github.com/pop-os/cosmic-settings-daemon[pop-os/cosmic-settings-daemon] - 
 * https://github.com/pop-os/cosmic-notifications[pop-os/cosmic-notifications] - 
@@ -893,7 +898,6 @@ Kerem Bozdas
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-* https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
 * https://github.com/hotwired/stimulus[hotwired/stimulus] - A modest JavaScript framework for the HTML you already have
 * https://github.com/alixaxel/chrome-aws-lambda[alixaxel/chrome-aws-lambda] - Chromium Binary for AWS Lambda and Google Cloud Functions
 * https://github.com/puppeteer/puppeteer[puppeteer/puppeteer] - Node.js API for Chrome
