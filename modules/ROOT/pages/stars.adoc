@@ -64,7 +64,7 @@ Kerem Bozdas
 == C++ 
 
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
-* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: open-source LLM chatbots that you can run anywhere
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
 * https://github.com/MasterQ32/kristall[MasterQ32/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 * https://github.com/newsboat/newsboat[newsboat/newsboat] - An RSS/Atom feed reader for text terminals
@@ -105,7 +105,6 @@ Kerem Bozdas
 == Dart 
 
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 
 == Dockerfile 
 
@@ -421,6 +420,7 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/neovim/neovim-releases[neovim/neovim-releases] - 
 * https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite[TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for getting started with FOSS text generation.
@@ -734,6 +734,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/dundargoc/vim10jit[dundargoc/vim10jit] - 
 * https://github.com/sharkdp/vivid[sharkdp/vivid] - A themeable LS_COLORS generator with a rich filetype datebase
 * https://github.com/dundargoc/nvim-docs-bot[dundargoc/nvim-docs-bot] - 
 * https://github.com/iAmSomeone2/bios_renamer_for_asus[iAmSomeone2/bios_renamer_for_asus] - Cross-platform Rust implementation of Asus' BIOS renamer utility.
@@ -896,6 +897,7 @@ Kerem Bozdas
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 * https://github.com/hotwired/stimulus[hotwired/stimulus] - A modest JavaScript framework for the HTML you already have
