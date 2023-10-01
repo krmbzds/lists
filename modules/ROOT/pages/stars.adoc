@@ -424,7 +424,7 @@ Kerem Bozdas
 * https://github.com/neovim/neovim-releases[neovim/neovim-releases] - 
 * https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
-* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for getting started with FOSS text generation.
+* https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation frontends, models, and jargon.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
 * https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
