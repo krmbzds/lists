@@ -244,13 +244,12 @@ Kerem Bozdas
 * https://github.com/pixeltris/GK6X[pixeltris/GK6X] - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
 * https://github.com/einaregilsson/Redirector[einaregilsson/Redirector] - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 * https://github.com/hotwired/stimulus-rails[hotwired/stimulus-rails] - Use Stimulus in your Ruby on Rails app
-* https://github.com/hotwired/turbo-rails[hotwired/turbo-rails] - Use Turbo in your Ruby on Rails app
 * https://github.com/hotwired/turbo[hotwired/turbo] - The speed of a single-page web application without having to write any JavaScript
 * https://github.com/teddit-net/teddit[teddit-net/teddit] - alternative Reddit front-end focused on privacy https://teddit.net
 * https://github.com/NginxProxyManager/nginx-proxy-manager[NginxProxyManager/nginx-proxy-manager] - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * https://github.com/Nickardson/shenzhen-solitaire[Nickardson/shenzhen-solitaire] - 
 * https://github.com/ds300/jetzt[ds300/jetzt] - Speed reader extension for chrome
-* https://github.com/Kong/insomnia[Kong/insomnia] - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+* https://github.com/Kong/insomnia[Kong/insomnia] - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * https://github.com/gorhill/uBlock[gorhill/uBlock] - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * https://github.com/hackerkid/Mind-Expanding-Books[hackerkid/Mind-Expanding-Books] - :books: Find your next book to read!
 * https://github.com/hantuzun/jetman[hantuzun/jetman] - A better tool for testing APIs
@@ -316,7 +315,6 @@ Kerem Bozdas
 * https://github.com/shortcuts/no-neck-pain.nvim[shortcuts/no-neck-pain.nvim] - ☕ Dead simple plugin to center the currently focused buffer to the middle of the screen.
 * https://github.com/cbochs/grapple.nvim[cbochs/grapple.nvim] - Neovim plugin for tagging important files
 * https://github.com/hrsh7th/nvim-gtd[hrsh7th/nvim-gtd] - LSP's Go to definition plugin for neovim.
-* https://github.com/linty-org/key-menu.nvim[linty-org/key-menu.nvim] - Key mapping hints in a floating window
 * https://github.com/nyngwang/murmur.lua[nyngwang/murmur.lua] - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 * https://github.com/mrjones2014/legendary.nvim[mrjones2014/legendary.nvim] - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
 * https://github.com/ggandor/flit.nvim[ggandor/flit.nvim] - Enhanced f/t motions for Leap
@@ -540,7 +538,7 @@ Kerem Bozdas
 * https://github.com/yt-dlp/yt-dlp[yt-dlp/yt-dlp] - A youtube-dl fork with additional features and fixes
 * https://github.com/internetarchive/openlibrary[internetarchive/openlibrary] - One webpage for every book ever published!
 * https://github.com/mvt-project/mvt[mvt-project/mvt] - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-* https://github.com/simple-login/app[simple-login/app] - The SimpleLogin back-end
+* https://github.com/simple-login/app[simple-login/app] - The SimpleLogin back-end and web app
 * https://github.com/evilsocket/opensnitch[evilsocket/opensnitch] - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 * https://github.com/donnemartin/system-design-primer[donnemartin/system-design-primer] - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * https://github.com/podstream/openfaas-templates[podstream/openfaas-templates] - Podstream OpenFaaS template store
@@ -671,6 +669,7 @@ Kerem Bozdas
 * https://github.com/AndyObtiva/glimmer-dsl-libui[AndyObtiva/glimmer-dsl-libui] - Glimmer DSL for LibUI - Prerequisite-Free Ruby Desktop Development Cross-Platform Native GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-ins
 * https://github.com/barsoom/attr_extras[barsoom/attr_extras] - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * https://github.com/chrisseaton/rhizome[chrisseaton/rhizome] - A JIT for Ruby, implemented in pure Ruby
+* https://github.com/hotwired/turbo-rails[hotwired/turbo-rails] - Use Turbo in your Ruby on Rails app
 * https://github.com/enderahmetyurt/turkish_banks[enderahmetyurt/turkish_banks] - All Turkish Banks and Their Branches
 * https://github.com/bullet-train-co/magic_test[bullet-train-co/magic_test] - 
 * https://github.com/sbagdat/turkish_numeric[sbagdat/turkish_numeric] - Translate any numeric value into Turkish text, currency notation, or text representation of money.
