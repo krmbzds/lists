@@ -216,6 +216,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/mailcow/mailcow-dockerized[mailcow/mailcow-dockerized] - mailcow: dockerized - 🐮 + 🐋 = 💕
 * https://github.com/clarkmcc/chitchat[clarkmcc/chitchat] - A simple LLM chat front-end that makes it easy to find, download, and mess around with models on your local machine.
 * https://github.com/ggrossetie/asciidoctor-ipython[ggrossetie/asciidoctor-ipython] - 
 * https://github.com/opendevise/asciidoc-parsing-lab[opendevise/asciidoc-parsing-lab] - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
@@ -533,7 +534,7 @@ Kerem Bozdas
 * https://github.com/dortania/OpenCore-Legacy-Patcher[dortania/OpenCore-Legacy-Patcher] - Experience macOS just like before
 * https://github.com/learnbyexample/TUI-apps[learnbyexample/TUI-apps] - Terminal User Interface (TUI) apps
 * https://github.com/TenderOwl/Frog[TenderOwl/Frog] - Extract text from any image, video, QR Code and etc.
-* https://github.com/bram2w/baserow[bram2w/baserow] - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+* https://github.com/bram2w/baserow[bram2w/baserow] - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 * https://github.com/djdembeck/bragibooks[djdembeck/bragibooks] - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
 * https://github.com/borgmatic-collective/borgmatic[borgmatic-collective/borgmatic] - Simple, configuration-driven backup software for servers and workstations
 * https://github.com/Kozea/Radicale[Kozea/Radicale] - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -591,6 +592,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/enquo/active_enquo[enquo/active_enquo] - ActiveRecord extension for encrypted query operations
 * https://github.com/ankane/blingfire-ruby[ankane/blingfire-ruby] - High speed text tokenization for Ruby
 * https://github.com/rack/rack-attack[rack/rack-attack] - Rack middleware for blocking & throttling
 * https://github.com/ankane/authtrail[ankane/authtrail] - Track Devise login activity
@@ -749,6 +751,8 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/enquo/pg_enquo[enquo/pg_enquo] - Postgres extension to allow encrypted query operations
+* https://github.com/quambene/bogrep[quambene/bogrep] - Grep your bookmarks
 * https://github.com/dundargoc/vim10jit[dundargoc/vim10jit] - 
 * https://github.com/sharkdp/vivid[sharkdp/vivid] - A themeable LS_COLORS generator with a rich filetype datebase
 * https://github.com/dundargoc/nvim-docs-bot[dundargoc/nvim-docs-bot] - 
