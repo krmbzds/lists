@@ -315,7 +315,7 @@ Kerem Bozdas
 * https://github.com/EtiamNullam/deferred-clipboard.nvim[EtiamNullam/deferred-clipboard.nvim] - Keep clipboard in sync with Neovim without the peformance hit.
 * https://github.com/utilyre/barbecue.nvim[utilyre/barbecue.nvim] - A VS Code like winbar for Neovim
 * https://github.com/VonHeikemen/lsp-zero.nvim[VonHeikemen/lsp-zero.nvim] - A starting point to setup some lsp related features in neovim.
-* https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - Standalone UI for nvim-lsp progress
+* https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - Extensible UI for Neovim notifications and LSP progress messages.
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 * https://github.com/pwntester/octo.nvim[pwntester/octo.nvim] - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 * https://github.com/folke/lazy.nvim[folke/lazy.nvim] - 💤 A modern plugin manager for Neovim
@@ -592,6 +592,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/itamae-kitchen/mitamae[itamae-kitchen/mitamae] - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef
 * https://github.com/enquo/active_enquo[enquo/active_enquo] - ActiveRecord extension for encrypted query operations
 * https://github.com/ankane/blingfire-ruby[ankane/blingfire-ruby] - High speed text tokenization for Ruby
 * https://github.com/rack/rack-attack[rack/rack-attack] - Rack middleware for blocking & throttling
@@ -751,6 +752,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/tmcw/foursquare-cal[tmcw/foursquare-cal] - Convert Foursquare events to iCalendar
 * https://github.com/enquo/pg_enquo[enquo/pg_enquo] - Postgres extension to allow encrypted query operations
 * https://github.com/quambene/bogrep[quambene/bogrep] - Grep your bookmarks
 * https://github.com/dundargoc/vim10jit[dundargoc/vim10jit] - 
