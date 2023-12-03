@@ -64,6 +64,7 @@ Kerem Bozdas
 
 == C++ 
 
+* https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: open-source LLM chatbots that you can run anywhere
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
@@ -173,6 +174,7 @@ Kerem Bozdas
 
 == HTML 
 
+* https://github.com/kmille/freetar[kmille/freetar] - freetar  - an alternative frontend for ultimate-guitar.com
 * https://github.com/aviflombaum/shadcn-rails[aviflombaum/shadcn-rails] - 
 * https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 * https://github.com/system-fonts/modern-font-stacks[system-fonts/modern-font-stacks] - System font stack CSS organized by typeface classification for every modern operating system
@@ -322,7 +324,7 @@ Kerem Bozdas
 * https://github.com/folke/lazy.nvim[folke/lazy.nvim] - 💤 A modern plugin manager for Neovim
 * https://github.com/sindrets/dotfiles[sindrets/dotfiles] - 
 * https://github.com/rmagatti/auto-session[rmagatti/auto-session] - A small automated session manager for Neovim
-* https://github.com/shortcuts/no-neck-pain.nvim[shortcuts/no-neck-pain.nvim] - ☕ Dead simple plugin to center the currently focused buffer to the middle of the screen.
+* https://github.com/shortcuts/no-neck-pain.nvim[shortcuts/no-neck-pain.nvim] - ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.
 * https://github.com/cbochs/grapple.nvim[cbochs/grapple.nvim] - Neovim plugin for tagging important files
 * https://github.com/hrsh7th/nvim-gtd[hrsh7th/nvim-gtd] - LSP's Go to definition plugin for neovim.
 * https://github.com/nyngwang/murmur.lua[nyngwang/murmur.lua] - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
@@ -517,6 +519,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/Kharacternyk/paper-tactics[Kharacternyk/paper-tactics] - The backend for www.paper-tactics.com — a web application to play a pen-and-paper game with other people around the world.
 * https://github.com/indestructible-type/Drafting[indestructible-type/Drafting] - An origonal Monospaced font
 * https://github.com/wootfish/theseus.dht[wootfish/theseus.dht] - A distributed hash table with unusually strong security properties
 * https://github.com/mlc-ai/mlc-llm[mlc-ai/mlc-llm] - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
@@ -616,7 +619,7 @@ Kerem Bozdas
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
 * https://github.com/opal/opal[opal/opal] - Ruby ♥︎ JavaScript
 * https://github.com/pay-rails/pay[pay-rails/pay] - Payments for Ruby on Rails apps
-* https://github.com/hot-glue-for-rails/hot-glue[hot-glue-for-rails/hot-glue] - Rapid scaffold builder for Turbo-Rails and Hotwire
+* https://github.com/hot-glue-for-rails/hot-glue[hot-glue-for-rails/hot-glue] - Rapid scaffold builder for Turbo-Rails and Hotwire. Get the tutorial now at:
 * https://github.com/bkuhlmann/runcom[bkuhlmann/runcom] - A XDG enhanced run command manager for command line interfaces.
 * https://github.com/bkuhlmann/xdg[bkuhlmann/xdg] - A XDG Base Directory Specification implementation.
 * https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
