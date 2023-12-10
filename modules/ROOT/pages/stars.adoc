@@ -132,6 +132,7 @@ Kerem Bozdas
 
 * https://github.com/rktjmp/shenzhen-solitaire.nvim[rktjmp/shenzhen-solitaire.nvim] - Shenzhen I/O Solitaire, now in Neovim
 * https://github.com/bakpakin/Fennel[bakpakin/Fennel] - Lua Lisp Language
+* https://github.com/Olical/conjure[Olical/conjure] - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 * https://github.com/ggandor/leap.nvim[ggandor/leap.nvim] - Neovim's answer to the mouse 🦘
 
 == GDScript 
@@ -295,7 +296,7 @@ Kerem Bozdas
 
 == Lua 
 
-* https://github.com/kawre/leetcode.nvim[kawre/leetcode.nvim] - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
+* https://github.com/kawre/leetcode.nvim[kawre/leetcode.nvim] - A Neovim plugin enabling you to solve LeetCode problems.
 * https://github.com/2KAbhishek/nerdy.nvim[2KAbhishek/nerdy.nvim] - Find Nerd Glyphs Easily 🤓🔭
 * https://github.com/roobert/bufferline-cycle-windowless.nvim[roobert/bufferline-cycle-windowless.nvim] - :window: A Neovim/Bufferline extension to cycle through windowless buffers to give a more traditional tab based experience
 * https://github.com/chrisgrieser/nvim-origami[chrisgrieser/nvim-origami] - Fold with relentless elegance.
@@ -318,7 +319,7 @@ Kerem Bozdas
 * https://github.com/EtiamNullam/deferred-clipboard.nvim[EtiamNullam/deferred-clipboard.nvim] - Keep clipboard in sync with Neovim without the peformance hit.
 * https://github.com/utilyre/barbecue.nvim[utilyre/barbecue.nvim] - A VS Code like winbar for Neovim
 * https://github.com/VonHeikemen/lsp-zero.nvim[VonHeikemen/lsp-zero.nvim] - A starting point to setup some lsp related features in neovim.
-* https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - Extensible UI for Neovim notifications and LSP progress messages.
+* https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 * https://github.com/pwntester/octo.nvim[pwntester/octo.nvim] - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 * https://github.com/folke/lazy.nvim[folke/lazy.nvim] - 💤 A modern plugin manager for Neovim
@@ -363,7 +364,6 @@ Kerem Bozdas
 * https://github.com/neovim/packspec[neovim/packspec] - ALPHA package dependencies spec
 * https://github.com/cseickel/dotfiles[cseickel/dotfiles] - 
 * https://github.com/nvim-telescope/telescope-frecency.nvim[nvim-telescope/telescope-frecency.nvim] - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
-* https://github.com/Olical/conjure[Olical/conjure] - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 * https://github.com/MunifTanjim/nui.nvim[MunifTanjim/nui.nvim] - UI Component Library for Neovim.
 * https://github.com/nvim-neo-tree/neo-tree.nvim[nvim-neo-tree/neo-tree.nvim] - Neovim plugin to manage the file system and other tree like structures.
 * https://github.com/mizlan/iswap.nvim[mizlan/iswap.nvim] - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
@@ -474,7 +474,7 @@ Kerem Bozdas
 * https://github.com/veggiemonk/awesome-docker[veggiemonk/awesome-docker] - :whale: A curated list of Docker resources and projects
 * https://github.com/dhamaniasad/awesome-postgres[dhamaniasad/awesome-postgres] - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 * https://github.com/fcambus/nginx-resources[fcambus/nginx-resources] - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
-* https://github.com/sirredbeard/Awesome-UNIX[sirredbeard/Awesome-UNIX] - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+* https://github.com/sirredbeard/awesome-unix[sirredbeard/awesome-unix] - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 * https://github.com/hantuzun/awesome-clojurescript[hantuzun/awesome-clojurescript] - A community driven list of ClojureScript frameworks, libraries and wrappers.
 * https://github.com/tildelowengrimm/documentation[tildelowengrimm/documentation] - Guides, instructions, documentation, and setup desciptions.
 * https://github.com/Droogans/unmaintainable-code[Droogans/unmaintainable-code] - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
@@ -497,7 +497,7 @@ Kerem Bozdas
 * https://github.com/sindresorhus/awesome[sindresorhus/awesome] - 😎 Awesome lists about all kinds of interesting topics
 * https://github.com/vigo/turk-scene-tarihi[vigo/turk-scene-tarihi] - 80'lerin ortasında başlayan, günümüz bilgisayar kültürünün neredeyse başlangıç noktası olan Türk SCENE/DEMOSCENE tarihçesi
 * https://github.com/servo/servo[servo/servo] - The Servo Browser Engine
-* https://github.com/markets/awesome-ruby[markets/awesome-ruby] - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+* https://github.com/markets/awesome-ruby[markets/awesome-ruby] - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 * https://github.com/Squonk42/TL-WR703N[Squonk42/TL-WR703N] - Reverse Engineering work on the TP-LINK TL-WR703N 150M 802.11n Wi-Fi Router
 
 == PHP 
@@ -666,7 +666,7 @@ Kerem Bozdas
 * https://github.com/lobsters/lobsters[lobsters/lobsters] - Computing-focused community centered around link aggregation and discussion
 * https://github.com/havenweb/haven[havenweb/haven] - Self-hostable private blogging
 * https://github.com/siteinspector/siteinspector[siteinspector/siteinspector] - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
-* https://github.com/Floppy/van_dam[Floppy/van_dam] - A self-hosted digital asset manager for 3d print files
+* https://github.com/manyfold3d/manyfold[manyfold3d/manyfold] - A self-hosted digital asset manager for 3d print files. Previously named "VanDAM"
 * https://github.com/rubytoolbox/rubytoolbox[rubytoolbox/rubytoolbox] - Find actively maintained & popular open source software libraries for the Ruby programming language
 * https://github.com/asciidoctor/asciidoctor-diagram[asciidoctor/asciidoctor-diagram] - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 * https://github.com/socketry/async[socketry/async] - An awesome asynchronous event-driven reactor for Ruby.
