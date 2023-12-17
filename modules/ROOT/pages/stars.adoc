@@ -141,6 +141,7 @@ Kerem Bozdas
 
 == Go 
 
+* https://github.com/maxpert/marmot[maxpert/marmot] - A distributed SQLite replicator built on top of NATS
 * https://github.com/binwiederhier/ntfy[binwiederhier/ntfy] - Send push notifications to your phone or desktop using PUT/POST
 * https://github.com/antonmedv/fx[antonmedv/fx] - Terminal JSON viewer & processor
 * https://github.com/mikefarah/yq[mikefarah/yq] - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -373,7 +374,7 @@ Kerem Bozdas
 * https://github.com/jiaoshijie/undotree[jiaoshijie/undotree] - neovim undotree written in lua
 * https://github.com/rcarriga/nvim-dap-ui[rcarriga/nvim-dap-ui] - A UI for nvim-dap
 * https://github.com/windwp/nvim-ts-autotag[windwp/nvim-ts-autotag] - Use treesitter to auto close and auto rename html tag
-* https://github.com/NeogitOrg/neogit[NeogitOrg/neogit] - magit for neovim
+* https://github.com/NeogitOrg/neogit[NeogitOrg/neogit] - An interactive and powerful Git interface for Neovim, inspired by Magit
 * https://github.com/monaqa/dial.nvim[monaqa/dial.nvim] - enhanced increment/decrement plugin for Neovim.
 * https://github.com/pocco81/true-zen.nvim[pocco81/true-zen.nvim] - 🦝 Clean and elegant distraction-free writing for NeoVim
 * https://github.com/karb94/neoscroll.nvim[karb94/neoscroll.nvim] - Smooth scrolling neovim plugin written in lua
@@ -410,7 +411,7 @@ Kerem Bozdas
 * https://github.com/LunarVim/Neovim-from-scratch[LunarVim/Neovim-from-scratch] - 📚 A Neovim config designed from scratch to be understandable
 * https://github.com/marioortizmanero/adoc-pdf-live.nvim[marioortizmanero/adoc-pdf-live.nvim] - Small plugin for vim to preview Asciidoc PDF output
 * https://github.com/koreader/koreader[koreader/koreader] - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-* https://github.com/sile-typesetter/sile[sile-typesetter/sile] - Simon’s Improved Layout Engine
+* https://github.com/sile-typesetter/sile[sile-typesetter/sile] - The SILE Typesetter — Simon’s Improved Layout Engine
 
 == MDX 
 
@@ -486,7 +487,6 @@ Kerem Bozdas
 * https://github.com/wtsxDev/reverse-engineering[wtsxDev/reverse-engineering] - List of awesome reverse engineering resources
 * https://github.com/karan/Projects[karan/Projects] - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 * https://github.com/sbilly/awesome-security[sbilly/awesome-security] - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-* https://github.com/liligga/ruby-refactoring[liligga/ruby-refactoring] - Examples for the "OOD and Refactoring Patterns in Ruby" course.
 * https://github.com/carpedm20/awesome-hacking[carpedm20/awesome-hacking] - A curated list of awesome Hacking tutorials, tools and resources
 * https://github.com/elixirschool/elixirschool[elixirschool/elixirschool] - The content behind Elixir School
 * https://github.com/eser/kontra-is-anlasmasi[eser/kontra-is-anlasmasi] - 
@@ -755,6 +755,8 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/ratatui-org/ratatui[ratatui-org/ratatui] - Rust library that's all about cooking up terminal user interfaces (TUIs)
+* https://github.com/fujiapple852/trippy[fujiapple852/trippy] - A network diagnostic tool
 * https://github.com/tmcw/foursquare-cal[tmcw/foursquare-cal] - Convert Foursquare events to iCalendar
 * https://github.com/enquo/pg_enquo[enquo/pg_enquo] - Postgres extension to allow encrypted query operations
 * https://github.com/quambene/bogrep[quambene/bogrep] - Grep your bookmarks
