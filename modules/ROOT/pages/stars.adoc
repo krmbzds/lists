@@ -236,6 +236,7 @@ Kerem Bozdas
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
+* https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
 * https://github.com/mickael-kerjean/filestash[mickael-kerjean/filestash] - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -298,6 +299,7 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/weizheheng/ror.nvim[weizheheng/ror.nvim] - Have FUN builiding Ruby on Rails applications with Neovim!
 * https://github.com/kawre/leetcode.nvim[kawre/leetcode.nvim] - A Neovim plugin enabling you to solve LeetCode problems.
 * https://github.com/2KAbhishek/nerdy.nvim[2KAbhishek/nerdy.nvim] - Find Nerd Glyphs Easily 🤓🔭
 * https://github.com/roobert/bufferline-cycle-windowless.nvim[roobert/bufferline-cycle-windowless.nvim] - :window: A Neovim/Bufferline extension to cycle through windowless buffers to give a more traditional tab based experience
@@ -597,6 +599,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
 * https://github.com/basecamp/solid_queue[basecamp/solid_queue] - Database-backed Active Job backend
 * https://github.com/rails/solid_cache[rails/solid_cache] - A database-backed ActiveSupport::Cache::Store
 * https://github.com/itamae-kitchen/mitamae[itamae-kitchen/mitamae] - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef
@@ -716,7 +719,7 @@ Kerem Bozdas
 * https://github.com/travisjeffery/timecop[travisjeffery/timecop] - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT
 * https://github.com/paulelliott/fabrication[paulelliott/fabrication] - This project has moved to GitLab! Please check there for the latest updates.
 * https://github.com/ankane/blazer[ankane/blazer] - Business intelligence made simple
-* https://github.com/chatwoot/chatwoot[chatwoot/chatwoot] - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+* https://github.com/chatwoot/chatwoot[chatwoot/chatwoot] - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 * https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor/asciidoctor-epub3] - :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3 & KF8/MOBI
 * https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor/asciidoctor-pdf] - :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
 * https://github.com/asciidoctor/asciidoctor[asciidoctor/asciidoctor] - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -917,7 +920,6 @@ Kerem Bozdas
 * https://github.com/learn-anything/learn-anything.xyz[learn-anything/learn-anything.xyz] - Organize world's knowledge, explore connections and curate learning paths
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
-* https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
 * https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Lightweight Google-searchable Slack alternative for Communities
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
@@ -925,7 +927,7 @@ Kerem Bozdas
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance app
 * https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and splitting for groups :money_with_wings:
 * https://github.com/standardnotes/app[standardnotes/app] - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
-* https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
+* https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
