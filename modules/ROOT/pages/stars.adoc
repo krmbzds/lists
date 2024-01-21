@@ -437,7 +437,7 @@ Kerem Bozdas
 == Others 
 
 * https://github.com/neovim/neovim-releases[neovim/neovim-releases] - Unsupported Nvim releases
-* https://github.com/TodePond/DreamBerd---e-acc[TodePond/DreamBerd---e-acc] - perfect programming language
+* https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation frontends, models, and jargon.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
