@@ -141,6 +141,7 @@ Kerem Bozdas
 
 == Go 
 
+* https://github.com/vdjagilev/nmap-formatter[vdjagilev/nmap-formatter] - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 * https://github.com/maxpert/marmot[maxpert/marmot] - A distributed SQLite replicator built on top of NATS
 * https://github.com/binwiederhier/ntfy[binwiederhier/ntfy] - Send push notifications to your phone or desktop using PUT/POST
 * https://github.com/antonmedv/fx[antonmedv/fx] - Terminal JSON viewer & processor
@@ -597,6 +598,10 @@ Kerem Bozdas
 * https://github.com/burcutepekule/corona-tr-modeling[burcutepekule/corona-tr-modeling] - 
 * https://github.com/swirldev/swirl[swirldev/swirl] - :cyclone: Learn R, in R.
 
+== Roff 
+
+* https://github.com/oasislinux/oasis[oasislinux/oasis] - a small statically-linked linux system
+
 == Ruby 
 
 * https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
@@ -907,6 +912,7 @@ Kerem Bozdas
 
 == TypeScript 
 
+* https://github.com/boukestam/cell[boukestam/cell] - 
 * https://github.com/codicocodes/dotfyle[codicocodes/dotfyle] - Find the best Neovim plugins
 * https://github.com/CatsJuice/ipad-cursor[CatsJuice/ipad-cursor] - ● Mouse effect of iPad in browser that can be used in any framework
 * https://github.com/xitanggg/open-resume[xitanggg/open-resume] - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
