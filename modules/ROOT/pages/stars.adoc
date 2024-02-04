@@ -28,7 +28,6 @@ Kerem Bozdas
 * https://github.com/rvaiya/keyd[rvaiya/keyd] - A key remapping daemon for linux.
 * https://github.com/libimobiledevice/libimobiledevice[libimobiledevice/libimobiledevice] - A cross-platform protocol library to communicate with iOS devices
 * https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
-* https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - Port of Facebook's LLaMA model in C/C++
 * https://github.com/abb128/april-asr[abb128/april-asr] - Speech-to-text library in C
 * https://github.com/oggy/looksee[oggy/looksee] - Supercharged method introspection in IRB
 * https://github.com/ventoy/Ventoy[ventoy/Ventoy] - A new bootable USB solution.
@@ -66,6 +65,7 @@ Kerem Bozdas
 
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
+* https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - Port of Facebook's LLaMA model in C/C++
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: open-source LLM chatbots that you can run anywhere
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
 * https://github.com/MasterQ32/kristall[MasterQ32/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
@@ -300,6 +300,8 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/chrisgrieser/nvim-scissors[chrisgrieser/nvim-scissors] - Automagical editing and creation of snippets.
+* https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
 * https://github.com/weizheheng/ror.nvim[weizheheng/ror.nvim] - Have FUN builiding Ruby on Rails applications with Neovim!
 * https://github.com/kawre/leetcode.nvim[kawre/leetcode.nvim] - A Neovim plugin enabling you to solve LeetCode problems.
 * https://github.com/2KAbhishek/nerdy.nvim[2KAbhishek/nerdy.nvim] - Find Nerd Glyphs Easily 🤓🔭
@@ -604,6 +606,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/truemail-rb/truemail[truemail-rb/truemail] - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 * https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
 * https://github.com/basecamp/solid_queue[basecamp/solid_queue] - Database-backed Active Job backend
 * https://github.com/rails/solid_cache[rails/solid_cache] - A database-backed ActiveSupport::Cache::Store
