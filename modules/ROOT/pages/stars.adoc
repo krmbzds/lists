@@ -406,7 +406,7 @@ Kerem Bozdas
 * https://github.com/nvim-tree/nvim-web-devicons[nvim-tree/nvim-web-devicons] - lua `fork` of vim-web-devicons for neovim
 * https://github.com/rcarriga/nvim-notify[rcarriga/nvim-notify] - A fancy, configurable, notification manager for NeoVim
 * https://github.com/numToStr/Comment.nvim[numToStr/Comment.nvim] - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-* https://github.com/windwp/nvim-autopairs[windwp/nvim-autopairs] - autopairs for neovim written by lua
+* https://github.com/windwp/nvim-autopairs[windwp/nvim-autopairs] - autopairs for neovim written in lua
 * https://github.com/nvim-lua/plenary.nvim[nvim-lua/plenary.nvim] - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 * https://github.com/nvim-lua/popup.nvim[nvim-lua/popup.nvim] - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 * https://github.com/wbthomason/packer.nvim[wbthomason/packer.nvim] - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
@@ -457,7 +457,7 @@ Kerem Bozdas
 * https://github.com/shubhamgrg04/awesome-diagramming[shubhamgrg04/awesome-diagramming] - A curated collection of diagramming tools used by leading software engineering teams
 * https://github.com/st0012/slides[st0012/slides] - 
 * https://github.com/ruby/dev-meeting-log[ruby/dev-meeting-log] - 
-* https://github.com/phaazon/this-week-in-neovim-contents[phaazon/this-week-in-neovim-contents] - Contents of weekly news delivered by this-week-in-neovim.org.
+* https://github.com/hadronized/this-week-in-neovim-contents[hadronized/this-week-in-neovim-contents] - Contents of weekly news delivered by this-week-in-neovim.org.
 * https://github.com/workos/awesome-developer-experience[workos/awesome-developer-experience] - 🤘 A curated list of DX (Developer Experience) resources
 * https://github.com/cooklang/spec[cooklang/spec] - Home for Cooklang specification and general discussions about the ecosystem
 * https://github.com/Bastardkb/Skeletyl[Bastardkb/Skeletyl] - 
@@ -505,7 +505,7 @@ Kerem Bozdas
 * https://github.com/EbookFoundation/free-programming-books[EbookFoundation/free-programming-books] - :books: Freely available programming books
 * https://github.com/sindresorhus/awesome[sindresorhus/awesome] - 😎 Awesome lists about all kinds of interesting topics
 * https://github.com/vigo/turk-scene-tarihi[vigo/turk-scene-tarihi] - 80'lerin ortasında başlayan, günümüz bilgisayar kültürünün neredeyse başlangıç noktası olan Türk SCENE/DEMOSCENE tarihçesi
-* https://github.com/servo/servo[servo/servo] - The Servo Browser Engine
+* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 * https://github.com/markets/awesome-ruby[markets/awesome-ruby] - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 * https://github.com/Squonk42/TL-WR703N[Squonk42/TL-WR703N] - Reverse Engineering work on the TP-LINK TL-WR703N 150M 802.11n Wi-Fi Router
 
@@ -840,7 +840,7 @@ Kerem Bozdas
 * https://github.com/postgresml/postgresml[postgresml/postgresml] - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 * https://github.com/TBS1996/speki[TBS1996/speki] - flashcard app in your terminal
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
-* https://github.com/phaazon/this-week-in-neovim.org[phaazon/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
+* https://github.com/hadronized/this-week-in-neovim.org[hadronized/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
 * https://github.com/niklaswimmer/aw-watcher.nvim[niklaswimmer/aw-watcher.nvim] - 
 * https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
 * https://github.com/tiffany352/rink-rs[tiffany352/rink-rs] - Unit conversion tool and library written in rust
@@ -939,7 +939,7 @@ Kerem Bozdas
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance app
-* https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and splitting for groups :money_with_wings:
+* https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and money splitting for groups :money_with_wings:
 * https://github.com/standardnotes/app[standardnotes/app] - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
