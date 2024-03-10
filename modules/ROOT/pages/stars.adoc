@@ -221,6 +221,7 @@ Kerem Bozdas
 
 == JavaScript 
 
+* https://github.com/gorisanson/pikachu-volleyball[gorisanson/pikachu-volleyball] - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * https://github.com/moddio/moddio2[moddio/moddio2] - HTML5 multiplayer game engine
 * https://github.com/mailcow/mailcow-dockerized[mailcow/mailcow-dockerized] - mailcow: dockerized - 🐮 + 🐋 = 💕
 * https://github.com/clarkmcc/chitchat[clarkmcc/chitchat] - A simple LLM chat front-end that makes it easy to find, download, and mess around with models on your local machine.
@@ -236,7 +237,6 @@ Kerem Bozdas
 * https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-* https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🍰 Everything is RSSible
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
@@ -328,6 +328,7 @@ Kerem Bozdas
 * https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 * https://github.com/pwntester/octo.nvim[pwntester/octo.nvim] - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
+* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/folke/lazy.nvim[folke/lazy.nvim] - 💤 A modern plugin manager for Neovim
 * https://github.com/sindrets/dotfiles[sindrets/dotfiles] - 
 * https://github.com/rmagatti/auto-session[rmagatti/auto-session] - A small automated session manager for Neovim
@@ -551,7 +552,7 @@ Kerem Bozdas
 * https://github.com/borgmatic-collective/borgmatic[borgmatic-collective/borgmatic] - Simple, configuration-driven backup software for servers and workstations
 * https://github.com/Kozea/Radicale[Kozea/Radicale] - A simple CalDAV (calendar) and CardDAV (contact) server.
 * https://github.com/paperless-ngx/paperless-ngx[paperless-ngx/paperless-ngx] - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-* https://github.com/dgtlmoon/changedetection.io[dgtlmoon/changedetection.io] - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+* https://github.com/dgtlmoon/changedetection.io[dgtlmoon/changedetection.io] - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 * https://github.com/sissbruecker/linkding[sissbruecker/linkding] - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * https://github.com/binhtran432k/dotfiles.v1[binhtran432k/dotfiles.v1] - 
 * https://github.com/quenhus/uBlock-Origin-dev-filter[quenhus/uBlock-Origin-dev-filter] - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -879,7 +880,6 @@ Kerem Bozdas
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
-* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/twpayne/dotfiles[twpayne/dotfiles] - My dotfiles, managed with https://chezmoi.io.
 * https://github.com/nodiscc/awesome-linuxaudio[nodiscc/awesome-linuxaudio] - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 * https://github.com/laktak/extrakto[laktak/extrakto] - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
@@ -935,8 +935,10 @@ Kerem Bozdas
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * https://github.com/learn-anything/learn-anything.xyz[learn-anything/learn-anything.xyz] - Organize world's knowledge, explore connections and curate learning paths
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
+* https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🧡 Everything is RSSible
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
 * https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Lightweight Google-searchable Slack alternative for Communities
+* https://github.com/headwaymaps/headway[headwaymaps/headway] - Self-hostable maps stack, powered by OpenStreetMap.
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
@@ -975,7 +977,6 @@ Kerem Bozdas
 
 == Vue 
 
-* https://github.com/headwaymaps/headway[headwaymaps/headway] - Self-hostable maps stack, powered by OpenStreetMap.
 * https://github.com/SelfhostedPro/Yacht[SelfhostedPro/Yacht] - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
 == Zig 
