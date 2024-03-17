@@ -62,6 +62,7 @@ Kerem Bozdas
 
 == C++ 
 
+* https://github.com/hyprwm/hyprcursor[hyprwm/hyprcursor] - The hyprland cursor format, library and utilities.
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
 * https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - LLM inference in C/C++
