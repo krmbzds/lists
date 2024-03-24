@@ -27,6 +27,7 @@ Kerem Bozdas
 * https://github.com/yo8192/fcron[yo8192/fcron] - fcron is an advanced cron for Linux/Unix systems
 * https://github.com/rvaiya/keyd[rvaiya/keyd] - A key remapping daemon for linux.
 * https://github.com/libimobiledevice/libimobiledevice[libimobiledevice/libimobiledevice] - A cross-platform protocol library to communicate with iOS devices
+* https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
 * https://github.com/abb128/april-asr[abb128/april-asr] - Speech-to-text library in C
 * https://github.com/oggy/looksee[oggy/looksee] - Supercharged method introspection in IRB
 * https://github.com/ventoy/Ventoy[ventoy/Ventoy] - A new bootable USB solution.
@@ -192,6 +193,7 @@ Kerem Bozdas
 * https://github.com/asciidoctor/asciidoctor-reveal.js[asciidoctor/asciidoctor-reveal.js] - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 * https://github.com/littleblah/senior-engineer-checklist[littleblah/senior-engineer-checklist] - Senior Engineer CheckList
 * https://github.com/sarabander/sicp[sarabander/sicp] - HTML5/EPUB3 version of SICP
+* https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
 * https://github.com/leemunroe/responsive-html-email-template[leemunroe/responsive-html-email-template] - A free simple responsive HTML email template
 
@@ -433,10 +435,6 @@ Kerem Bozdas
 * https://github.com/zedeus/nitter[zedeus/nitter] - Alternative Twitter front-end
 * https://github.com/nim-lang/Nim[nim-lang/Nim] - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 
-== Nix 
-
-* https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
-
 == OpenSCAD 
 
 * https://github.com/andimoto/keebcu[andimoto/keebcu] - Keyboard Customizer
@@ -559,7 +557,7 @@ Kerem Bozdas
 * https://github.com/quenhus/uBlock-Origin-dev-filter[quenhus/uBlock-Origin-dev-filter] - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 * https://github.com/anufrievroman/calcure[anufrievroman/calcure] - Modern TUI calendar and task manager with minimal and customizable UI.
 * https://github.com/Morpheus636/zeal-cli[Morpheus636/zeal-cli] - A CLI for managing offline documentation for Zeal.
-* https://github.com/yt-dlp/yt-dlp[yt-dlp/yt-dlp] - A youtube-dl fork with additional features and fixes
+* https://github.com/yt-dlp/yt-dlp[yt-dlp/yt-dlp] - A feature-rich command-line audio/video downloader
 * https://github.com/internetarchive/openlibrary[internetarchive/openlibrary] - One webpage for every book ever published!
 * https://github.com/mvt-project/mvt[mvt-project/mvt] - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 * https://github.com/simple-login/app[simple-login/app] - The SimpleLogin back-end and web app
@@ -612,7 +610,7 @@ Kerem Bozdas
 
 * https://github.com/truemail-rb/truemail[truemail-rb/truemail] - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 * https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
-* https://github.com/basecamp/solid_queue[basecamp/solid_queue] - Database-backed Active Job backend
+* https://github.com/rails/solid_queue[rails/solid_queue] - Database-backed Active Job backend
 * https://github.com/rails/solid_cache[rails/solid_cache] - A database-backed ActiveSupport::Cache::Store
 * https://github.com/itamae-kitchen/mitamae[itamae-kitchen/mitamae] - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef
 * https://github.com/enquo/active_enquo[enquo/active_enquo] - ActiveRecord extension for encrypted query operations
@@ -631,7 +629,7 @@ Kerem Bozdas
 * https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
 * https://github.com/isene/rsh[isene/rsh] - Ruby SHell
 * https://github.com/charkost/prosopite[charkost/prosopite] - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
-* https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP extension for Rails
+* https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP addon for Rails
 * https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
 * https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
@@ -879,7 +877,6 @@ Kerem Bozdas
 * https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
-* https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
 * https://github.com/twpayne/dotfiles[twpayne/dotfiles] - My dotfiles, managed with https://chezmoi.io.
 * https://github.com/nodiscc/awesome-linuxaudio[nodiscc/awesome-linuxaudio] - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
@@ -949,7 +946,7 @@ Kerem Bozdas
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
 * https://github.com/lukevella/rallly[lukevella/rallly] - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-* https://github.com/immich-app/immich[immich-app/immich] - Self-hosted photo and video backup solution directly from your mobile phone.
+* https://github.com/immich-app/immich[immich-app/immich] - High performance self-hosted photo and video management solution.
 * https://github.com/pop-os/shell[pop-os/shell] - Pop!_OS Shell
 * https://github.com/monkeytypegame/monkeytype[monkeytypegame/monkeytype] - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 * https://github.com/hotwired/stimulus[hotwired/stimulus] - A modest JavaScript framework for the HTML you already have
