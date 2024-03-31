@@ -63,6 +63,7 @@ Kerem Bozdas
 
 == C++ 
 
+* https://github.com/OpenTTD/OpenTTD[OpenTTD/OpenTTD] - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 * https://github.com/hyprwm/hyprcursor[hyprwm/hyprcursor] - The hyprland cursor format, library and utilities.
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
@@ -237,7 +238,7 @@ Kerem Bozdas
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
 * https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A UI development environment for Ruby on Rails apps ✨
-* https://github.com/brave/brave-browser[brave/brave-browser] - Next generation Brave browser for Android, Linux, macOS, Windows.
+* https://github.com/brave/brave-browser[brave/brave-browser] - Brave browser for Android, iOS, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -767,7 +768,7 @@ Kerem Bozdas
 * https://github.com/sj26/mailcatcher[sj26/mailcatcher] - Catches mail and serves it through a dream.
 * https://github.com/augustl/net-http-cheat-sheet[augustl/net-http-cheat-sheet] - A collection of Ruby Net::HTTP examples.
 * https://github.com/kanwei/algorithms[kanwei/algorithms] - Ruby algorithms and data structures. C extensions
-* https://github.com/ryanb/ruby-warrior[ryanb/ruby-warrior] - Game written in Ruby for learning Ruby and artificial intelligence.
+* https://github.com/ryanb/ruby-warrior[ryanb/ruby-warrior] - Game written in Ruby for learning Ruby.
 
 == Rust 
 
