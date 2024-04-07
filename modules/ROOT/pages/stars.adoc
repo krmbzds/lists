@@ -94,7 +94,7 @@ Kerem Bozdas
 
 == Clojure 
 
-* https://github.com/penpot/penpot[penpot/penpot] - Penpot - The Open-Source design & prototyping platform
+* https://github.com/penpot/penpot[penpot/penpot] - Penpot: The open-source design tool for design and code collaboration
 * https://github.com/BerkeleyTrue/dotfiles[BerkeleyTrue/dotfiles] - My workstation dotfiles
 * https://github.com/metabase/metabase[metabase/metabase] - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
@@ -303,6 +303,8 @@ Kerem Bozdas
 
 == Lua 
 
+* https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
+* https://github.com/tigion/nvim-asciidoc-preview[tigion/nvim-asciidoc-preview] - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 * https://github.com/chrisgrieser/nvim-scissors[chrisgrieser/nvim-scissors] - Automagical editing and creation of snippets.
 * https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
 * https://github.com/weizheheng/ror.nvim[weizheheng/ror.nvim] - Have FUN builiding Ruby on Rails applications with Neovim!
@@ -609,6 +611,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/pocke/activerecord-originator[pocke/activerecord-originator] - A RubyGem adding SQL comments to indicate the origin of the SQL
 * https://github.com/truemail-rb/truemail[truemail-rb/truemail] - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 * https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
 * https://github.com/rails/solid_queue[rails/solid_queue] - Database-backed Active Job backend
@@ -623,7 +626,6 @@ Kerem Bozdas
 * https://github.com/devise-security/devise-security[devise-security/devise-security] - A security extension for devise, meeting industry-standard security demands for web applications.
 * https://github.com/janlelis/wirb[janlelis/wirb] - Ruby Object Inspection for IRB
 * https://github.com/janlelis/clipboard[janlelis/clipboard] - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
-* https://github.com/janlelis/interactive_editor[janlelis/interactive_editor] - interactive editor in irb
 * https://github.com/janlelis/debugging[janlelis/debugging] - Improve your Print Debugging
 * https://github.com/Shopify/better-html[Shopify/better-html] - Better HTML for Rails
 * https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
@@ -840,6 +842,7 @@ Kerem Bozdas
 * https://github.com/postgresml/postgresml[postgresml/postgresml] - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 * https://github.com/TBS1996/speki[TBS1996/speki] - flashcard app in your terminal
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
+* https://github.com/headwaymaps/headway[headwaymaps/headway] - Self-hostable maps stack, powered by OpenStreetMap.
 * https://github.com/hadronized/this-week-in-neovim.org[hadronized/this-week-in-neovim.org] - this-week-in-neovim.org official webapp repository
 * https://github.com/niklaswimmer/aw-watcher.nvim[niklaswimmer/aw-watcher.nvim] - 
 * https://github.com/Wilfred/difftastic[Wilfred/difftastic] - a structural diff that understands syntax 🟥🟩
@@ -875,7 +878,7 @@ Kerem Bozdas
 
 == Shell 
 
-* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
+* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
@@ -921,6 +924,7 @@ Kerem Bozdas
 
 == TypeScript 
 
+* https://github.com/OneUptime/oneuptime[OneUptime/oneuptime] - OneUptime is the complete open-source observability platform.
 * https://github.com/ente-io/ente[ente-io/ente] - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 * https://github.com/boukestam/cell[boukestam/cell] - 
 * https://github.com/CatsJuice/ipad-cursor[CatsJuice/ipad-cursor] - ● Mouse effect of iPad in browser that can be used in any framework
@@ -937,7 +941,6 @@ Kerem Bozdas
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🧡 Everything is RSSible
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
 * https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Lightweight Google-searchable Slack alternative for Communities
-* https://github.com/headwaymaps/headway[headwaymaps/headway] - Self-hostable maps stack, powered by OpenStreetMap.
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
