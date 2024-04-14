@@ -108,6 +108,7 @@ Kerem Bozdas
 
 == Dart 
 
+* https://github.com/ente-io/ente[ente-io/ente] - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 == Dockerfile 
@@ -306,7 +307,7 @@ Kerem Bozdas
 * https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 * https://github.com/tigion/nvim-asciidoc-preview[tigion/nvim-asciidoc-preview] - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 * https://github.com/chrisgrieser/nvim-scissors[chrisgrieser/nvim-scissors] - Automagical editing and creation of snippets.
-* https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
+* https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Reactivity. Right in your neovim.
 * https://github.com/weizheheng/ror.nvim[weizheheng/ror.nvim] - Have FUN builiding Ruby on Rails applications with Neovim!
 * https://github.com/kawre/leetcode.nvim[kawre/leetcode.nvim] - A Neovim plugin enabling you to solve LeetCode problems.
 * https://github.com/2KAbhishek/nerdy.nvim[2KAbhishek/nerdy.nvim] - Find Nerd Glyphs Easily 🤓🔭
@@ -625,7 +626,7 @@ Kerem Bozdas
 * https://github.com/validates-email-format-of/validates_email_format_of[validates-email-format-of/validates_email_format_of] - Validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
 * https://github.com/devise-security/devise-security[devise-security/devise-security] - A security extension for devise, meeting industry-standard security demands for web applications.
 * https://github.com/janlelis/wirb[janlelis/wirb] - Ruby Object Inspection for IRB
-* https://github.com/janlelis/clipboard[janlelis/clipboard] - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
+* https://github.com/janlelis/clipboard[janlelis/clipboard] - Ruby access to the clipboard on Windows, Linux, macOS, Java, WSL and more platforms 📋︎
 * https://github.com/janlelis/debugging[janlelis/debugging] - Improve your Print Debugging
 * https://github.com/Shopify/better-html[Shopify/better-html] - Better HTML for Rails
 * https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
@@ -733,7 +734,7 @@ Kerem Bozdas
 * https://github.com/paulelliott/fabrication[paulelliott/fabrication] - This project has moved to GitLab! Please check there for the latest updates.
 * https://github.com/ankane/blazer[ankane/blazer] - Business intelligence made simple
 * https://github.com/chatwoot/chatwoot[chatwoot/chatwoot] - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-* https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor/asciidoctor-epub3] - :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3 & KF8/MOBI
+* https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor/asciidoctor-epub3] - :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3
 * https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor/asciidoctor-pdf] - :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
 * https://github.com/asciidoctor/asciidoctor[asciidoctor/asciidoctor] - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 * https://github.com/ankane/strong_migrations[ankane/strong_migrations] - Catch unsafe migrations in development
@@ -925,7 +926,6 @@ Kerem Bozdas
 == TypeScript 
 
 * https://github.com/OneUptime/oneuptime[OneUptime/oneuptime] - OneUptime is the complete open-source observability platform.
-* https://github.com/ente-io/ente[ente-io/ente] - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 * https://github.com/boukestam/cell[boukestam/cell] - 
 * https://github.com/CatsJuice/ipad-cursor[CatsJuice/ipad-cursor] - ● Mouse effect of iPad in browser that can be used in any framework
 * https://github.com/xitanggg/open-resume[xitanggg/open-resume] - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
