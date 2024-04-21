@@ -317,7 +317,7 @@ Kerem Bozdas
 * https://github.com/tzachar/highlight-undo.nvim[tzachar/highlight-undo.nvim] - Highlight changed text after Undo / Redo operations
 * https://github.com/stevearc/conform.nvim[stevearc/conform.nvim] - Lightweight yet powerful formatter plugin for Neovim
 * https://github.com/desdic/macrothis.nvim[desdic/macrothis.nvim] - Macrothis is a plugin for neovim to save and load macros
-* https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - A Neovim plugin helping you establish good command workflow and habit
+* https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - A Neovim plugin helping you establish good command workflow and quit bad habit
 * https://github.com/folke/edgy.nvim[folke/edgy.nvim] - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 * https://github.com/krmbzds/dracula.nvim[krmbzds/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
@@ -459,7 +459,7 @@ Kerem Bozdas
 * https://github.com/castrojo/awesome-immutable[castrojo/awesome-immutable] - A list of resources for people who want to investigate image-based Linux desktops
 * https://github.com/shubhamgrg04/awesome-diagramming[shubhamgrg04/awesome-diagramming] - A curated collection of diagramming tools used by leading software engineering teams
 * https://github.com/st0012/slides[st0012/slides] - 
-* https://github.com/ruby/dev-meeting-log[ruby/dev-meeting-log] - 
+* https://github.com/ruby/dev-meeting-log[ruby/dev-meeting-log] - Log archive for monthly Developers Meeting
 * https://github.com/hadronized/this-week-in-neovim-contents[hadronized/this-week-in-neovim-contents] - Contents of weekly news delivered by this-week-in-neovim.org.
 * https://github.com/workos/awesome-developer-experience[workos/awesome-developer-experience] - 🤘 A curated list of DX (Developer Experience) resources
 * https://github.com/cooklang/spec[cooklang/spec] - Home for Cooklang specification and general discussions about the ecosystem
@@ -740,7 +740,7 @@ Kerem Bozdas
 * https://github.com/ankane/strong_migrations[ankane/strong_migrations] - Catch unsafe migrations in development
 * https://github.com/ViewComponent/view_component[ViewComponent/view_component] - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 * https://github.com/sbagdat/turkish_support[sbagdat/turkish_support] - Turkish character support for core ruby methods.
-* https://github.com/Shopify/measured[Shopify/measured] - Encapsulate measurements and their units in Ruby.
+* https://github.com/Shopify/measured[Shopify/measured] - Encapsulate measurements and their units in Ruby and Ruby on Rails.
 * https://github.com/endoflife-date/endoflife.date[endoflife-date/endoflife.date] - Informative site with EoL dates of everything
 * https://github.com/ruby-concurrency/concurrent-ruby[ruby-concurrency/concurrent-ruby] - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 * https://github.com/countries/countries[countries/countries] - All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (
@@ -775,7 +775,7 @@ Kerem Bozdas
 
 == Rust 
 
-* https://github.com/ratatui-org/ratatui[ratatui-org/ratatui] - Rust library that's all about cooking up terminal user interfaces (TUIs)
+* https://github.com/ratatui-org/ratatui[ratatui-org/ratatui] - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 * https://github.com/fujiapple852/trippy[fujiapple852/trippy] - A network diagnostic tool
 * https://github.com/tmcw/foursquare-cal[tmcw/foursquare-cal] - Convert Foursquare events to iCalendar
 * https://github.com/enquo/pg_enquo[enquo/pg_enquo] - Postgres extension to allow encrypted query operations
