@@ -152,7 +152,7 @@ Kerem Bozdas
 * https://github.com/mikefarah/yq[mikefarah/yq] - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 * https://github.com/berty/berty[berty/berty] - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * https://github.com/safing/portmaster[safing/portmaster] - 🏔 Love Freedom - ❌ Block Mass Surveillance
-* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find and verify credentials
+* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find and verify secrets
 * https://github.com/filebrowser/filebrowser[filebrowser/filebrowser] - 📂 Web File Browser
 * https://github.com/release-argus/Argus[release-argus/Argus] - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 * https://github.com/go-vikunja/vikunja[go-vikunja/vikunja] - Mirror of vikunja from https://code.vikunja.io/api
@@ -296,6 +296,10 @@ Kerem Bozdas
 * https://github.com/mdeff/fma[mdeff/fma] - FMA: A Dataset For Music Analysis
 * https://github.com/rasbt/python-machine-learning-book[rasbt/python-machine-learning-book] - The "Python Machine Learning (1st edition)"  book code repository and info resource
 * https://github.com/MuhammedHasan/restaurant-analyze[MuhammedHasan/restaurant-analyze] - 
+
+== Just 
+
+* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 == Kotlin 
 
@@ -677,7 +681,7 @@ Kerem Bozdas
 * https://github.com/ruby/typeprof[ruby/typeprof] - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 * https://github.com/ruby/irb[ruby/irb] - interactive Ruby
 * https://github.com/standardrb/standard[standardrb/standard] - Ruby's bikeshed-proof linter and formatter 🚲
-* https://github.com/gollum/gollum[gollum/gollum] - A simple, Git-powered wiki with a sweet API and local frontend.
+* https://github.com/gollum/gollum[gollum/gollum] - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 * https://github.com/zammad/zammad[zammad/zammad] - Zammad is a web based open source helpdesk/customer support system
 * https://github.com/opf/openproject[opf/openproject] - OpenProject is the leading open source project management software.
 * https://github.com/motor-admin/motor-admin[motor-admin/motor-admin] - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -879,7 +883,6 @@ Kerem Bozdas
 
 == Shell 
 
-* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
