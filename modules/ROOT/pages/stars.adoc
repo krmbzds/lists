@@ -71,7 +71,7 @@ Kerem Bozdas
 * https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - LLM inference in C/C++
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - gpt4all: run open-source LLMs anywhere
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
-* https://github.com/MasterQ32/kristall[MasterQ32/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
+* https://github.com/ikskuh/kristall[ikskuh/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 * https://github.com/newsboat/newsboat[newsboat/newsboat] - An RSS/Atom feed reader for text terminals
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
@@ -239,7 +239,7 @@ Kerem Bozdas
 * https://github.com/neo4j-documentation/asciidoctor-jupyter[neo4j-documentation/asciidoctor-jupyter] - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 * https://github.com/bdaase/noannoyance[bdaase/noannoyance] - 
 * https://github.com/nesaku/BiblioReads[nesaku/BiblioReads] - An Alternative Private Goodreads Front-End.
-* https://github.com/ViewComponent/lookbook[ViewComponent/lookbook] - A UI development environment for Ruby on Rails apps ✨
+* https://github.com/lookbook-hq/lookbook[lookbook-hq/lookbook] - A UI development environment for Ruby on Rails apps ✨
 * https://github.com/brave/brave-browser[brave/brave-browser] - Brave browser for Android, iOS, Linux, macOS, Windows.
 * https://github.com/yobulkdev/yobulkdev[yobulkdev/yobulkdev] - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 * https://github.com/automerge/automerge[automerge/automerge] - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -296,10 +296,6 @@ Kerem Bozdas
 * https://github.com/mdeff/fma[mdeff/fma] - FMA: A Dataset For Music Analysis
 * https://github.com/rasbt/python-machine-learning-book[rasbt/python-machine-learning-book] - The "Python Machine Learning (1st edition)"  book code repository and info resource
 * https://github.com/MuhammedHasan/restaurant-analyze[MuhammedHasan/restaurant-analyze] - 
-
-== Just 
-
-* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 == Kotlin 
 
@@ -859,7 +855,7 @@ Kerem Bozdas
 * https://github.com/ogham/dog[ogham/dog] - A command-line DNS client.
 * https://github.com/dani-garcia/vaultwarden[dani-garcia/vaultwarden] - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * https://github.com/sharkdp/bat[sharkdp/bat] - A cat(1) clone with wings.
-* https://github.com/dandavison/delta[dandavison/delta] - A syntax-highlighting pager for git, diff, and grep output
+* https://github.com/dandavison/delta[dandavison/delta] - A syntax-highlighting pager for git, diff, grep, and blame output
 * https://github.com/artichoke/artichoke[artichoke/artichoke] - 💎 Artichoke is a Ruby made with Rust
 * https://github.com/gleam-lang/gleam[gleam-lang/gleam] - ⭐️ A friendly language for building type-safe, scalable systems!
 * https://github.com/ActivityWatch/aw-server-rust[ActivityWatch/aw-server-rust] - High-performance implementation of the ActivityWatch server, written in Rust
@@ -883,6 +879,7 @@ Kerem Bozdas
 
 == Shell 
 
+* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
@@ -948,7 +945,7 @@ Kerem Bozdas
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance app
-* https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and money splitting for groups :money_with_wings:
+* https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and money splitting for groups 💸
 * https://github.com/standardnotes/app[standardnotes/app] - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 * https://github.com/chaskiq/chaskiq[chaskiq/chaskiq] - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 * https://github.com/calcom/cal.com[calcom/cal.com] - Scheduling infrastructure for absolutely everyone.
