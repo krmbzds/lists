@@ -335,7 +335,6 @@ Kerem Bozdas
 * https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 * https://github.com/pwntester/octo.nvim[pwntester/octo.nvim] - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
-* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/folke/lazy.nvim[folke/lazy.nvim] - 💤 A modern plugin manager for Neovim
 * https://github.com/sindrets/dotfiles[sindrets/dotfiles] - 
 * https://github.com/rmagatti/auto-session[rmagatti/auto-session] - A small automated session manager for Neovim
@@ -534,7 +533,7 @@ Kerem Bozdas
 * https://github.com/Kharacternyk/paper-tactics[Kharacternyk/paper-tactics] - The backend for www.paper-tactics.com — a web application to play a pen-and-paper game with other people around the world.
 * https://github.com/indestructible-type/Drafting[indestructible-type/Drafting] - An origonal Monospaced font
 * https://github.com/wootfish/theseus.dht[wootfish/theseus.dht] - A distributed hash table with unusually strong security properties
-* https://github.com/mlc-ai/mlc-llm[mlc-ai/mlc-llm] - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+* https://github.com/mlc-ai/mlc-llm[mlc-ai/mlc-llm] - Universal LLM Deployment Engine with ML Compilation
 * https://github.com/kizniche/Mycodo[kizniche/Mycodo] - An environmental monitoring and regulation system
 * https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
@@ -937,6 +936,7 @@ Kerem Bozdas
 * https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * https://github.com/learn-anything/learn-anything.xyz[learn-anything/learn-anything.xyz] - Organize world's knowledge, explore connections and curate learning paths
+* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🧡 Everything is RSSible
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
