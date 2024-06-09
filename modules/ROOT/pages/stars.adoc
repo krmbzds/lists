@@ -146,7 +146,7 @@ Kerem Bozdas
 == Go 
 
 * https://github.com/jovandeginste/workout-tracker[jovandeginste/workout-tracker] - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
-* https://github.com/vdjagilev/nmap-formatter[vdjagilev/nmap-formatter] - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
+* https://github.com/vdjagilev/nmap-formatter[vdjagilev/nmap-formatter] - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 * https://github.com/maxpert/marmot[maxpert/marmot] - A distributed SQLite replicator built on top of NATS
 * https://github.com/binwiederhier/ntfy[binwiederhier/ntfy] - Send push notifications to your phone or desktop using PUT/POST
 * https://github.com/antonmedv/fx[antonmedv/fx] - Terminal JSON viewer & processor
@@ -199,6 +199,7 @@ Kerem Bozdas
 * https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
 * https://github.com/leemunroe/responsive-html-email-template[leemunroe/responsive-html-email-template] - A free simple responsive HTML email template
+* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 
 == Handlebars 
 
@@ -507,7 +508,6 @@ Kerem Bozdas
 * https://github.com/EbookFoundation/free-programming-books[EbookFoundation/free-programming-books] - :books: Freely available programming books
 * https://github.com/sindresorhus/awesome[sindresorhus/awesome] - 😎 Awesome lists about all kinds of interesting topics
 * https://github.com/vigo/turk-scene-tarihi[vigo/turk-scene-tarihi] - 80'lerin ortasında başlayan, günümüz bilgisayar kültürünün neredeyse başlangıç noktası olan Türk SCENE/DEMOSCENE tarihçesi
-* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 * https://github.com/markets/awesome-ruby[markets/awesome-ruby] - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 * https://github.com/Squonk42/TL-WR703N[Squonk42/TL-WR703N] - Reverse Engineering work on the TP-LINK TL-WR703N 150M 802.11n Wi-Fi Router
 
