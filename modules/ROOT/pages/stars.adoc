@@ -35,7 +35,6 @@ Kerem Bozdas
 * https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
-* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/aldostools/webMAN-MOD[aldostools/webMAN-MOD] - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
 * https://github.com/librerpi/lk-overlay[librerpi/lk-overlay] - 
 * https://github.com/citusdata/citus[citusdata/citus] - Distributed PostgreSQL as an extension
@@ -73,6 +72,7 @@ Kerem Bozdas
 * https://github.com/ikskuh/kristall[ikskuh/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 * https://github.com/newsboat/newsboat[newsboat/newsboat] - An RSS/Atom feed reader for text terminals
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
 * https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
@@ -110,7 +110,7 @@ Kerem Bozdas
 == Dart 
 
 * https://github.com/ente-io/ente[ente-io/ente] - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
-* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 == Dockerfile 
 
@@ -182,7 +182,7 @@ Kerem Bozdas
 
 == HTML 
 
-* https://github.com/kmille/freetar[kmille/freetar] - freetar  - an alternative frontend for ultimate-guitar.com
+* https://github.com/kmille/freetar[kmille/freetar] - freetar  - an alternative frontend to ultimate-guitar.com
 * https://github.com/aviflombaum/shadcn-rails[aviflombaum/shadcn-rails] - 
 * https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 * https://github.com/system-fonts/modern-font-stacks[system-fonts/modern-font-stacks] - System font stack CSS organized by typeface classification for every modern operating system
@@ -535,7 +535,7 @@ Kerem Bozdas
 * https://github.com/wootfish/theseus.dht[wootfish/theseus.dht] - A distributed hash table with unusually strong security properties
 * https://github.com/mlc-ai/mlc-llm[mlc-ai/mlc-llm] - Universal LLM Deployment Engine with ML Compilation
 * https://github.com/kizniche/Mycodo[kizniche/Mycodo] - An environmental monitoring and regulation system
-* https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+* https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 * https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools.
@@ -787,7 +787,7 @@ Kerem Bozdas
 * https://github.com/pop-os/cosmic-settings-daemon[pop-os/cosmic-settings-daemon] - 
 * https://github.com/pop-os/cosmic-notifications[pop-os/cosmic-notifications] - 
 * https://github.com/crablang/crab[crablang/crab] - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-* https://github.com/rustformers/llm[rustformers/llm] - An ecosystem of Rust libraries for working with large language models
+* https://github.com/rustformers/llm[rustformers/llm] - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 * https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
 * https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 * https://github.com/TabbyML/tabby[TabbyML/tabby] - Self-hosted AI coding assistant
