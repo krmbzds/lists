@@ -199,7 +199,6 @@ Kerem Bozdas
 * https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
 * https://github.com/leemunroe/responsive-html-email-template[leemunroe/responsive-html-email-template] - A free simple responsive HTML email template
-* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 
 == Handlebars 
 
@@ -644,7 +643,7 @@ Kerem Bozdas
 * https://github.com/ericbeland/ruby-packer[ericbeland/ruby-packer] - Packing your Ruby application into a single executable.
 * https://github.com/basecamp/kamal[basecamp/kamal] - Deploy web apps anywhere.
 * https://github.com/glaucocustodio/tanakai[glaucocustodio/tanakai] - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
-* https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
+* https://github.com/ronin-rb/ronin[ronin-rb/ronin] - Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd-party git rep
 * https://github.com/saturnflyer/polyfill-data[saturnflyer/polyfill-data] - Adds the Ruby 3.2 Data class to lower Ruby versions
 * https://github.com/calebhearth/mentionable[calebhearth/mentionable] - 
 * https://github.com/DragonRidersUnite/book[DragonRidersUnite/book] - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
@@ -863,6 +862,7 @@ Kerem Bozdas
 * https://github.com/portier/portier-broker[portier/portier-broker] - Portier Broker reference implementation, written in Rust
 * https://github.com/BurntSushi/ripgrep[BurntSushi/ripgrep] - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * https://github.com/rust-lang/book[rust-lang/book] - The Rust Programming Language
+* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 * https://github.com/rust-lang/rust[rust-lang/rust] - Empowering everyone to build reliable and efficient software.
 * https://github.com/uutils/coreutils[uutils/coreutils] - Cross-platform Rust rewrite of the GNU coreutils
 
