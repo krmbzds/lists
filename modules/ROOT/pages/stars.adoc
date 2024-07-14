@@ -157,7 +157,7 @@ Kerem Bozdas
 * https://github.com/filebrowser/filebrowser[filebrowser/filebrowser] - 📂 Web File Browser
 * https://github.com/release-argus/Argus[release-argus/Argus] - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 * https://github.com/go-vikunja/vikunja[go-vikunja/vikunja] - Mirror of vikunja from https://code.vikunja.io/api
-* https://github.com/netbirdio/netbird[netbirdio/netbird] - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+* https://github.com/netbirdio/netbird[netbirdio/netbird] - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 * https://github.com/knadh/listmonk[knadh/listmonk] - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * https://github.com/mtlynch/picoshare[mtlynch/picoshare] - A minimalist, easy-to-host service for sharing images and other files
 * https://github.com/errata-ai/vale[errata-ai/vale] - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -401,7 +401,7 @@ Kerem Bozdas
 * https://github.com/f-person/git-blame.nvim[f-person/git-blame.nvim] - Git Blame plugin for Neovim written in Lua
 * https://github.com/rafamadriz/friendly-snippets[rafamadriz/friendly-snippets] - Set of preconfigured snippets for different languages.
 * https://github.com/mfussenegger/nvim-dap[mfussenegger/nvim-dap] - Debug Adapter Protocol client implementation for Neovim
-* https://github.com/folke/which-key.nvim[folke/which-key.nvim] - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+* https://github.com/folke/which-key.nvim[folke/which-key.nvim] - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 * https://github.com/lewis6991/impatient.nvim[lewis6991/impatient.nvim] - Improve startup time for Neovim
 * https://github.com/ahmedkhalf/project.nvim[ahmedkhalf/project.nvim] - The superior project management solution for neovim.
 * https://github.com/akinsho/toggleterm.nvim[akinsho/toggleterm.nvim] - A neovim lua plugin to help easily manage multiple terminal windows
