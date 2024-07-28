@@ -586,7 +586,7 @@ Kerem Bozdas
 * https://github.com/ActivityWatch/activitywatch[ActivityWatch/activitywatch] - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 * https://github.com/gridsync/gridsync[gridsync/gridsync] - Synchronize local directories with Tahoe-LAFS storage grids
 * https://github.com/getredash/redash[getredash/redash] - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 * https://github.com/emre/PharmacyOnDuty[emre/PharmacyOnDuty] - Pharmacy *on duty* api for Istanbul.
 * https://github.com/jupyter/docker-stacks[jupyter/docker-stacks] - Ready-to-run Docker images containing Jupyter applications
 * https://github.com/buckket/twtxt[buckket/twtxt] - Decentralised, minimalist microblogging service for hackers.
@@ -667,7 +667,7 @@ Kerem Bozdas
 * https://github.com/ruby-syntax-tree/syntax_tree[ruby-syntax-tree/syntax_tree] - Interact with the Ruby syntax tree
 * https://github.com/Shopify/ruby-style-guide[Shopify/ruby-style-guide] - Shopify’s Ruby Style Guide
 * https://github.com/rubocop/rubocop-performance[rubocop/rubocop-performance] - An extension of RuboCop focused on code performance checks.
-* https://github.com/Shopify/erb-lint[Shopify/erb-lint] - Lint your ERB or HTML files
+* https://github.com/Shopify/erb_lint[Shopify/erb_lint] - Lint your ERB or HTML files
 * https://github.com/ruby/ruby.wasm[ruby/ruby.wasm] - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 * https://github.com/ruby/net-http[ruby/net-http] - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * https://github.com/ruby/syntax_suggest[ruby/syntax_suggest] - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
@@ -937,7 +937,7 @@ Kerem Bozdas
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * https://github.com/learn-anything/learn-anything.xyz[learn-anything/learn-anything.xyz] - Organize world's knowledge, explore connections and curate learning paths
 * https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
-* https://github.com/riffusion/riffusion-app[riffusion/riffusion-app] - Stable diffusion for real-time music generation (web app)
+* https://github.com/riffusion/riffusion-app-hobby[riffusion/riffusion-app-hobby] - Stable diffusion for real-time music generation (web app)
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🧡 Everything is RSSible
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
 * https://github.com/Linen-dev/linen.dev[Linen-dev/linen.dev] - Lightweight Google-searchable Slack alternative for Communities
