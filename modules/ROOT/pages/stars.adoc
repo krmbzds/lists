@@ -153,7 +153,7 @@ Kerem Bozdas
 * https://github.com/mikefarah/yq[mikefarah/yq] - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 * https://github.com/berty/berty[berty/berty] - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * https://github.com/safing/portmaster[safing/portmaster] - 🏔 Love Freedom - ❌ Block Mass Surveillance
-* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find and verify secrets
+* https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find, verify, and analyze leaked credentials
 * https://github.com/filebrowser/filebrowser[filebrowser/filebrowser] - 📂 Web File Browser
 * https://github.com/release-argus/Argus[release-argus/Argus] - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 * https://github.com/go-vikunja/vikunja[go-vikunja/vikunja] - Mirror of vikunja from https://code.vikunja.io/api
@@ -169,7 +169,7 @@ Kerem Bozdas
 * https://github.com/twpayne/chezmoi[twpayne/chezmoi] - Manage your dotfiles across multiple diverse machines, securely.
 * https://github.com/wagoodman/dive[wagoodman/dive] - A tool for exploring each layer in a docker image
 * https://github.com/divan/txqr[divan/txqr] - Transfer data via animated QR codes
-* https://github.com/MichaelMure/git-bug[MichaelMure/git-bug] - Distributed, offline-first bug tracker embedded in git, with bridges
+* https://github.com/git-bug/git-bug[git-bug/git-bug] - Distributed, offline-first bug tracker embedded in git, with bridges
 * https://github.com/photoprism/photoprism[photoprism/photoprism] - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * https://github.com/boringproxy/boringproxy[boringproxy/boringproxy] - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 * https://github.com/akhenakh/kvtiles[akhenakh/kvtiles] - Self hosted maps, PMTiles, MBTiles key value storage and server
@@ -246,7 +246,7 @@ Kerem Bozdas
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
-* https://github.com/mickael-kerjean/filestash[mickael-kerjean/filestash] - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+* https://github.com/mickael-kerjean/filestash[mickael-kerjean/filestash] - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * https://github.com/Rezmason/matrix[Rezmason/matrix] - matrix (web-based green code rain, made with love)
 * https://github.com/movim/movim[movim/movim] - Movim - Decentralized social platform
 * https://github.com/documize/community[documize/community] - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -303,7 +303,7 @@ Kerem Bozdas
 
 == Lua 
 
-* https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
+* https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - An UNOFFICIAL Tailwind CSS integration and tooling for Neovim
 * https://github.com/tigion/nvim-asciidoc-preview[tigion/nvim-asciidoc-preview] - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 * https://github.com/chrisgrieser/nvim-scissors[chrisgrieser/nvim-scissors] - Automagical editing and creation of snippets.
 * https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Reactivity. Right in your neovim.
@@ -454,7 +454,7 @@ Kerem Bozdas
 * https://github.com/github/gitignore[github/gitignore] - A collection of useful .gitignore templates
 * https://github.com/SterlingHooten/borg-backup-exclusions-macos[SterlingHooten/borg-backup-exclusions-macos] - Exclusion rules for Borg Backup catered to macOS
 * https://github.com/nanotee/nvim-lua-guide[nanotee/nvim-lua-guide] - A guide to using Lua in Neovim
-* https://github.com/castrojo/awesome-immutable[castrojo/awesome-immutable] - A list of resources for people who want to investigate image-based Linux desktops
+* https://github.com/Malix-off/awesome_atomic[Malix-off/awesome_atomic] - An awesome curated knowledge-base about atomic systems
 * https://github.com/shubhamgrg04/awesome-diagramming[shubhamgrg04/awesome-diagramming] - A curated collection of diagramming tools used by leading software engineering teams
 * https://github.com/st0012/slides[st0012/slides] - 
 * https://github.com/ruby/dev-meeting-log[ruby/dev-meeting-log] - Log archive for monthly Developers Meeting
@@ -727,7 +727,7 @@ Kerem Bozdas
 * https://github.com/panvol/pandemic-volunteers[panvol/pandemic-volunteers] - ❤️ Pandemic Volunteers | ⚠️ Help Wanted
 * https://github.com/huginn/huginn[huginn/huginn] - Create agents that monitor and act on your behalf.  Your agents are standing by!
 * https://github.com/paper-trail-gem/paper_trail[paper-trail-gem/paper_trail] - Track changes to your rails models
-* https://github.com/mattbrictson/tomo[mattbrictson/tomo] - A friendly CLI for deploying Rails apps ✨
+* https://github.com/mattbrictson/tomo[mattbrictson/tomo] - A friendly and extensible CLI for deploying Rails apps via SSH
 * https://github.com/oguzhangoller/gravedigger[oguzhangoller/gravedigger] - 
 * https://github.com/travisjeffery/timecop[travisjeffery/timecop] - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT
 * https://github.com/paulelliott/fabrication[paulelliott/fabrication] - This project has moved to GitLab! Please check there for the latest updates.
@@ -956,7 +956,7 @@ Kerem Bozdas
 * https://github.com/hotwired/stimulus[hotwired/stimulus] - A modest JavaScript framework for the HTML you already have
 * https://github.com/Lissy93/personal-security-checklist[Lissy93/personal-security-checklist] - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 * https://github.com/alixaxel/chrome-aws-lambda[alixaxel/chrome-aws-lambda] - Chromium Binary for AWS Lambda and Google Cloud Functions
-* https://github.com/puppeteer/puppeteer[puppeteer/puppeteer] - Node.js API for Chrome
+* https://github.com/puppeteer/puppeteer[puppeteer/puppeteer] - JavaScript API for Chrome and Firefox
 * https://github.com/n8n-io/n8n[n8n-io/n8n] - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 * https://github.com/WuTheFWasThat/vimflowy[WuTheFWasThat/vimflowy] - An open source productivity tool drawing inspiration from workflowy and vim
 * https://github.com/torokmark/design_patterns_in_typescript[torokmark/design_patterns_in_typescript] - :triangular_ruler: Design pattern implementations in TypeScript
