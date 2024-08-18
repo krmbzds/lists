@@ -250,7 +250,6 @@ Kerem Bozdas
 * https://github.com/Rezmason/matrix[Rezmason/matrix] - matrix (web-based green code rain, made with love)
 * https://github.com/movim/movim[movim/movim] - Movim - Decentralized social platform
 * https://github.com/documize/community[documize/community] - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-* https://github.com/ether/etherpad-lite[ether/etherpad-lite] - Etherpad: A modern really-real-time collaborative document editor.
 * https://github.com/overleaf/overleaf[overleaf/overleaf] - A web-based collaborative LaTeX editor
 * https://github.com/zyachel/quetre[zyachel/quetre] - A libre front-end for Quora
 * https://github.com/advplyr/audiobookshelf[advplyr/audiobookshelf] - Self-hosted audiobook and podcast server
@@ -303,7 +302,7 @@ Kerem Bozdas
 
 == Lua 
 
-* https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - An UNOFFICIAL Tailwind CSS integration and tooling for Neovim
+* https://github.com/luckasRanarison/tailwind-tools.nvim[luckasRanarison/tailwind-tools.nvim] - An unofficial Tailwind CSS integration and tooling for Neovim
 * https://github.com/tigion/nvim-asciidoc-preview[tigion/nvim-asciidoc-preview] - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 * https://github.com/chrisgrieser/nvim-scissors[chrisgrieser/nvim-scissors] - Automagical editing and creation of snippets.
 * https://github.com/rasulomaroff/reactive.nvim[rasulomaroff/reactive.nvim] - Reactivity. Right in your neovim.
@@ -839,7 +838,7 @@ Kerem Bozdas
 * https://github.com/pop-os/cosmic-panel[pop-os/cosmic-panel] - WIP
 * https://github.com/pop-os/core[pop-os/core] - WIP immutable base
 * https://github.com/kdheepak/taskwarrior-tui[kdheepak/taskwarrior-tui] - `taskwarrior-tui`: A terminal user interface for taskwarrior
-* https://github.com/postgresml/postgresml[postgresml/postgresml] - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+* https://github.com/postgresml/postgresml[postgresml/postgresml] - Postgres with GPUs for ML/AI apps.
 * https://github.com/TBS1996/speki[TBS1996/speki] - flashcard app in your terminal
 * https://github.com/Canop/broot[Canop/broot] - A new way to see and navigate directory trees : https://dystroy.org/broot
 * https://github.com/headwaymaps/headway[headwaymaps/headway] - Self-hostable maps stack, powered by OpenStreetMap.
@@ -944,6 +943,7 @@ Kerem Bozdas
 * https://github.com/photoview/photoview[photoview/photoview] - Photo gallery for self-hosted personal servers
 * https://github.com/tagspaces/tagspaces[tagspaces/tagspaces] - TagSpaces is an offline, open source, document manager with tagging support
 * https://github.com/julianpoy/RecipeSage[julianpoy/RecipeSage] - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
+* https://github.com/ether/etherpad-lite[ether/etherpad-lite] - Etherpad: A modern really-real-time collaborative document editor.
 * https://github.com/actualbudget/actual[actualbudget/actual] - A local-first personal finance app
 * https://github.com/SFTtech/abrechnung[SFTtech/abrechnung] - Payment tracking and money splitting for groups 💸
 * https://github.com/standardnotes/app[standardnotes/app] - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
