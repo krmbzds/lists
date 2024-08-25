@@ -35,6 +35,7 @@ Kerem Bozdas
 * https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
+* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/aldostools/webMAN-MOD[aldostools/webMAN-MOD] - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
 * https://github.com/librerpi/lk-overlay[librerpi/lk-overlay] - 
 * https://github.com/citusdata/citus[citusdata/citus] - Distributed PostgreSQL as an extension
@@ -67,12 +68,11 @@ Kerem Bozdas
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
 * https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - LLM inference in C/C++
-* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - GPT4All: Chat with Local LLMs on Any Device
+* https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
 * https://github.com/ikskuh/kristall[ikskuh/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 * https://github.com/newsboat/newsboat[newsboat/newsboat] - An RSS/Atom feed reader for text terminals
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
 * https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
@@ -315,7 +315,7 @@ Kerem Bozdas
 * https://github.com/tzachar/highlight-undo.nvim[tzachar/highlight-undo.nvim] - Highlight changed text after Undo / Redo operations
 * https://github.com/stevearc/conform.nvim[stevearc/conform.nvim] - Lightweight yet powerful formatter plugin for Neovim
 * https://github.com/desdic/macrothis.nvim[desdic/macrothis.nvim] - Macrothis is a plugin for neovim to save and load macros
-* https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - A Neovim plugin helping you establish good command workflow and quit bad habit
+* https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - Establish good command workflow and quit bad habit
 * https://github.com/folke/edgy.nvim[folke/edgy.nvim] - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 * https://github.com/krmbzds/dracula.nvim[krmbzds/dracula.nvim] - Dracula colorscheme for neovim written in Lua
 * https://github.com/rmagatti/goto-preview[rmagatti/goto-preview] - A small Neovim plugin for previewing definitions using floating windows.
@@ -328,7 +328,7 @@ Kerem Bozdas
 * https://github.com/tversteeg/registers.nvim[tversteeg/registers.nvim] - 📑 Neovim plugin to preview the contents of the registers
 * https://github.com/CKolkey/ts-node-action[CKolkey/ts-node-action] - Neovim Plugin for running functions on nodes.
 * https://github.com/EtiamNullam/deferred-clipboard.nvim[EtiamNullam/deferred-clipboard.nvim] - Keep clipboard in sync with Neovim without the peformance hit.
-* https://github.com/utilyre/barbecue.nvim[utilyre/barbecue.nvim] - A VS Code like winbar for Neovim
+* https://github.com/utilyre/barbecue.nvim[utilyre/barbecue.nvim] - Visual Studio Code inspired breadcrumbs plugin for the Neovim editor
 * https://github.com/VonHeikemen/lsp-zero.nvim[VonHeikemen/lsp-zero.nvim] - A starting point to setup some lsp related features in neovim.
 * https://github.com/j-hui/fidget.nvim[j-hui/fidget.nvim] - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 * https://github.com/olimorris/dotfiles[olimorris/dotfiles] - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
@@ -773,7 +773,7 @@ Kerem Bozdas
 
 == Rust 
 
-* https://github.com/ratatui-org/ratatui[ratatui-org/ratatui] - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+* https://github.com/ratatui/ratatui[ratatui/ratatui] - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 * https://github.com/fujiapple852/trippy[fujiapple852/trippy] - A network diagnostic tool
 * https://github.com/tmcw/foursquare-cal[tmcw/foursquare-cal] - Convert Foursquare events to iCalendar
 * https://github.com/enquo/pg_enquo[enquo/pg_enquo] - Postgres extension to allow encrypted query operations
