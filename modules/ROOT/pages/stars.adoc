@@ -63,6 +63,7 @@ Kerem Bozdas
 
 == C++ 
 
+* https://github.com/tildearrow/furnace[tildearrow/furnace] - a multi-system chiptune tracker compatible with DefleMask modules
 * https://github.com/OpenTTD/OpenTTD[OpenTTD/OpenTTD] - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 * https://github.com/hyprwm/hyprcursor[hyprwm/hyprcursor] - The hyprland cursor format, library and utilities.
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
@@ -513,6 +514,7 @@ Kerem Bozdas
 
 == PHP 
 
+* https://github.com/ClassicPress/ClassicPress[ClassicPress/ClassicPress] - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 * https://github.com/monicahq/chandler[monicahq/chandler] - The upcoming brand new version of Monica. Not suitable for production use at the moment.
 * https://github.com/henrywhitaker3/Speedtest-Tracker[henrywhitaker3/Speedtest-Tracker] - Continuously track your internet speed
 * https://github.com/mautic/mautic[mautic/mautic] - Mautic: Open Source Marketing Automation Software.
@@ -530,6 +532,7 @@ Kerem Bozdas
 
 == Python 
 
+* https://github.com/AMD-AIG-AIMA/AMD-LLM[AMD-AIG-AIMA/AMD-LLM] - 
 * https://github.com/Kharacternyk/paper-tactics[Kharacternyk/paper-tactics] - The backend for www.paper-tactics.com — a web application to play a pen-and-paper game with other people around the world.
 * https://github.com/indestructible-type/Drafting[indestructible-type/Drafting] - An origonal Monospaced font
 * https://github.com/wootfish/theseus.dht[wootfish/theseus.dht] - A distributed hash table with unusually strong security properties
@@ -968,6 +971,7 @@ Kerem Bozdas
 
 == Vala 
 
+* https://github.com/louis77/tuner[louis77/tuner] - GNU/Linux app to discover and play internet radio stations
 * https://github.com/lainsce/notejot[lainsce/notejot] - Stupidly-simple notes app.
 
 == Verilog 
