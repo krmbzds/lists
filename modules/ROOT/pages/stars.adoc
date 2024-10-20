@@ -35,7 +35,6 @@ Kerem Bozdas
 * https://github.com/nalgeon/sqlean[nalgeon/sqlean] - The ultimate set of SQLite extensions
 * https://github.com/tonytonyjan/exif[tonytonyjan/exif] - The fastest Ruby EXIF reader.
 * https://github.com/libratbag/libratbag[libratbag/libratbag] - A DBus daemon to configure input devices, mainly high-end and gaming mice
-* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/aldostools/webMAN-MOD[aldostools/webMAN-MOD] - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
 * https://github.com/librerpi/lk-overlay[librerpi/lk-overlay] - 
 * https://github.com/citusdata/citus[citusdata/citus] - Distributed PostgreSQL as an extension
@@ -74,6 +73,7 @@ Kerem Bozdas
 * https://github.com/ikskuh/kristall[ikskuh/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 * https://github.com/newsboat/newsboat[newsboat/newsboat] - An RSS/Atom feed reader for text terminals
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+* https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
 * https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
@@ -184,6 +184,7 @@ Kerem Bozdas
 
 == HTML 
 
+* https://github.com/tinytoolkit/tinytoolk.it[tinytoolkit/tinytoolk.it] - 
 * https://github.com/kmille/freetar[kmille/freetar] - freetar  - an alternative frontend to ultimate-guitar.com
 * https://github.com/aviflombaum/shadcn-rails[aviflombaum/shadcn-rails] - 
 * https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
@@ -314,7 +315,7 @@ Kerem Bozdas
 * https://github.com/roobert/bufferline-cycle-windowless.nvim[roobert/bufferline-cycle-windowless.nvim] - :window: A Neovim/Bufferline extension to cycle through windowless buffers to give a more traditional tab based experience
 * https://github.com/chrisgrieser/nvim-origami[chrisgrieser/nvim-origami] - Fold with relentless elegance.
 * https://github.com/chrisgrieser/nvim-early-retirement[chrisgrieser/nvim-early-retirement] - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
-* https://github.com/tzachar/highlight-undo.nvim[tzachar/highlight-undo.nvim] - Highlight changed text after Undo / Redo operations
+* https://github.com/tzachar/highlight-undo.nvim[tzachar/highlight-undo.nvim] - Highlight changed text after any text changing operation
 * https://github.com/stevearc/conform.nvim[stevearc/conform.nvim] - Lightweight yet powerful formatter plugin for Neovim
 * https://github.com/desdic/macrothis.nvim[desdic/macrothis.nvim] - Macrothis is a plugin for neovim to save and load macros
 * https://github.com/m4xshen/hardtime.nvim[m4xshen/hardtime.nvim] - Establish good command workflow and quit bad habit
@@ -634,7 +635,7 @@ Kerem Bozdas
 * https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
 * https://github.com/isene/rsh[isene/rsh] - Ruby SHell
 * https://github.com/charkost/prosopite[charkost/prosopite] - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
-* https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP addon for Rails
+* https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP add-on for Rails
 * https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
 * https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
 * https://github.com/acuppy/faker_shorthand[acuppy/faker_shorthand] - 
