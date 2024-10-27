@@ -364,7 +364,7 @@ Kerem Bozdas
 * https://github.com/folke/neodev.nvim[folke/neodev.nvim] - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 * https://github.com/mrbjarksen/neo-tree-diagnostics.nvim[mrbjarksen/neo-tree-diagnostics.nvim] - A diagnostics source for neo-tree.nvim
 * https://github.com/L3MON4D3/LuaSnip[L3MON4D3/LuaSnip] - Snippet Engine for Neovim written in Lua.
-* https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - Maintained fork of the fastest Neovim colorizer
+* https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - UNMaintained fork of the fastest Neovim colorizer
 * https://github.com/famiu/bufdelete.nvim[famiu/bufdelete.nvim] - Delete Neovim buffers without losing window layout
 * https://github.com/williamboman/mason.nvim[williamboman/mason.nvim] - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * https://github.com/williamboman/mason-lspconfig.nvim[williamboman/mason-lspconfig.nvim] - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
