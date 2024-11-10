@@ -190,7 +190,6 @@ Kerem Bozdas
 * https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 * https://github.com/system-fonts/modern-font-stacks[system-fonts/modern-font-stacks] - System font stack CSS organized by typeface classification for every modern operating system
 * https://github.com/nicoburns/blessed-rs[nicoburns/blessed-rs] - A community guide to the Rust ecosystem
-* https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 * https://github.com/excid3/railshackathon.com[excid3/railshackathon.com] - The RailsHackathon.com website
 * https://github.com/judge0/judge0[judge0/judge0] - 🔥 The most advanced open-source online code execution system in the world.
 * https://github.com/GTFOBins/GTFOBins.github.io[GTFOBins/GTFOBins.github.io] - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -364,7 +363,7 @@ Kerem Bozdas
 * https://github.com/folke/neodev.nvim[folke/neodev.nvim] - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 * https://github.com/mrbjarksen/neo-tree-diagnostics.nvim[mrbjarksen/neo-tree-diagnostics.nvim] - A diagnostics source for neo-tree.nvim
 * https://github.com/L3MON4D3/LuaSnip[L3MON4D3/LuaSnip] - Snippet Engine for Neovim written in Lua.
-* https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - UNMaintained fork of the fastest Neovim colorizer
+* https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - The fastest Neovim colorizer
 * https://github.com/famiu/bufdelete.nvim[famiu/bufdelete.nvim] - Delete Neovim buffers without losing window layout
 * https://github.com/williamboman/mason.nvim[williamboman/mason.nvim] - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * https://github.com/williamboman/mason-lspconfig.nvim[williamboman/mason-lspconfig.nvim] - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -538,7 +537,7 @@ Kerem Bozdas
 * https://github.com/wootfish/theseus.dht[wootfish/theseus.dht] - A distributed hash table with unusually strong security properties
 * https://github.com/mlc-ai/mlc-llm[mlc-ai/mlc-llm] - Universal LLM Deployment Engine with ML Compilation
 * https://github.com/kizniche/Mycodo[kizniche/Mycodo] - An environmental monitoring and regulation system
-* https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
+* https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 * https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools.
@@ -553,6 +552,7 @@ Kerem Bozdas
 * https://github.com/learnbyexample/TUI-apps[learnbyexample/TUI-apps] - Terminal User Interface (TUI) apps
 * https://github.com/TenderOwl/Frog[TenderOwl/Frog] - Extract text from any image, video, QR Code and etc.
 * https://github.com/laktak/extrakto[laktak/extrakto] - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
+* https://github.com/DartLazer/WhoIsHomeUI[DartLazer/WhoIsHomeUI] - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 * https://github.com/bram2w/baserow[bram2w/baserow] - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 * https://github.com/djdembeck/bragibooks[djdembeck/bragibooks] - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
 * https://github.com/borgmatic-collective/borgmatic[borgmatic-collective/borgmatic] - Simple, configuration-driven backup software for servers and workstations
@@ -590,7 +590,7 @@ Kerem Bozdas
 * https://github.com/ActivityWatch/activitywatch[ActivityWatch/activitywatch] - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 * https://github.com/gridsync/gridsync[gridsync/gridsync] - Synchronize local directories with Tahoe-LAFS storage grids
 * https://github.com/getredash/redash[getredash/redash] - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+* https://github.com/commaai/openpilot[commaai/openpilot] - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 * https://github.com/emre/PharmacyOnDuty[emre/PharmacyOnDuty] - Pharmacy *on duty* api for Istanbul.
 * https://github.com/jupyter/docker-stacks[jupyter/docker-stacks] - Ready-to-run Docker images containing Jupyter applications
 * https://github.com/buckket/twtxt[buckket/twtxt] - Decentralised, minimalist microblogging service for hackers.
@@ -793,7 +793,7 @@ Kerem Bozdas
 * https://github.com/crablang/crab[crablang/crab] - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 * https://github.com/rustformers/llm[rustformers/llm] - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 * https://github.com/tree-sitter/tree-sitter[tree-sitter/tree-sitter] - An incremental parsing system for programming tools
-* https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
+* https://github.com/loichyan/nerdfix[loichyan/nerdfix] - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 * https://github.com/TabbyML/tabby[TabbyML/tabby] - Self-hosted AI coding assistant
 * https://github.com/Noeda/rllama[Noeda/rllama] - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 * https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
