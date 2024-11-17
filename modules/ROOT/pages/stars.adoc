@@ -24,6 +24,8 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/netdata/netdata[netdata/netdata] - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+* https://github.com/okbob/pspg[okbob/pspg] - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 * https://github.com/yo8192/fcron[yo8192/fcron] - fcron is an advanced cron for Linux/Unix systems
 * https://github.com/rvaiya/keyd[rvaiya/keyd] - A key remapping daemon for linux.
 * https://github.com/libimobiledevice/libimobiledevice[libimobiledevice/libimobiledevice] - A cross-platform protocol library to communicate with iOS devices
@@ -778,6 +780,9 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/jdx/mise[jdx/mise] - dev tools, env vars, task runner
+* https://github.com/ironcalc/TironCalc[ironcalc/TironCalc] - 
+* https://github.com/ironcalc/IronCalc[ironcalc/IronCalc] - Main engine of the IronCalc ecosystem
 * https://github.com/phiresky/ripgrep-all[phiresky/ripgrep-all] - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * https://github.com/ratatui/ratatui[ratatui/ratatui] - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 * https://github.com/fujiapple852/trippy[fujiapple852/trippy] - A network diagnostic tool
@@ -935,7 +940,7 @@ Kerem Bozdas
 * https://github.com/CatsJuice/ipad-cursor[CatsJuice/ipad-cursor] - ● Mouse effect of iPad in browser that can be used in any framework
 * https://github.com/xitanggg/open-resume[xitanggg/open-resume] - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * https://github.com/impulse-oss/impulse[impulse-oss/impulse] - Impossible Dev Tools for React and Tailwind
-* https://github.com/iconoir-icons/iconoir[iconoir-icons/iconoir] - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+* https://github.com/iconoir-icons/iconoir[iconoir-icons/iconoir] - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 * https://github.com/hocus-dev/hocus[hocus-dev/hocus] - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 * https://github.com/vixalien/sticky[vixalien/sticky] - A simple sticky notes app for GNOME
 * https://github.com/fourTheorem/podwhisperer[fourTheorem/podwhisperer] - Pod transcription with OpenAI Whisper and AWS
