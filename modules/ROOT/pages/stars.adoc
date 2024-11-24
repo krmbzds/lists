@@ -24,6 +24,7 @@ Kerem Bozdas
 
 == C 
 
+* https://github.com/andmarti1424/sc-im[andmarti1424/sc-im] - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 * https://github.com/netdata/netdata[netdata/netdata] - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 * https://github.com/okbob/pspg[okbob/pspg] - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 * https://github.com/yo8192/fcron[yo8192/fcron] - fcron is an advanced cron for Linux/Unix systems
@@ -202,6 +203,7 @@ Kerem Bozdas
 * https://github.com/sarabander/sicp[sarabander/sicp] - HTML5/EPUB3 version of SICP
 * https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
+* https://github.com/EbookFoundation/free-programming-books[EbookFoundation/free-programming-books] - :books: Freely available programming books
 * https://github.com/leemunroe/responsive-html-email-template[leemunroe/responsive-html-email-template] - A free simple responsive HTML email template
 
 == Handlebars 
@@ -210,6 +212,7 @@ Kerem Bozdas
 
 == Haskell 
 
+* https://github.com/simplex-chat/simplex-chat[simplex-chat/simplex-chat] - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * https://github.com/b3nj5m1n/xdg-ninja[b3nj5m1n/xdg-ninja] - A shell script which checks your $HOME for unwanted files and directories.
 
 == HolyC 
@@ -506,7 +509,6 @@ Kerem Bozdas
 * https://github.com/gztchan/awesome-design[gztchan/awesome-design] - 🌟 Curated design resources from all over the world.
 * https://github.com/raganwald/presentations[raganwald/presentations] - Conference Talks and Proposals
 * https://github.com/ctjhoa/rust-learning[ctjhoa/rust-learning] - A bunch of links to blog posts, articles, videos, etc for learning Rust
-* https://github.com/EbookFoundation/free-programming-books[EbookFoundation/free-programming-books] - :books: Freely available programming books
 * https://github.com/sindresorhus/awesome[sindresorhus/awesome] - 😎 Awesome lists about all kinds of interesting topics
 * https://github.com/drduh/macOS-Security-and-Privacy-Guide[drduh/macOS-Security-and-Privacy-Guide] - Guide to securing and improving privacy on macOS
 * https://github.com/vigo/turk-scene-tarihi[vigo/turk-scene-tarihi] - 80'lerin ortasında başlayan, günümüz bilgisayar kültürünün neredeyse başlangıç noktası olan Türk SCENE/DEMOSCENE tarihçesi
@@ -780,6 +782,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/Builditluc/wiki-tui[Builditluc/wiki-tui] - A simple and easy to use Wikipedia Text User Interface
 * https://github.com/jdx/mise[jdx/mise] - dev tools, env vars, task runner
 * https://github.com/ironcalc/TironCalc[ironcalc/TironCalc] - 
 * https://github.com/ironcalc/IronCalc[ironcalc/IronCalc] - Main engine of the IronCalc ecosystem
