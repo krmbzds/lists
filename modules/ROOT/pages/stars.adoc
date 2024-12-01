@@ -150,6 +150,7 @@ Kerem Bozdas
 
 == Go 
 
+* https://github.com/vinceanalytics/vince[vinceanalytics/vince] - Self Hosted Alternative To Google Analytics
 * https://github.com/jovandeginste/workout-tracker[jovandeginste/workout-tracker] - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 * https://github.com/vdjagilev/nmap-formatter[vdjagilev/nmap-formatter] - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 * https://github.com/maxpert/marmot[maxpert/marmot] - A distributed SQLite replicator built on top of NATS
@@ -368,7 +369,7 @@ Kerem Bozdas
 * https://github.com/folke/neodev.nvim[folke/neodev.nvim] - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 * https://github.com/mrbjarksen/neo-tree-diagnostics.nvim[mrbjarksen/neo-tree-diagnostics.nvim] - A diagnostics source for neo-tree.nvim
 * https://github.com/L3MON4D3/LuaSnip[L3MON4D3/LuaSnip] - Snippet Engine for Neovim written in Lua.
-* https://github.com/NvChad/nvim-colorizer.lua[NvChad/nvim-colorizer.lua] - The fastest Neovim colorizer
+* https://github.com/catgoose/nvim-colorizer.lua[catgoose/nvim-colorizer.lua] - The fastest Neovim colorizer
 * https://github.com/famiu/bufdelete.nvim[famiu/bufdelete.nvim] - Delete Neovim buffers without losing window layout
 * https://github.com/williamboman/mason.nvim[williamboman/mason.nvim] - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * https://github.com/williamboman/mason-lspconfig.nvim[williamboman/mason-lspconfig.nvim] - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -450,13 +451,15 @@ Kerem Bozdas
 
 == Others 
 
+* https://github.com/mieko/sr-captcha[mieko/sr-captcha] - Article describing how the technical means by which Silk Road 1's captcha was broken.
+* https://github.com/limentic/the-hephaestus-mod[limentic/the-hephaestus-mod] - Transform your Apple Magic Keyboard into a mechanical keyboard. Not affiliated with Apple.
 * https://github.com/neovim/neovim-releases[neovim/neovim-releases] - Unsupported Nvim releases
 * https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/Crataco/ai-guide[Crataco/ai-guide] - A guide for FOSS text generation frontends, models, and jargon.
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
-* https://github.com/SavourySnaX/AOTMC89[SavourySnaX/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
+* https://github.com/Konix-Multisystem/AOTMC89[Konix-Multisystem/AOTMC89] - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
 * https://github.com/github/gitignore[github/gitignore] - A collection of useful .gitignore templates
 * https://github.com/SterlingHooten/borg-backup-exclusions-macos[SterlingHooten/borg-backup-exclusions-macos] - Exclusion rules for Borg Backup catered to macOS
 * https://github.com/nanotee/nvim-lua-guide[nanotee/nvim-lua-guide] - A guide to using Lua in Neovim
@@ -618,6 +621,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/captn3m0/jekyll-sqlite[captn3m0/jekyll-sqlite] - A Jekyll plugin to use SQLite databases as a data source.
 * https://github.com/pocke/activerecord-originator[pocke/activerecord-originator] - A RubyGem adding SQL comments to indicate the origin of the SQL
 * https://github.com/truemail-rb/truemail[truemail-rb/truemail] - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 * https://github.com/yabeda-rb/yabeda-prometheus[yabeda-rb/yabeda-prometheus] - Adapter to expose metrics collected by Yabeda plugins to Prometheus
@@ -782,6 +786,7 @@ Kerem Bozdas
 
 == Rust 
 
+* https://github.com/ricott1/rebels-in-the-sky[ricott1/rebels-in-the-sky] - P2P terminal game about spacepirates playing basketball across the galaxy
 * https://github.com/Builditluc/wiki-tui[Builditluc/wiki-tui] - A simple and easy to use Wikipedia Text User Interface
 * https://github.com/jdx/mise[jdx/mise] - dev tools, env vars, task runner
 * https://github.com/ironcalc/TironCalc[ironcalc/TironCalc] - 
@@ -892,6 +897,7 @@ Kerem Bozdas
 
 == Shell 
 
+* https://github.com/celenityy/Phoenix[celenityy/Phoenix] - Putting the user back in user agent.
 * https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
