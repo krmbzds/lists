@@ -415,7 +415,7 @@ Kerem Bozdas
 * https://github.com/nvim-lualine/lualine.nvim[nvim-lualine/lualine.nvim] - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * https://github.com/akinsho/bufferline.nvim[akinsho/bufferline.nvim] - A snazzy bufferline for Neovim
 * https://github.com/nvim-tree/nvim-tree.lua[nvim-tree/nvim-tree.lua] - A file explorer tree for neovim written in lua
-* https://github.com/nvim-tree/nvim-web-devicons[nvim-tree/nvim-web-devicons] - lua `fork` of vim-web-devicons for neovim
+* https://github.com/nvim-tree/nvim-web-devicons[nvim-tree/nvim-web-devicons] - Provides Nerd Font icons (glyphs) for use by neovim plugins
 * https://github.com/rcarriga/nvim-notify[rcarriga/nvim-notify] - A fancy, configurable, notification manager for NeoVim
 * https://github.com/numToStr/Comment.nvim[numToStr/Comment.nvim] - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 * https://github.com/windwp/nvim-autopairs[windwp/nvim-autopairs] - autopairs for neovim written in lua
@@ -621,6 +621,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/pacso/aoc_rb[pacso/aoc_rb] - Ruby toolkit for Advent of Code
 * https://github.com/captn3m0/jekyll-sqlite[captn3m0/jekyll-sqlite] - A Jekyll plugin to use SQLite databases as a data source.
 * https://github.com/pocke/activerecord-originator[pocke/activerecord-originator] - A RubyGem adding SQL comments to indicate the origin of the SQL
 * https://github.com/truemail-rb/truemail[truemail-rb/truemail] - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
