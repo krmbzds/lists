@@ -7,8 +7,12 @@ Kerem Bozdas
 
 == Blog Posts
 
+=== General
+
 * https://perell.com/essay/50-ideas-that-changed-my-life/[David Perell - 50 Ideas that Changed My Life]
 * https://andymatuschak.org/prompts/[Andy Matuschak - How to write good prompts: using spaced repetition to create understanding]
 * https://michaelochurch.wordpress.com/2023/01/08/ai-will-kill-literature-and-ai-will-resurrect-it/[Michael O. Church - AI Will Kill Literature, and AI Will Resurrect It]
 
+=== Technical
 
+* https://jvns.ca/blog/2024/11/26/terminal-rules/["Rules" that terminal programs follow]
