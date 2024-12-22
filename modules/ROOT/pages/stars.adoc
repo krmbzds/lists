@@ -78,7 +78,7 @@ Kerem Bozdas
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 * https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
-* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
+* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
 * https://github.com/jfedor2/trackbowl-mk2[jfedor2/trackbowl-mk2] - The ball is the trackball
 * https://github.com/falkTX/Carla[falkTX/Carla] - Audio plugin host
@@ -113,7 +113,7 @@ Kerem Bozdas
 
 == Dart 
 
-* https://github.com/ente-io/ente[ente-io/ente] - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+* https://github.com/ente-io/ente[ente-io/ente] - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 == Dockerfile 
@@ -150,6 +150,7 @@ Kerem Bozdas
 
 == Go 
 
+* https://github.com/muety/wakapi[muety/wakapi] - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 * https://github.com/vinceanalytics/vince[vinceanalytics/vince] - Self Hosted Alternative To Google Analytics
 * https://github.com/jovandeginste/workout-tracker[jovandeginste/workout-tracker] - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 * https://github.com/vdjagilev/nmap-formatter[vdjagilev/nmap-formatter] - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
@@ -898,7 +899,7 @@ Kerem Bozdas
 
 == Shell 
 
-* https://github.com/celenityy/Phoenix[celenityy/Phoenix] - Putting the user back in user agent.
+* https://github.com/celenityy/Phoenix[celenityy/Phoenix] - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 * https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
