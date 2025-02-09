@@ -98,7 +98,7 @@ Kerem Bozdas
 
 * https://github.com/penpot/penpot[penpot/penpot] - Penpot: The open-source design tool for design and code collaboration
 * https://github.com/BerkeleyTrue/dotfiles[BerkeleyTrue/dotfiles] - My workstation dotfiles
-* https://github.com/metabase/metabase[metabase/metabase] - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+* https://github.com/metabase/metabase[metabase/metabase] - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 == Crystal 
 
@@ -625,6 +625,7 @@ Kerem Bozdas
 
 == Ruby 
 
+* https://github.com/excid3/receipts[excid3/receipts] - Easy receipts and invoices for your Ruby on Rails applications
 * https://github.com/benpickles/parklife[benpickles/parklife] - Render a Rack app (Rails/Sinatra/etc) to a static build so it can be served by Netlify, Now, GitHub Pages, S3, or any other web server.
 * https://github.com/jeremyevans/kaeruera[jeremyevans/kaeruera] - Simple Error Tracker for Ruby
 * https://github.com/jeremyevans/by[jeremyevans/by] - Ruby Library Preloader
@@ -891,7 +892,7 @@ Kerem Bozdas
 * https://github.com/portier/portier-broker[portier/portier-broker] - Portier Broker reference implementation, written in Rust
 * https://github.com/BurntSushi/ripgrep[BurntSushi/ripgrep] - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * https://github.com/rust-lang/book[rust-lang/book] - The Rust Programming Language
-* https://github.com/servo/servo[servo/servo] - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+* https://github.com/servo/servo[servo/servo] - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 * https://github.com/rust-lang/rust[rust-lang/rust] - Empowering everyone to build reliable and efficient software.
 * https://github.com/uutils/coreutils[uutils/coreutils] - Cross-platform Rust rewrite of the GNU coreutils
 
@@ -913,6 +914,7 @@ Kerem Bozdas
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
+* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/twpayne/dotfiles[twpayne/dotfiles] - My dotfiles, managed with https://chezmoi.io.
 * https://github.com/nodiscc/awesome-linuxaudio[nodiscc/awesome-linuxaudio] - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 * https://github.com/mikeroyal/PipeWire-Guide[mikeroyal/PipeWire-Guide] - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
@@ -966,7 +968,6 @@ Kerem Bozdas
 * https://github.com/dvx/lofi[dvx/lofi] - 🎵🔉 A mini Spotify player with WebGL visualizations.
 * https://github.com/Cookie-AutoDelete/Cookie-AutoDelete[Cookie-AutoDelete/Cookie-AutoDelete] - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * https://github.com/learn-anything/learn-anything[learn-anything/learn-anything] - Organize world's knowledge, explore connections and curate learning paths
-* https://github.com/folke/dot[folke/dot] - ☕️   My Dot Files
 * https://github.com/riffusion/riffusion-app-hobby[riffusion/riffusion-app-hobby] - Stable diffusion for real-time music generation (web app)
 * https://github.com/DIYgod/RSSHub[DIYgod/RSSHub] - 🧡 Everything is RSSible
 * https://github.com/SelfhostedPro/yacht-api[SelfhostedPro/yacht-api] - Backend API for Yacht
