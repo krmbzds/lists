@@ -67,7 +67,7 @@ Kerem Bozdas
 * https://github.com/hyprwm/hyprcursor[hyprwm/hyprcursor] - The hyprland cursor format, library and utilities.
 * https://github.com/Mozilla-Ocho/llamafile[Mozilla-Ocho/llamafile] - Distribute and run LLMs with a single file.
 * https://github.com/aristocratos/btop[aristocratos/btop] - A monitor of resources
-* https://github.com/ggerganov/llama.cpp[ggerganov/llama.cpp] - LLM inference in C/C++
+* https://github.com/ggml-org/llama.cpp[ggml-org/llama.cpp] - LLM inference in C/C++
 * https://github.com/nomic-ai/gpt4all[nomic-ai/gpt4all] - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 * https://github.com/SerenityOS/serenity[SerenityOS/serenity] - The Serenity Operating System 🐞
 * https://github.com/ikskuh/kristall[ikskuh/kristall] - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
@@ -459,7 +459,7 @@ Kerem Bozdas
 * https://github.com/mieko/sr-captcha[mieko/sr-captcha] - Article describing how the technical means by which Silk Road 1's captcha was broken.
 * https://github.com/limentic/the-hephaestus-mod[limentic/the-hephaestus-mod] - Transform your Apple Magic Keyboard into a mechanical keyboard. Not affiliated with Apple.
 * https://github.com/neovim/neovim-releases[neovim/neovim-releases] - Unsupported Nvim releases
-* https://github.com/TodePond/DreamBerd[TodePond/DreamBerd] - perfect programming language
+* https://github.com/TodePond/GulfOfMexico[TodePond/GulfOfMexico] - perfect programming language
 * https://github.com/toml-lang/toml[toml-lang/toml] - Tom's Obvious, Minimal Language
 * https://github.com/Engine-Simulator/engine-sim-community-edition[Engine-Simulator/engine-sim-community-edition] - Combustion engine simulation game that generates realistic audio.
 * https://github.com/dfloer/SC2k-docs[dfloer/SC2k-docs] - Documentation related to the implementation of Maxis' game, SimCity 2000.
@@ -910,7 +910,7 @@ Kerem Bozdas
 == Shell 
 
 * https://github.com/lexiforest/curl-impersonate[lexiforest/curl-impersonate] - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
-* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
