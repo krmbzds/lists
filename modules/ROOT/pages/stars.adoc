@@ -22,7 +22,7 @@ Kerem Bozdas
 
 * https://github.com/pebble-dev/RebbleOS[pebble-dev/RebbleOS] - open source operating system for low-power smartwatches
 * https://github.com/andmarti1424/sc-im[andmarti1424/sc-im] - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-* https://github.com/netdata/netdata[netdata/netdata] - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+* https://github.com/netdata/netdata[netdata/netdata] - X-Ray Vision for your infrastructure!
 * https://github.com/okbob/pspg[okbob/pspg] - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 * https://github.com/yo8192/fcron[yo8192/fcron] - fcron is an advanced cron for Linux/Unix systems
 * https://github.com/rvaiya/keyd[rvaiya/keyd] - A key remapping daemon for linux.
@@ -654,7 +654,7 @@ Kerem Bozdas
 * https://github.com/kojix2/icalmaker[kojix2/icalmaker] - 
 * https://github.com/ruby/tracer[ruby/tracer] - Outputs a source level execution trace of a Ruby program.
 * https://github.com/isene/rsh[isene/rsh] - Ruby SHell
-* https://github.com/charkost/prosopite[charkost/prosopite] - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
+* https://github.com/charkost/prosopite[charkost/prosopite] - Rails N+1 queries auto-detection with zero false positives / false negatives
 * https://github.com/Shopify/ruby-lsp-rails[Shopify/ruby-lsp-rails] - A Ruby LSP add-on for Rails
 * https://github.com/st0012/mini-debugger[st0012/mini-debugger] - 
 * https://github.com/MaximeD/gem_updater[MaximeD/gem_updater] - Update gems in your Gemfile and fetch their changelogs
