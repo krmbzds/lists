@@ -110,7 +110,7 @@ Kerem Bozdas
 
 == Dart 
 
-* https://github.com/ente-io/ente[ente-io/ente] - FOSS, End-to-End Encrypted Cloud
+* https://github.com/ente-io/ente[ente-io/ente] - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 * https://github.com/AppFlowy-IO/AppFlowy[AppFlowy-IO/AppFlowy] - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 == Dockerfile 
@@ -194,7 +194,6 @@ Kerem Bozdas
 * https://github.com/aviflombaum/shadcn-rails[aviflombaum/shadcn-rails] - 
 * https://github.com/akalenuk/wordsandbuttons[akalenuk/wordsandbuttons] - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 * https://github.com/system-fonts/modern-font-stacks[system-fonts/modern-font-stacks] - System font stack CSS organized by typeface classification for every modern operating system
-* https://github.com/nicoburns/blessed-rs[nicoburns/blessed-rs] - A community guide to the Rust ecosystem
 * https://github.com/excid3/railshackathon.com[excid3/railshackathon.com] - The RailsHackathon.com website
 * https://github.com/judge0/judge0[judge0/judge0] - 🔥 The most advanced open-source online code execution system in the world.
 * https://github.com/GTFOBins/GTFOBins.github.io[GTFOBins/GTFOBins.github.io] - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -550,7 +549,7 @@ Kerem Bozdas
 * https://github.com/kizniche/Mycodo[kizniche/Mycodo] - An environmental monitoring and regulation system
 * https://github.com/camel-ai/camel[camel-ai/camel] - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 * https://github.com/williamSYSU/TextGAN-PyTorch[williamSYSU/TextGAN-PyTorch] - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
-* https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
+* https://github.com/stefan-it/turkish-bert[stefan-it/turkish-bert] - Turkish BERT/DistilBERT, ELECTRA, ConvBERT and T5 models
 * https://github.com/AgileRL/AgileRL[AgileRL/AgileRL] - Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools.
 * https://github.com/SYSTRAN/faster-whisper[SYSTRAN/faster-whisper] - Faster Whisper transcription with CTranslate2
 * https://github.com/lm-sys/FastChat[lm-sys/FastChat] - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -824,6 +823,7 @@ Kerem Bozdas
 * https://github.com/tjdevries/vim9jit[tjdevries/vim9jit] - a vim9script -&gt; lua transpiler (written in Rust)
 * https://github.com/epilys/gerb[epilys/gerb] - Graphical font editor (GTK + Rust)
 * https://github.com/alexheretic/ab-av1[alexheretic/ab-av1] - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
+* https://github.com/nicoburns/blessed-rs[nicoburns/blessed-rs] - A community guide to the Rust ecosystem
 * https://github.com/pop-os/client-toolkit[pop-os/client-toolkit] - Smithay's toolkit for writing wayland clients
 * https://github.com/stalwartlabs/smtp-server[stalwartlabs/smtp-server] - Stalwart SMTP Server
 * https://github.com/cognitive-engineering-lab/aquascope[cognitive-engineering-lab/aquascope] - Interactive visualizations of Rust at compile-time and run-time
