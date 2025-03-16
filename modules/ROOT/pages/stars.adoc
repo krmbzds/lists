@@ -25,6 +25,7 @@ Kerem Bozdas
 * https://github.com/netdata/netdata[netdata/netdata] - X-Ray Vision for your infrastructure!
 * https://github.com/okbob/pspg[okbob/pspg] - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 * https://github.com/yo8192/fcron[yo8192/fcron] - fcron is an advanced cron for Linux/Unix systems
+* https://github.com/tillitis/tillitis-key1[tillitis/tillitis-key1] - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 * https://github.com/rvaiya/keyd[rvaiya/keyd] - A key remapping daemon for linux.
 * https://github.com/libimobiledevice/libimobiledevice[libimobiledevice/libimobiledevice] - A cross-platform protocol library to communicate with iOS devices
 * https://github.com/system76/firmware-open[system76/firmware-open] - System76 Open Firmware
@@ -201,6 +202,7 @@ Kerem Bozdas
 * https://github.com/robinsloan/perfect-edition[robinsloan/perfect-edition] - A lightweight, responsive web e-book template
 * https://github.com/asciidoctor/asciidoctor-reveal.js[asciidoctor/asciidoctor-reveal.js] - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 * https://github.com/littleblah/senior-engineer-checklist[littleblah/senior-engineer-checklist] - Senior Engineer CheckList
+* https://github.com/dwmkerr/hacker-laws[dwmkerr/hacker-laws] - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * https://github.com/sarabander/sicp[sarabander/sicp] - HTML5/EPUB3 version of SICP
 * https://github.com/drduh/YubiKey-Guide[drduh/YubiKey-Guide] - Guide to using YubiKey for GnuPG and SSH
 * https://github.com/jgthms/web-design-in-4-minutes[jgthms/web-design-in-4-minutes] - Learn the basics of web design in 4 minutes
@@ -253,7 +255,7 @@ Kerem Bozdas
 * https://github.com/automatisch/automatisch[automatisch/automatisch] - The open source Zapier alternative. Build workflow automation without spending time and money.
 * https://github.com/osolmaz/microtonal-piano[osolmaz/microtonal-piano] - A digital instrument inspired by piano and kanun
 * https://github.com/plankanban/planka[plankanban/planka] - The realtime kanban board for workgroups built with React and Redux.
-* https://github.com/mickael-kerjean/filestash[mickael-kerjean/filestash] - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+* https://github.com/mickael-kerjean/filestash[mickael-kerjean/filestash] - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * https://github.com/Rezmason/matrix[Rezmason/matrix] - matrix (web-based green code rain, made with love)
 * https://github.com/movim/movim[movim/movim] - Movim - Decentralized social platform
 * https://github.com/documize/community[documize/community] - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -479,7 +481,6 @@ Kerem Bozdas
 * https://github.com/romkatv/zsh4humans[romkatv/zsh4humans] - A turnkey configuration for Zsh
 * https://github.com/simon987/awesome-datahoarding[simon987/awesome-datahoarding] - List of data-hoarding related tools
 * https://github.com/ahmetb/kubernetes-network-policy-recipes[ahmetb/kubernetes-network-policy-recipes] - Example recipes for Kubernetes Network Policies that you can just copy paste
-* https://github.com/syxanash/awesome-web-desktops[syxanash/awesome-web-desktops] - Websites, web apps, portfolios which look like desktop operating systems
 * https://github.com/hakluke/how-to-exit-vim[hakluke/how-to-exit-vim] - Below are some simple methods for exiting vim.
 * https://github.com/tycrek/degoogle[tycrek/degoogle] - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * https://github.com/dogsheep/dogsheep.github.io[dogsheep/dogsheep.github.io] - Tools for personal analytics using SQLite and Datasette
@@ -741,6 +742,7 @@ Kerem Bozdas
 * https://github.com/ankane/rover[ankane/rover] - Simple, powerful data frames for Ruby
 * https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts[ankane/the-ultimate-guide-to-ruby-timeouts] - Timeouts for popular Ruby gems
 * https://github.com/feedjira/feedjira[feedjira/feedjira] - A feed parsing library
+* https://github.com/syxanash/awesome-web-desktops[syxanash/awesome-web-desktops] - Websites, web apps, portfolios which look like desktop operating systems
 * https://github.com/tmuxinator/tmuxinator[tmuxinator/tmuxinator] - Manage complex tmux sessions easily
 * https://github.com/ruby/ruby[ruby/ruby] - The Ruby Programming Language
 * https://github.com/sarslanoglu/turkish_cities[sarslanoglu/turkish_cities] - List and find Turkish cities via name, district name, post code, plate number etc.
@@ -929,7 +931,6 @@ Kerem Bozdas
 * https://github.com/Cloudbox/Cloudbox[Cloudbox/Cloudbox] - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 * https://github.com/VSCodium/vscodium[VSCodium/vscodium] - binary releases of VS Code without MS branding/telemetry/licensing
 * https://github.com/mvallim/kubernetes-under-the-hood[mvallim/kubernetes-under-the-hood] - This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together.
-* https://github.com/dwmkerr/hacker-laws[dwmkerr/hacker-laws] - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 * https://github.com/guysoft/OctoPi[guysoft/OctoPi] - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 * https://github.com/k4m4/movies-for-hackers[k4m4/movies-for-hackers] - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 * https://github.com/kamranahmedse/git-standup[kamranahmedse/git-standup] - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -999,10 +1000,6 @@ Kerem Bozdas
 
 * https://github.com/louis77/tuner[louis77/tuner] - GNU/Linux app to discover and play internet radio stations
 * https://github.com/lainsce/notejot[lainsce/notejot] - Stupidly-simple notes app.
-
-== Verilog 
-
-* https://github.com/tillitis/tillitis-key1[tillitis/tillitis-key1] - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 
 == Vim Script 
 
