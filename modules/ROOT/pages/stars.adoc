@@ -80,7 +80,7 @@ Kerem Bozdas
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 * https://github.com/ggerganov/whisper.cpp[ggerganov/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
-* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
 * https://github.com/jfedor2/trackbowl-mk2[jfedor2/trackbowl-mk2] - The ball is the trackball
 * https://github.com/falkTX/Carla[falkTX/Carla] - Audio plugin host
@@ -164,7 +164,7 @@ Kerem Bozdas
 * https://github.com/trufflesecurity/trufflehog[trufflesecurity/trufflehog] - Find, verify, and analyze leaked credentials
 * https://github.com/filebrowser/filebrowser[filebrowser/filebrowser] - 📂 Web File Browser
 * https://github.com/release-argus/Argus[release-argus/Argus] - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
-* https://github.com/go-vikunja/vikunja[go-vikunja/vikunja] - Mirror of vikunja from https://code.vikunja.io/api
+* https://github.com/go-vikunja/vikunja[go-vikunja/vikunja] - The to-do app to organize your life.
 * https://github.com/netbirdio/netbird[netbirdio/netbird] - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 * https://github.com/knadh/listmonk[knadh/listmonk] - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * https://github.com/mtlynch/picoshare[mtlynch/picoshare] - A minimalist, easy-to-host service for sharing images and other files
