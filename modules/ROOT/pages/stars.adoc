@@ -16,6 +16,7 @@ Kerem Bozdas
 
 == Batchfile 
 
+* https://github.com/lexiforest/curl-impersonate[lexiforest/curl-impersonate] - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 * https://github.com/Fortyseven/RA_1993[Fortyseven/RA_1993] - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
 
 == Blade 
@@ -80,7 +81,7 @@ Kerem Bozdas
 * https://github.com/wwmm/easyeffects[wwmm/easyeffects] - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 * https://github.com/ggml-org/whisper.cpp[ggml-org/whisper.cpp] - Port of OpenAI's Whisper model in C/C++
 * https://github.com/oct0xor/mgs2sos[oct0xor/mgs2sos] - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
-* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+* https://github.com/organicmaps/organicmaps[organicmaps/organicmaps] - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 * https://github.com/rui314/mold[rui314/mold] - Mold: A Modern Linker 🦠
 * https://github.com/jfedor2/trackbowl-mk2[jfedor2/trackbowl-mk2] - The ball is the trackball
 * https://github.com/falkTX/Carla[falkTX/Carla] - Audio plugin host
@@ -908,13 +909,11 @@ Kerem Bozdas
 
 == Scheme 
 
-* https://github.com/nvim-treesitter/nvim-treesitter-textobjects[nvim-treesitter/nvim-treesitter-textobjects] - 
 * https://github.com/RRethy/nvim-treesitter-textsubjects[RRethy/nvim-treesitter-textsubjects] - Location and syntax aware text objects which *do what you mean*
 
 == Shell 
 
-* https://github.com/lexiforest/curl-impersonate[lexiforest/curl-impersonate] - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
-* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+* https://github.com/ublue-os/bazzite[ublue-os/bazzite] - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 * https://github.com/indestructible-type/Jost[indestructible-type/Jost] - Jost* by indestructible type*
 * https://github.com/romkatv/powerlevel10k[romkatv/powerlevel10k] - A Zsh theme
 * https://github.com/chubin/cheat.sheets[chubin/cheat.sheets] - cheat.sh cheat sheets repository
@@ -958,6 +957,7 @@ Kerem Bozdas
 
 == Tree-sitter Query 
 
+* https://github.com/nvim-treesitter/nvim-treesitter-textobjects[nvim-treesitter/nvim-treesitter-textobjects] - 
 * https://github.com/nvim-treesitter/nvim-treesitter[nvim-treesitter/nvim-treesitter] - Nvim Treesitter configurations and abstraction layer
 
 == TypeScript 
