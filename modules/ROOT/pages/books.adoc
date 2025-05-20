@@ -40,7 +40,7 @@ Tempo Affects Health and Happiness::
 *** The *shared sense of purpose* and *strong social cohesion* reduce *isolation* and *stress*, providing a *protective effect*
 
 Speed ≠ Stress::
-** It’s not *speed alone* that causes stress; it’s *how speed is culturally framed*
+** It's not *speed alone* that causes stress; it's *how speed is culturally framed*
 ** *Collective cultures* may experience *less stress* despite a fast pace
 
 Technology Paradox::
@@ -59,7 +59,7 @@ Punctuality is Relative::
 ** Understanding these norms is part of *"time literacy"* — the ability to navigate *temporal expectations* across cultures
 
 Measuring Tempo::
-** Levine’s team assessed pace through:
+** Levine's team assessed pace through:
 *** Walking speed
 *** Transaction time at post offices
 *** Clock accuracy in 31 countries
@@ -78,3 +78,150 @@ Balance is Key::
 *** *Too much time pressure* leads to *stress*
 *** *Too little time pressure* causes *boredom*
 ** The ideal is *adaptability* — shifting tempo to *fit the context*
+
+== Why Nations Fail - Daron Acemoglu & James A. Robinson
+
+Institutions Determine National Prosperity::
+** Wealth and poverty are shaped primarily by **__political and economic institutions__**, not by geography, culture, or ignorance
+** Inclusive institutions promote growth; extractive institutions concentrate power and suppress it
+
+Geography, Culture, and Ignorance Fall Short::
+** Countries with similar geography or culture can have vastly different outcomes (e.g., North vs. South Korea)
+** Theories blaming tropical climates or Protestant ethics do not align with real-world evidence
+** Foreign aid fails to solve poverty where extractive institutions persist
+
+Institutional Structure Matters::
+** #*Inclusive institutions*# protect property, encourage innovation, and ensure broad participation
+** #*Extractive institutions*# enrich elites at the expense of society and stifle growth
+
+Critical Junctures Shape Institutional Paths::
+** Historical shocks (e.g., the Black Death, colonialism) alter institutional trajectories
+** #*Institutional drift*# occurs when similar societies diverge based on elite responses to crises
+
+England as a Case Study::
+** Political changes like the Magna Carta and Glorious Revolution empowered Parliament
+** These reforms led to property rights, better banking, tax reform, and infrastructure—fueling industrialization
+
+Virtuous Cycles from Inclusivity::
+** Inclusive institutions reinforce themselves over time
+** Gradual expansion of political rights (e.g., universal suffrage) deepens economic inclusivity
+** Media and civil society help monitor power and promote accountability
+
+Fear of Creative Destruction::
+** Elites resist innovation to protect their power (e.g., Ottoman Empire, Austria)
+** Suppressing technology and change undermines long-term development
+
+Extractive Institutions Endure::
+** Colonial-era extractive systems often survive independence (e.g., Sierra Leone)
+** Elites perpetuate these systems through limited access to power and resources
+
+Vicious Cycles of Poverty::
+** Extractive institutions maintain elite control and resist reform
+** Examples: U.S. South post-slavery, African states post-colonialism
+** The #*iron law of oligarchy*# ensures institutional continuity despite leadership changes
+
+Extractive Growth Is Unsustainable::
+** Short-term success under extractive systems is possible (e.g., Soviet Union)
+** Long-term growth falters due to lack of incentives, innovation, and elite infighting
+
+Breaking the Cycle::
+** History is not destiny—critical junctures offer opportunities to shift toward inclusivity
+** Grassroots movements (e.g., Brazil) can break vicious cycles and build inclusive institutions
+** Foreign aid must empower excluded groups, not just fix technical issues
+
+Key Takeaway::
+** Prosperity depends on the presence of **__inclusive, pluralistic institutions__**
+** Real change requires confronting and transforming entrenched extractive systems
+
+== The Structure of Scientific Revolutions - Thomas Kuhn
+
+Scientific Progress Is Not Linear::
+** Science doesn't advance through steady, incremental improvements
+** Instead, it progresses via #*revolutions*# that replace old paradigms entirely
+** New discoveries often overturn, rather than extend, previous knowledge
+
+Paradigms Govern Scientific Work::
+** A #*paradigm*# is a shared framework of accepted theories and methods
+** Paradigms guide what questions to ask, how to interpret results, and what outcomes to expect
+** Scientists typically operate within these paradigms, building on foundational assumptions
+
+Normal Science Focuses on "Mopping Up"::
+** Most scientists work to resolve minor puzzles within the paradigm
+** Experiments aim to reinforce and refine existing theories
+** Results are usually predictable, as they are shaped by established expectations
+
+Anomalies Trigger Doubt::
+** Unexpected results—#*anomalies*#—challenge the validity of a paradigm
+** As tools and methods improve, scientists detect inconsistencies that can't be ignored
+** Some anomalies are dismissed, while others prompt re-evaluation and new hypotheses
+
+Scientific Crises Precede Revolutions::
+** When anomalies accumulate and can't be reconciled, the paradigm enters crisis
+** A growing minority begins seeking alternative explanations
+** This phase marks a shift from #*normal science*# to #*extraordinary science*#
+
+Revolutions Replace Paradigms Entirely::
+** Paradigm shifts are not additive—they are #*replacements*#, not revisions
+** Old and new paradigms are incommensurable—they rely on different assumptions and logic
+** Like political revolutions, scientific revolutions are disruptive and final
+
+New Paradigms Enable New Vision::
+** After a paradigm shift, scientists literally #*see the world differently*#
+** Instruments may remain the same, but interpretation and perception transform
+** Example: Discovery of Uranus occurred once astronomers accepted the possibility of unknown planets
+
+Scientific Change Is Transformational::
+** Paradigm shifts open up entirely new fields of inquiry
+** Formerly overlooked data become meaningful under the new model
+** The process leads to a redefinition of scientific reality, not just new interpretations
+
+Key Takeaway::
+** Science advances not through slow accumulation, but through #*revolutionary paradigm shifts*#
+** New models emerge when the old ones can no longer explain reality, forever altering how we see and understand the world
+
+== The Epic of Gilgamesh
+
+A Tale Reborn from Clay::
+** Rediscovered in fragments in the 1800s, the epic is humanity's *oldest written story*
+** Composed from ancient Mesopotamian tablets in Sumerian, Akkadian, and Babylonian
+** Despite its age, the story speaks to *timeless human emotions* and existential themes
+
+Gilgamesh: A Flawed King Begins His Journey::
+** Gilgamesh, *two-thirds god and one-third man*, rules Uruk as a tyrant
+** The gods create #*Enkidu*#, a wild man, to confront and humble him
+** After an epic battle, they become inseparable friends—*a bond that transforms them both*
+
+The Quest for Glory and Consequences::
+** Gilgamesh and Enkidu venture to the #*Cedar Forest*#, slay the monster Humbaba, and anger the gods
+** As punishment, the gods sentence Enkidu to death, leading Gilgamesh into *grief and existential dread*
+** Enkidu's death marks Gilgamesh's awakening to *mortality and meaning*
+
+The Search for Eternal Life::
+** Gilgamesh sets out to find #*Utnapishtim*#, the immortal man who survived a great flood
+** His journey takes him through mythical lands, facing monsters and divine challenges
+** Utnapishtim tests him—but Gilgamesh fails to stay awake, proving *unworthy of immortality*
+
+A Final Glimmer and a Hard Lesson::
+** Utnapishtim reveals a rejuvenating plant; Gilgamesh retrieves it—only to lose it to a serpent
+** Defeated, he returns to Uruk, transformed by wisdom rather than victory
+** He sees his city anew, valuing its people, architecture, and memory more deeply
+
+The Meaning of Legacy::
+** Gilgamesh records his journey in clay—not to boast, but to *leave a lesson for future generations*
+** He realizes that #*true immortality*# lies not in living forever, but in the stories we leave behind
+** His legacy lives through *friendship, leadership, and cultural memory*
+
+Modern Echoes of an Ancient Tale::
+** The epic addresses universal themes: *grief, mortality, friendship, and purpose*
+** Influences seen in Homer's *Odyssey*, Biblical flood stories, and modern literature
+** Adapted in films, games, graphic novels—even as environmental allegory and grief metaphor
+
+Continuing Discovery and Relevance::
+** Archaeologists still uncover new tablets, expanding and refining the epic
+** Scholars debate and reinterpret passages, revealing ancient humanity's *philosophical depth*
+** The story reminds us: *humans have always grappled with life's deepest questions*
+
+Key Takeaway::
+** Gilgamesh learns that immortality isn't about defying death—it's about *how we live and what we leave behind*
+** The epic endures not just as the first story, but as *an eternal mirror* of our shared human journey
+
