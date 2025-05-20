@@ -4,7 +4,7 @@ Kerem Bozdas
 :idprefix:
 :idseparator: -
 :page-pagination:
-:description: A curated list of my GitHub stars.
+:description: A curated list of my GitHub stars
 
 == Adblock Filter List 
 

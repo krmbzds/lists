@@ -1,4 +1,5 @@
 * xref:index.adoc[Index]
+* xref:books.adoc[Books]
 * xref:stars.adoc[Stars]
 * xref:music.adoc[Music]
 * xref:reading.adoc[Reading]

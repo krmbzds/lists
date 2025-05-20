@@ -1,0 +1,80 @@
+= Books
+Kerem Bozdas
+:idprefix:
+:idseparator: -
+:page-pagination:
+:description: Sharing key insights from books
+
+== The 7 Habits of Highly Effective People - Stephen R. Covey
+
+[horizontal]
+Be Proactive:: Take responsibility for your life by choosing how you respond to external events.
+Begin with the End in Mind:: Start every task or project with a clear vision of the desired outcome.
+Put First Things First:: Prioritize your most important tasks over those that are merely urgent.
+Think Win-Win:: Seek mutually beneficial solutions in your interactions with others.
+Seek First to Understand, Then to Be Understood:: Build stronger relationships through empathetic listening and clear communication.
+Synergize:: Leverage the strengths of others through open collaboration and creative teamwork.
+Sharpen the Saw:: Renew yourself regularly through self-care, learning, and personal growth.
+
+== A Geography of Time - Robert N. Levine
+
+Time is Culturally Relative::
+** Different societies *experience* and *structure* **__time__** differently
+** Some cultures follow rigid #*clock time*# (e.g., Western cultures)
+** Other cultures rely on #*event time*# (e.g., many Latin American, African, and South Asian cultures)
+
+Cultural Tempos Vary::
+** The *pace of life* differs around the world
+** *Faster paces* (e.g., Switzerland, Japan) are linked to:
+*** industrialization, colder climates, urban environments
+** *Slower tempos* (e.g., Brazil, Mexico) are more common in:
+*** warmer regions, developing countries
+
+Tempo Affects Health and Happiness::
+** *Fast-paced cultures* tend to have *higher rates of heart disease*
+** *Fast-paced cultures* also report *higher happiness* due to:
+*** productivity, purpose, a sense of control
+** *Japan defies the trend*:
+*** Despite a fast-paced work environment, Japan maintains *low rates of coronary heart disease*
+*** This is partly due to *collectivist cultural values*, where work is seen as a *duty to the group*, not individual ambition
+*** The *shared sense of purpose* and *strong social cohesion* reduce *isolation* and *stress*, providing a *protective effect*
+
+Speed ≠ Stress::
+** It’s not *speed alone* that causes stress; it’s *how speed is culturally framed*
+** *Collective cultures* may experience *less stress* despite a fast pace
+
+Technology Paradox::
+** Innovations meant to "*save time*" often *increase pressure* to do more
+** These advancements raise *expectations for productivity*, leading to:
+*** Feelings of constant busyness
+*** A lack of leisure
+
+Power & Waiting::
+** *Time* is a *social signal*
+** *Powerful people wait less*, and *making others wait* can signal *status*
+** Conversely, *giving someone your time* can be a sign of *respect*
+
+Punctuality is Relative::
+** In some places, *lateness is normal* and *socially accepted*
+** Understanding these norms is part of *"time literacy"* — the ability to navigate *temporal expectations* across cultures
+
+Measuring Tempo::
+** Levine’s team assessed pace through:
+*** Walking speed
+*** Transaction time at post offices
+*** Clock accuracy in 31 countries
+** *Findings challenged stereotypes*:
+*** Italy, often romanticized for its relaxed lifestyle, ranked among the *fastest cultures*
+*** Despite limited hours at some institutions (e.g., post offices), Italians *work quickly*
+*** *Fast work* and a *slow lifestyle* can *coexist*
+
+Regional US Differences::
+** Northeast cities (e.g., Boston, Buffalo, NYC) are the fastest
+** California cities are the slowest
+** *Speech rate*, *walking speed*, and *efficiency* all track *regional cultural patterns*
+
+Balance is Key::
+** *Psychological research* shows that:
+*** *Too much time pressure* leads to *stress*
+*** *Too little time pressure* causes *boredom*
+** The ideal is *adaptability* — shifting tempo to *fit the context*

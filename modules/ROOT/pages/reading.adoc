@@ -3,7 +3,7 @@ Kerem Bozdas
 :idprefix:
 :idseparator: -
 :page-pagination:
-:description: Sharing interesting reads.
+:description: Sharing interesting reads
 
 == Blog Posts
 
