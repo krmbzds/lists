@@ -16,3 +16,7 @@ Kerem Bozdas
 === Technical
 
 * https://jvns.ca/blog/2024/11/26/terminal-rules/["Rules" that terminal programs follow]
+
+== Interesting Websites
+
+* https://whatisnuclear.com/[What is Nuclear? - Learn about nuclear power]
