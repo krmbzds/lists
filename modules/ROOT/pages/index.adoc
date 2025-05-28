@@ -6,6 +6,7 @@ Kerem Bozdas
 :description: {page-component-title} Index
 
 .Here's the list of lists:
+* xref:books.adoc[Books]
 * xref:stars.adoc[Stars]
 * xref:music.adoc[Music]
 * xref:reading.adoc[Reading]
