@@ -20,3 +20,4 @@ Kerem Bozdas
 == Interesting Websites
 
 * https://whatisnuclear.com/[What is Nuclear? - Learn about nuclear power]
+* https://book.leveldesignbook.com[The Level Design Book - Level design knowledge for 3D video games]
